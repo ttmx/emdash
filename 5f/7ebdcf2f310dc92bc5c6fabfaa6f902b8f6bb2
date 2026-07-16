@@ -1,0 +1,23 @@
+demos/cloudflare/astro.config.mjs
+  s_2ab38282234147::t_770829e02de8ec 13,76
+demos/cloudflare/src/pages/search.astro
+  s_2ab38282234147::t_5a69e83f7c6f11 8-35,58-64,75,77-83,85,146-150,158,161,163-165,167-168,171-172,175-178,181-185,188-192
+demos/cloudflare/wrangler.jsonc
+  s_2ab38282234147::t_72e61ec9193573 31-34,45-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5f7ebdcf2f310dc92bc5c6fabfaa6f902b8f6bb2",
+  "prompts": {},
+  "sessions": {
+    "s_2ab38282234147": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f6a16-a0ab-7195-bd79-81b43305af53",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

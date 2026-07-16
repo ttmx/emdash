@@ -1,0 +1,19 @@
+demos/cloudflare/src/layouts/Base.astro
+  s_2ab38282234147::t_a4ee0d09f05c78 2,10,12,43,50-54,106-111,113-120,149-155,177,350-511,524-526,528-537,539-543,545-547,549-553,555-565,567-570,572-575,612-618,643,645,649,652-752,790-794,948-958,998-1011
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "89c6b560016eb6dafae202d6a78fabcc8239bd96",
+  "prompts": {},
+  "sessions": {
+    "s_2ab38282234147": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f6a16-a0ab-7195-bd79-81b43305af53",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

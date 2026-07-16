@@ -1,0 +1,21 @@
+packages/cloudflare/src/plugins/ai-search-admin.tsx
+  s_c2c84895310bb8::t_8bf69089ee5a90 22-23,98-100,404-408,421-427,430-434,437-441,460-464,488
+packages/cloudflare/tests/plugins/ai-search.test.ts
+  s_c2c84895310bb8::t_94f430ba410af2 3,12-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f70f885383f83d633e7a843bd2e297926e16c8d3",
+  "prompts": {},
+  "sessions": {
+    "s_c2c84895310bb8": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f6b6f-7dcd-7fc4-84c9-d6ffae06cb6c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

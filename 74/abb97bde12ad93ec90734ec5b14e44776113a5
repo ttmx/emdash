@@ -1,0 +1,19 @@
+.changeset/ai-search-plugin.md
+  s_2ab38282234147::t_526b5e219a4b59 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "74abb97bde12ad93ec90734ec5b14e44776113a5",
+  "prompts": {},
+  "sessions": {
+    "s_2ab38282234147": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f6a16-a0ab-7195-bd79-81b43305af53",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

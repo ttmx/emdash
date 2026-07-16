@@ -1,0 +1,19 @@
+packages/cloudflare/src/plugins/ai-search.ts
+  s_2ab38282234147::t_3b34f27a7b1e20 47,1163-1248
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b01b8109c4ba4e14e7ac637a2212da742ac3870c",
+  "prompts": {},
+  "sessions": {
+    "s_2ab38282234147": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f6a16-a0ab-7195-bd79-81b43305af53",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

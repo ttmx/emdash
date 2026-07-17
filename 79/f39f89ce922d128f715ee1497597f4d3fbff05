@@ -1,0 +1,35 @@
+demos/cloudflare/src/pages/api/ai-search/search.ts
+  s_c2c84895310bb8::t_d287710bc16e58 21,60-65,70-71
+packages/cloudflare/tests/plugins/ai-search-indexing.test.ts
+  s_c2c84895310bb8::t_0727ebe091d5da 1-449
+pnpm-lock.yaml
+  s_c2c84895310bb8::t_0af6c00e382cac 1535-1537
+lingui.config.ts
+  s_194506b1eab3b6::t_9bfe13df5cfcd9 14
+packages/cloudflare/src/plugins/ai-search-admin.tsx
+  s_194506b1eab3b6::t_29315a9c00fdd0 24-25,149,158,219,226,235,267,306,314,317,319-320,327,332,338-339,346,348,354,373,383,393,398,407,410-418,424,427,433-436,445,456,468,470-472,477,484-485,490,495-496,501,507,515,522,524,528
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "79f39f89ce922d128f715ee1497597f4d3fbff05",
+  "prompts": {},
+  "sessions": {
+    "s_194506b1eab3b6": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f6fff-370f-7e72-b77f-ba6e0bd2e8ef",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    },
+    "s_c2c84895310bb8": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f6b6f-7dcd-7fc4-84c9-d6ffae06cb6c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

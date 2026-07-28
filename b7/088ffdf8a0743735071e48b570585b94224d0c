@@ -1,0 +1,21 @@
+demos/cloudflare/astro.config.mjs
+  s_2ab38282234147::t_770829e02de8ec 13
+demos/cloudflare/wrangler.jsonc
+  s_2ab38282234147::t_72e61ec9193573 31-34,45-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b7088ffdf8a0743735071e48b570585b94224d0c",
+  "prompts": {},
+  "sessions": {
+    "s_2ab38282234147": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f6a16-a0ab-7195-bd79-81b43305af53",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

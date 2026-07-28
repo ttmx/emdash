@@ -1,0 +1,28 @@
+packages/cloudflare/src/plugins/ai-search-admin.tsx
+  s_2ab38282234147::t_b9dc9584c23cb1 8-499,501-502
+  s_2ab38282234147::t_731506e4556b69 1-7,500,503-510
+packages/cloudflare/src/plugins/ai-search.ts
+  s_2ab38282234147::t_bf538cbcb767c9 62-68,99-132,156-459,493-508,590-789,895,930-1151,1155,1158,1249-1285
+  s_2ab38282234147::t_f3358a4c61944e 1,33,60,69-75,133-138,491,509-577,1320
+  s_2ab38282234147::t_73cea796fb95f1 76-98,460-486,583,790,792-888,899-928,1159-1161,1286-1317
+  s_2ab38282234147::t_3b34f27a7b1e20 47,1163-1248
+  s_2ab38282234147::t_130050de3e1f1d 2-32,34-46,48-59,61,139-155,487-490,492,578-582,584-589,791,889-894,896-898,929,1152-1154,1156-1157,1162,1318-1319,1321-1322
+packages/cloudflare/package.json
+  s_2ab38282234147::t_fafa5f82cba02b 68-76,115,118-119,124-129,137-138,140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e92f315e029a23f580dd4556aaaf5f885daae701",
+  "prompts": {},
+  "sessions": {
+    "s_2ab38282234147": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019f6a16-a0ab-7195-bd79-81b43305af53",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

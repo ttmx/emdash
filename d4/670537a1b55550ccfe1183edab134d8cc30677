@@ -1,0 +1,99 @@
+packages/admin/src/components/MediaLibrary.tsx
+  s_dcd7921d2054cc::t_196fe4815f580b 321-325,448,698-699,832,834-836,889,891
+packages/admin/src/components/RegistryPluginDetail.tsx
+  s_dcd7921d2054cc::t_5df6d8527ad812 447-449
+packages/admin/src/components/SectionEditor.tsx
+  s_dcd7921d2054cc::t_ac10278148bb09 79,183-185
+packages/admin/TYPOGRAPHY.md
+  s_6470bb7a1f2241::t_ab35355df9db1d 31,47
+packages/admin/src/components/ContentList.tsx
+  s_6470bb7a1f2241::t_c8e8a17b020263 325
+packages/admin/src/components/ContentTypeEditor.tsx
+  s_6470bb7a1f2241::t_9e383dffb65c16 354
+packages/admin/src/components/ContentTypeList.tsx
+  s_6470bb7a1f2241::t_785edbbad52bdb 40-43
+packages/admin/src/components/Dashboard.tsx
+  s_6470bb7a1f2241::t_3df8bc71ccbcc5 48
+packages/admin/src/components/MarketplaceBrowse.tsx
+  s_6470bb7a1f2241::t_9ad4b66386fc66 87-90
+packages/admin/src/components/MarketplacePluginDetail.tsx
+  s_dcd7921d2054cc::t_b03096cfa4c814 162
+packages/admin/src/components/MenuEditor.tsx
+  s_dcd7921d2054cc::t_18377b525fa3a3 368-369
+packages/admin/src/components/MenuList.tsx
+  s_dcd7921d2054cc::t_ab3e495deb7d8b 104-107
+packages/admin/src/components/PluginManager.tsx
+  s_dcd7921d2054cc::t_4431666bdfa616 139,148,156-162
+packages/admin/src/components/PluginSettings.tsx
+  s_dcd7921d2054cc::t_72989a724d4d82 128,142,170
+packages/admin/src/components/Redirects.tsx
+  s_dcd7921d2054cc::t_485a72fec6301a 359-362
+packages/admin/src/components/RegistryBrowse.tsx
+  s_6470bb7a1f2241::t_ff31fc81a5d83e 71-74
+packages/admin/src/components/Sections.tsx
+  s_dcd7921d2054cc::t_85f7bc3ae1349a 134-135
+packages/admin/src/components/Settings.tsx
+  s_6470bb7a1f2241::t_5f02f6bb123503 63
+packages/admin/src/components/Shell.tsx
+  s_6470bb7a1f2241::t_2659423221c707 86
+packages/admin/src/components/TaxonomyManager.tsx
+  s_dcd7921d2054cc::t_34b46856f27896 816-819
+packages/admin/src/components/ThemeMarketplaceBrowse.tsx
+  s_6470bb7a1f2241::t_80edc9201ab018 77-78
+packages/admin/src/components/ThemeMarketplaceDetail.tsx
+  s_dcd7921d2054cc::t_2f7015a3cf611a 124
+packages/admin/src/components/Widgets.tsx
+  s_dcd7921d2054cc::t_c54b4ec7752875 388-391
+packages/admin/src/components/WordPressImport.tsx
+  s_dcd7921d2054cc::t_4b42a456d10294 691-692
+packages/admin/src/components/comments/CommentInbox.tsx
+  s_6470bb7a1f2241::t_ba54b3f12e72dd 147
+packages/admin/src/components/settings/AllowedDomainsSettings.tsx
+  s_dcd7921d2054cc::t_b38d64efce4111 152
+packages/admin/src/components/settings/ApiTokenSettings.tsx
+  s_dcd7921d2054cc::t_91f98859c62885 193-196
+packages/admin/src/components/settings/BackupSettings.tsx
+  s_dcd7921d2054cc::t_f5a5a50e1f69d4 133,148
+packages/admin/src/components/settings/EmailSettings.tsx
+  s_dcd7921d2054cc::t_5a75238e17cd84 77,92
+packages/admin/src/components/settings/GeneralSettings.tsx
+  s_6470bb7a1f2241::t_17dfa21c48a14a 96,124
+packages/admin/src/components/settings/SecuritySettings.tsx
+  s_6470bb7a1f2241::t_da29ed9c095eab 95
+packages/admin/src/components/settings/SeoSettings.tsx
+  s_6470bb7a1f2241::t_eb14f50aae70e6 90,115
+packages/admin/src/components/settings/SocialSettings.tsx
+  s_6470bb7a1f2241::t_9ee0e402bc4aa6 70,95
+packages/admin/src/components/users/UserList.tsx
+  s_6470bb7a1f2241::t_c29032c8e993c6 54
+packages/admin/src/router.tsx
+  s_dcd7921d2054cc::t_60553c4d44ca27 1488-1489,2177-2178,2192-2193
+packages/admin/src/routes/byline-schema.tsx
+  s_6470bb7a1f2241::t_6461fbb462b282 174-175,218-219
+packages/admin/src/routes/bylines.tsx
+  s_dcd7921d2054cc::t_93890bd77f0470 375
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d4670537a1b55550ccfe1183edab134d8cc30677",
+  "prompts": {},
+  "sessions": {
+    "s_6470bb7a1f2241": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f9449-6fae-7b73-89a3-410a8c9563cf",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_dcd7921d2054cc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f93c5-3395-7072-a279-cf1f714c19d2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

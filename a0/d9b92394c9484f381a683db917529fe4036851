@@ -1,0 +1,109 @@
+.changeset/calm-dashboard-type.md
+  s_dcd7921d2054cc::t_828588641ebd04 1-5
+.changeset/calm-owls-read.md
+  s_dcd7921d2054cc::t_3e2106839b2c1b 1-5
+e2e/tests/accessibility.spec.ts
+  s_dcd7921d2054cc::t_6170c2f69d6258 61-147,215-263
+packages/admin/TYPOGRAPHY.md
+  s_dcd7921d2054cc::t_05d41cb5563aca 1-210
+packages/admin/src/components/ContentList.tsx
+  s_dd4e70a8c1bfcd::t_1f0f84178ed7c0 325
+packages/admin/src/components/ContentTypeEditor.tsx
+  s_dd4e70a8c1bfcd::t_03b9ce4d112703 354
+packages/admin/src/components/ContentTypeList.tsx
+  s_dd4e70a8c1bfcd::t_f154f155b78def 40-43
+packages/admin/src/components/Dashboard.tsx
+  s_dd4e70a8c1bfcd::t_f3ff6d5e13cdfb 4,12,41,81-92,129-131,133-136,150,182-187,197,201,220,225-227,240-242,284,299,304-306,318,321,325-328,414,416,422
+packages/admin/src/components/EditorHeader.tsx
+  s_dd4e70a8c1bfcd::t_43b72bbcdf7766 45
+packages/admin/src/components/MarketplaceBrowse.tsx
+  s_dd4e70a8c1bfcd::t_a9085ab0151b98 87-90
+packages/admin/src/components/MarketplacePluginDetail.tsx
+  s_dd4e70a8c1bfcd::t_3f25e5831b7139 162
+packages/admin/src/components/MediaLibrary.tsx
+  s_dcd7921d2054cc::t_85813bb42737ba 321,444,694-695,828,830-832,885,887
+packages/admin/src/components/MenuEditor.tsx
+  s_dd4e70a8c1bfcd::t_1799b35faf9a9e 368-369
+packages/admin/src/components/MenuList.tsx
+  s_dd4e70a8c1bfcd::t_7b1ecb4c865897 104-107
+packages/admin/src/components/PluginManager.tsx
+  s_dd4e70a8c1bfcd::t_44cb15dcc6d438 139,148,156-163
+packages/admin/src/components/PluginSettings.tsx
+  s_dd4e70a8c1bfcd::t_c21783338ef03f 128,142,170
+packages/admin/src/components/Redirects.tsx
+  s_dd4e70a8c1bfcd::t_43063df0d8fa14 359-362
+packages/admin/src/components/RegistryBrowse.tsx
+  s_dd4e70a8c1bfcd::t_2eb41fe3c62378 71-74
+packages/admin/src/components/RegistryPluginDetail.tsx
+  s_dcd7921d2054cc::t_fce177de5639d2 447
+packages/admin/src/components/SectionEditor.tsx
+  s_dd4e70a8c1bfcd::t_4690e914c0a027 79,183
+packages/admin/src/components/Sections.tsx
+  s_dd4e70a8c1bfcd::t_ae7bcfc639ad3c 134-135
+packages/admin/src/components/Settings.tsx
+  s_dd4e70a8c1bfcd::t_53769671ddfb3d 63
+packages/admin/src/components/TaxonomyManager.tsx
+  s_dcd7921d2054cc::t_98f873c956acdf 816-817
+packages/admin/src/components/ThemeMarketplaceBrowse.tsx
+  s_dd4e70a8c1bfcd::t_71718aefd457d8 77-78
+packages/admin/src/components/ThemeMarketplaceDetail.tsx
+  s_dd4e70a8c1bfcd::t_396c67818b087f 124
+packages/admin/src/components/Widgets.tsx
+  s_dd4e70a8c1bfcd::t_308e85ac375e3e 388-391
+packages/admin/src/components/WordPressImport.tsx
+  s_dd4e70a8c1bfcd::t_359264b36d2549 691-692,1321,1327,1333
+packages/admin/src/components/comments/CommentInbox.tsx
+  s_dd4e70a8c1bfcd::t_152fbe2801bbdb 147,149
+packages/admin/src/components/settings/AllowedDomainsSettings.tsx
+  s_dd4e70a8c1bfcd::t_f00bd7fefd395b 152
+packages/admin/src/components/settings/ApiTokenSettings.tsx
+  s_dcd7921d2054cc::t_f4fcfbf5b13b2a 193-194
+packages/admin/src/components/settings/BackupSettings.tsx
+  s_dd4e70a8c1bfcd::t_14da9be9c238d5 133,148
+packages/admin/src/components/settings/EmailSettings.tsx
+  s_dd4e70a8c1bfcd::t_fc97eb65b6c4aa 77,92
+packages/admin/src/components/settings/GeneralSettings.tsx
+  s_dd4e70a8c1bfcd::t_58ed66fd6f14fd 96,124
+packages/admin/src/components/settings/SecuritySettings.tsx
+  s_dd4e70a8c1bfcd::t_c67bb917e5a617 95
+packages/admin/src/components/settings/SeoSettings.tsx
+  s_dd4e70a8c1bfcd::t_2cf752f4d61ec7 90,115
+packages/admin/src/components/settings/SocialSettings.tsx
+  s_dd4e70a8c1bfcd::t_71c64b21fc9d09 70,95
+packages/admin/src/components/users/UserList.tsx
+  s_dd4e70a8c1bfcd::t_3b593e2065dfca 54
+packages/admin/src/router.tsx
+  s_dd4e70a8c1bfcd::t_a3e222582ec46f 1485-1486,2174-2175,2189-2190
+packages/admin/src/routes/byline-schema.tsx
+  s_dd4e70a8c1bfcd::t_766630d20b4085 174-175,218-219
+packages/admin/src/routes/bylines.tsx
+  s_dd4e70a8c1bfcd::t_e6459388707ebc 375
+packages/admin/src/styles.css
+  s_dd4e70a8c1bfcd::t_2bc9534591172b 60,111-112
+packages/admin/tests/components/Dashboard.test.tsx
+  s_dcd7921d2054cc::t_b2d4be8cfd3a3e 107-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a0d9b92394c9484f381a683db917529fe4036851",
+  "prompts": {},
+  "sessions": {
+    "s_dcd7921d2054cc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f93c5-3395-7072-a279-cf1f714c19d2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_dd4e70a8c1bfcd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f9f29-cffa-7ac1-a690-410d41150e7d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

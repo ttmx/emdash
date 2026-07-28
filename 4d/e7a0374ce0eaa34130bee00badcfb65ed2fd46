@@ -1,0 +1,19 @@
+packages/admin/src/components/WelcomeModal.tsx
+  s_6550e4daf7cdc9::t_61ccc4717c1cad 144-150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4de7a0374ce0eaa34130bee00badcfb65ed2fd46",
+  "prompts": {},
+  "sessions": {
+    "s_6550e4daf7cdc9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa35a-e60d-7a91-bee2-f51952f5ee6a",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

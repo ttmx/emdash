@@ -1,0 +1,19 @@
+packages/core/tests/repro/heading-slug-id.render.test.ts
+  s_c45770864f920b::t_fcbf82205e815b 1-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e76787fd515ce976b41ff22a408ceb373735629b",
+  "prompts": {},
+  "sessions": {
+    "s_c45770864f920b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05bc274fbffe2qXQ8thTvOpoIr",
+        "model": "grok-4.5"
+      },
+      "human_author": "scottbuscemi <sbuscemi@cloudflare.com>"
+    }
+  }
+}

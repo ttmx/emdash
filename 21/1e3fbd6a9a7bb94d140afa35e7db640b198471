@@ -1,0 +1,19 @@
+.changeset/refine-welcome-modal-layout.md
+  s_2020aaebda232c::t_37a3c0184a6db3 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "211e3fbd6a9a7bb94d140afa35e7db640b198471",
+  "prompts": {},
+  "sessions": {
+    "s_2020aaebda232c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05b8fe8ecffeMKn5vhfrblafEn",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

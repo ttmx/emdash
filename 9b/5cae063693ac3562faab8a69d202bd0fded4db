@@ -1,0 +1,23 @@
+packages/cloudflare/src/plugins/ai-search.ts
+  s_f074a989b2935d::t_b8db3d95a9e541 717,850
+packages/cloudflare/tests/plugins/ai-search-indexing.test.ts
+  s_f074a989b2935d::t_f46a082c349e3f 75,92,118-149,373-395
+packages/core/src/plugins/context.ts
+  s_f074a989b2935d::t_ea968e150c6454 20,900
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9b5cae063693ac3562faab8a69d202bd0fded4db",
+  "prompts": {},
+  "sessions": {
+    "s_f074a989b2935d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0810fcfecffexSYPCXj4nuYMC8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

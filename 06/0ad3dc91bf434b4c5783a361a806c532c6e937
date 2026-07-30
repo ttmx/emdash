@@ -1,0 +1,27 @@
+packages/admin/tests/editor/block-menu.test.tsx
+  s_8b68720076931f::t_a3a5fcf86cc599 183-185,188-191,225-240
+.changeset/polish-block-actions-menu.md
+  s_8b68720076931f::t_aa9c433a2f9213 1-5
+packages/admin/src/components/editor/BlockMenu.tsx
+  s_8b68720076931f::t_8ebe24ebedc85b 10,13,39,157,159-160,162,201-212,215-238,240-297
+packages/admin/src/components/editor/DragHandleWrapper.tsx
+  s_8b68720076931f::t_2cb45100a193b2 189-190
+packages/admin/src/styles.css
+  s_8b68720076931f::t_4c0afff234fe2f 149-151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "060ad3dc91bf434b4c5783a361a806c532c6e937",
+  "prompts": {},
+  "sessions": {
+    "s_8b68720076931f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9ad-788e-7341-ae17-ef4c24c07aa2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+packages/core/src/api/handlers/workers-cache.ts
+  s_238d28c5233f77::t_e30855fe01692e 1-161
+packages/core/tests/unit/api/workers-cache-handlers.test.ts
+  s_238d28c5233f77::t_93c11fbb2402fb 1-78
+packages/workerd/src/sandbox/wrapper.ts
+  s_238d28c5233f77::t_1ba4da4a97355b 42,329-330
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0268e744416294ea3401a0969834d1665af55a2a",
+  "prompts": {},
+  "sessions": {
+    "s_238d28c5233f77": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_050fbec5affeJ5ZbIEUX4HGzSd",
+        "model": "grok-4.5"
+      },
+      "human_author": "scottbuscemi <sbuscemi@cloudflare.com>"
+    }
+  }
+}

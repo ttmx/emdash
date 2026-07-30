@@ -1,0 +1,25 @@
+packages/admin/src/components/editor/BlockMenu.tsx
+  s_8b68720076931f::t_68674bcb5c367e 153-154,160-166,221-223
+packages/admin/src/components/editor/DragHandleWrapper.tsx
+  s_8b68720076931f::t_643b5789703c52 112-114,203
+packages/admin/tests/editor/DragHandleWrapper.interactions.test.tsx
+  s_8b68720076931f::t_859bdda6377720 15-16,70-83,88-89,97-98,218-263
+packages/admin/tests/editor/block-menu.test.tsx
+  s_8b68720076931f::t_685e1d29663e39 171-195,563-580
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d9e4f6da8304daec05b27f862355eda5091fc4b2",
+  "prompts": {},
+  "sessions": {
+    "s_8b68720076931f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9ad-788e-7341-ae17-ef4c24c07aa2",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

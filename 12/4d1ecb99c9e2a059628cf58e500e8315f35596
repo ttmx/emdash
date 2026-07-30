@@ -1,0 +1,41 @@
+packages/core/src/astro/routes/api/media/upload-url.ts
+  s_e0f6a070d9f72a::t_71287d361c2fc6 78,95
+packages/core/tests/integration/astro/media-confirm-placeholder.test.ts
+  s_e0f6a070d9f72a::t_efa73364151945 73,139-173
+packages/core/tests/integration/astro/media-stream-upload.test.ts
+  s_e0f6a070d9f72a::t_247e0fcce3231c 173-211,618-667
+.changeset/stream-media-uploads.md
+  s_49a2ab6e863f68::t_0c8ae9987444a8 6
+packages/admin/src/lib/api/media.ts
+  s_49a2ab6e863f68::t_8ed149958f3947 118-126
+packages/admin/tests/lib/media-upload.test.ts
+  s_49a2ab6e863f68::t_063333eeb64c22 109-152
+packages/core/src/astro/routes/api/media/[id]/confirm.ts
+  s_49a2ab6e863f68::t_97b9dc67d9487d 61-71,73-85
+packages/core/src/astro/routes/api/media/[id]/upload.ts
+  s_e0f6a070d9f72a::t_c63d1b567043fe 248-250
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "124d1ecb99c9e2a059628cf58e500e8315f35596",
+  "prompts": {},
+  "sessions": {
+    "s_49a2ab6e863f68": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9b5-e9b6-73d0-856e-3a8df1274502",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_e0f6a070d9f72a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9ab-2cd5-71e2-b5c3-20cfd881049e",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

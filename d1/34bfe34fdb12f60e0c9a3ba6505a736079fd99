@@ -1,0 +1,71 @@
+packages/admin/src/components/ContentList.tsx
+  s_2020aaebda232c::t_15d1733592cdd5 554,886,982,1099
+packages/admin/src/components/ContentTypeList.tsx
+  s_2020aaebda232c::t_6de2ba59ce1a87 123,190
+packages/admin/src/components/DeviceAuthorizePage.tsx
+  s_2020aaebda232c::t_a2c88c2543985b 174
+packages/admin/src/components/InviteAcceptPage.tsx
+  s_2020aaebda232c::t_24aa44c7a94f2b 40
+packages/admin/src/components/LocaleSwitcher.tsx
+  s_2020aaebda232c::t_121a77a6d62490 111
+packages/admin/src/components/LoginPage.tsx
+  s_2020aaebda232c::t_5ee2822ba5a9f2 87,336
+packages/admin/src/components/MarketplaceBrowse.tsx
+  s_2020aaebda232c::t_378596e11b2b57 252,269,309
+packages/admin/src/components/MarketplacePluginDetail.tsx
+  s_2020aaebda232c::t_0480f254ce6d9f 125,156,165,222,233,293
+packages/admin/src/components/MediaLibrary.tsx
+  s_2020aaebda232c::t_da7cbf2c3adcba 673
+packages/admin/src/components/MenuEditor.tsx
+  s_2020aaebda232c::t_07f43bcab73d28 517
+packages/admin/src/components/PluginFieldErrorBoundary.tsx
+  s_2020aaebda232c::t_a2c4d07e426891 41
+packages/admin/src/components/PluginManager.tsx
+  s_2020aaebda232c::t_2787b9d33f3820 205,373,386
+packages/admin/src/components/PortableTextEditor.tsx
+  s_2020aaebda232c::t_0e986f6f8f6712 2542
+packages/admin/src/components/Redirects.tsx
+  s_2020aaebda232c::t_a742880b05c99c 376,393
+packages/admin/src/components/RegistryBrowse.tsx
+  s_2020aaebda232c::t_61a3839b583124 188
+packages/admin/src/components/RegistryPluginDetail.tsx
+  s_2020aaebda232c::t_599d99bc0c05a2 465,490,699,705,727,736
+packages/admin/src/components/RevisionHistory.tsx
+  s_2020aaebda232c::t_90c906131b460e 364
+packages/admin/src/components/SignupPage.tsx
+  s_2020aaebda232c::t_08dd7b2894c775 116,440
+packages/admin/src/components/ThemeMarketplaceBrowse.tsx
+  s_2020aaebda232c::t_37a76768d4be3b 220,225
+packages/admin/src/components/ThemeMarketplaceDetail.tsx
+  s_2020aaebda232c::t_78ac694a7f0268 120,127,217,228
+packages/admin/src/components/TranslationsPanel.tsx
+  s_2020aaebda232c::t_f7197e3f3df777 83
+packages/admin/src/components/WelcomeModal.tsx
+  s_2020aaebda232c::t_41c9bc43d192e5 134
+packages/admin/src/components/Widgets.tsx
+  s_2020aaebda232c::t_73ee99d78d9af7 696
+packages/admin/src/components/WordPressImport.tsx
+  s_2020aaebda232c::t_4a7d2d4c83846e 1034,1079,1205,1518,1532,1872,2013,2057,2089,2451
+packages/admin/src/components/users/UserList.tsx
+  s_2020aaebda232c::t_2fbd93a03b669d 123,137
+packages/admin/src/router.tsx
+  s_2020aaebda232c::t_d16b5fb0850f54 2193
+packages/admin/src/routes/users.tsx
+  s_2020aaebda232c::t_c24f823abb3a00 208
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d134bfe34fdb12f60e0c9a3ba6505a736079fd99",
+  "prompts": {},
+  "sessions": {
+    "s_2020aaebda232c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05b8fe8ecffeMKn5vhfrblafEn",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+packages/core/src/api/openapi/document.ts
+  s_f190132b66109c::t_3317fc1c413339 831
+packages/core/src/database/repositories/media.ts
+  s_e0f6a070d9f72a::t_dba515904ecace 280,292,296-301,309-312,315-316
+packages/core/tests/integration/astro/media-stream-upload.test.ts
+  s_e0f6a070d9f72a::t_73a34daff05948 175,645-792
+packages/core/tests/integration/database/media-upload-publish.test.ts
+  s_f190132b66109c::t_b91f8b45963d78 58-83
+packages/core/tests/unit/api/openapi.test.ts
+  s_f190132b66109c::t_74cdd05ed91b3f 40
+packages/core/src/astro/routes/api/media/[id]/confirm.ts
+  s_e0f6a070d9f72a::t_c5ea74896ff9d8 59-73,166-167,225-236,239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b9a022a0eb7506b17d8c28ad4c2c3120134bd2af",
+  "prompts": {},
+  "sessions": {
+    "s_e0f6a070d9f72a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9ab-2cd5-71e2-b5c3-20cfd881049e",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_f190132b66109c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb27b-c757-7ba3-ac26-ca1d8f301cc2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

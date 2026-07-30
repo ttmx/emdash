@@ -1,0 +1,19 @@
+packages/core/src/plugins/context.ts
+  s_238d28c5233f77::t_07f9e260106a1c 11,40,954-977,1190-1195,1213
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0a05131351a3dbf531ad6680c64add5ddb036f3b",
+  "prompts": {},
+  "sessions": {
+    "s_238d28c5233f77": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_050fbec5affeJ5ZbIEUX4HGzSd",
+        "model": "grok-4.5"
+      },
+      "human_author": "scottbuscemi <sbuscemi@cloudflare.com>"
+    }
+  }
+}

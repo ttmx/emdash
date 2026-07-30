@@ -1,0 +1,19 @@
+packages/core/src/api/handlers/workers-cache.ts
+  s_238d28c5233f77::t_81a107b43466d4 2,4-9,15,20,22,26-30,34-35,37-40,43-51,53,55,59,62,65,79-80,83,86,95,97-98,103,123-145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a865282496caa960708e2a0b2fca18dcaf2ac09a",
+  "prompts": {},
+  "sessions": {
+    "s_238d28c5233f77": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_050fbec5affeJ5ZbIEUX4HGzSd",
+        "model": "grok-4.5"
+      },
+      "human_author": "scottbuscemi <sbuscemi@cloudflare.com>"
+    }
+  }
+}

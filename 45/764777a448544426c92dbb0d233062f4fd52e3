@@ -1,0 +1,23 @@
+.changeset/fix-table-block-delete.md
+  s_e0f6a070d9f72a::t_0789809cb8d5d1 1-5
+packages/admin/src/components/PortableTextEditor.tsx
+  s_e0f6a070d9f72a::t_c698aa400e3ba8 2566
+packages/admin/tests/editor/block-menu.test.tsx
+  s_e0f6a070d9f72a::t_e350ac9e979464 420-449
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "45764777a448544426c92dbb0d233062f4fd52e3",
+  "prompts": {},
+  "sessions": {
+    "s_e0f6a070d9f72a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9ab-2cd5-71e2-b5c3-20cfd881049e",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

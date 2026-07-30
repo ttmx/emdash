@@ -1,0 +1,19 @@
+packages/admin/tests/router.test.tsx
+  s_49a2ab6e863f68::t_19bfe22812c035 222-225,232,242-244
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e07950f82222bbae7e46e5449073decd76c2b4f7",
+  "prompts": {},
+  "sessions": {
+    "s_49a2ab6e863f68": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9b5-e9b6-73d0-856e-3a8df1274502",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

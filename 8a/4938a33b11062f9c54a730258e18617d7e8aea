@@ -1,0 +1,19 @@
+packages/admin/src/components/WelcomeModal.tsx
+  s_2020aaebda232c::t_25949e291391cf 11,133-136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8a4938a33b11062f9c54a730258e18617d7e8aea",
+  "prompts": {},
+  "sessions": {
+    "s_2020aaebda232c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05b8fe8ecffeMKn5vhfrblafEn",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

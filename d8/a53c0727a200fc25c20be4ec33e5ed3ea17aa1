@@ -1,0 +1,23 @@
+packages/core/src/astro/middleware.ts
+  s_893c9cfaffae31::t_3c6344b2ee417c 50,350,359,653,660,863,870
+packages/core/src/index.ts
+  s_893c9cfaffae31::t_da9f77ffef4168 202
+packages/core/src/virtual-modules.d.ts
+  s_893c9cfaffae31::t_fe8176c558f013 62-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d8a53c0727a200fc25c20be4ec33e5ed3ea17aa1",
+  "prompts": {},
+  "sessions": {
+    "s_893c9cfaffae31": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0501dfb90ffenIkAU1tBqJajEX",
+        "model": "grok-4.5"
+      },
+      "human_author": "scottbuscemi <sbuscemi@cloudflare.com>"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+.changeset/polish-block-actions-menu.md
+  s_e0f6a070d9f72a::t_ed8837a2931cf3 5
+packages/admin/tests/editor/DragHandleWrapper.interactions.test.tsx
+  s_8b68720076931f::t_64de8d52079053 3,5,10-23,28,35-64,68-74,78-83,158-200
+packages/admin/src/components/editor/BlockMenu.tsx
+  s_8b68720076931f::t_a3baf46762dba1 215-218
+packages/admin/src/components/editor/DragHandleWrapper.tsx
+  s_8b68720076931f::t_52720f22f33711 122,125
+packages/admin/tests/editor/block-menu.test.tsx
+  s_8b68720076931f::t_f53aedb101a358 506-537
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6bf9eb13b6f7e0cf90f96a2e348a0b26a275f802",
+  "prompts": {},
+  "sessions": {
+    "s_8b68720076931f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9ad-788e-7341-ae17-ef4c24c07aa2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_e0f6a070d9f72a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9ab-2cd5-71e2-b5c3-20cfd881049e",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

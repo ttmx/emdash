@@ -1,0 +1,73 @@
+.changeset/admin-kumo-brand-colour.md
+  s_6550e4daf7cdc9::t_cfcd57e6249fa8 1-5
+e2e/tests/i18n.spec.ts
+  s_6550e4daf7cdc9::t_398af3a150e30c 111
+packages/admin/src/components/ContentList.tsx
+  s_6550e4daf7cdc9::t_5ac148ff50c8bf 554,886,982,1099
+packages/admin/src/components/ContentTypeList.tsx
+  s_6550e4daf7cdc9::t_1654057b17a072 123,190
+packages/admin/src/components/DeviceAuthorizePage.tsx
+  s_6550e4daf7cdc9::t_69a1558b678e99 174
+packages/admin/src/components/InviteAcceptPage.tsx
+  s_6550e4daf7cdc9::t_711758b33a1556 40
+packages/admin/src/components/LocaleSwitcher.tsx
+  s_6550e4daf7cdc9::t_048caea37bac88 111
+packages/admin/src/components/LoginPage.tsx
+  s_6550e4daf7cdc9::t_c5022e52213134 87,336
+packages/admin/src/components/MarketplaceBrowse.tsx
+  s_6550e4daf7cdc9::t_ea46590a218e46 252,269,309
+packages/admin/src/components/MarketplacePluginDetail.tsx
+  s_6550e4daf7cdc9::t_02fede47a9a524 125,156,165,222,233,293
+packages/admin/src/components/MediaLibrary.tsx
+  s_6550e4daf7cdc9::t_0344c8056ce64a 673
+packages/admin/src/components/MenuEditor.tsx
+  s_6550e4daf7cdc9::t_a4ce1d02a00a06 517
+packages/admin/src/components/PluginFieldErrorBoundary.tsx
+  s_6550e4daf7cdc9::t_7c65f0190ba793 41
+packages/admin/src/components/PluginManager.tsx
+  s_6550e4daf7cdc9::t_f24d89ea672fb5 205,373,386
+packages/admin/src/components/PortableTextEditor.tsx
+  s_6550e4daf7cdc9::t_f891a7fa9a0c04 2552
+packages/admin/src/components/Redirects.tsx
+  s_6550e4daf7cdc9::t_e222885e4423fa 376,393
+packages/admin/src/components/RegistryBrowse.tsx
+  s_6550e4daf7cdc9::t_0273f6c69787f6 188
+packages/admin/src/components/RegistryPluginDetail.tsx
+  s_6550e4daf7cdc9::t_5052cb46d02242 465,490,699,705,727,736
+packages/admin/src/components/RevisionHistory.tsx
+  s_6550e4daf7cdc9::t_ee5284f83b0fbc 364
+packages/admin/src/components/SignupPage.tsx
+  s_6550e4daf7cdc9::t_a00c0a93a9f8c4 116,440
+packages/admin/src/components/ThemeMarketplaceBrowse.tsx
+  s_6550e4daf7cdc9::t_df62af6eb9ff07 220,225
+packages/admin/src/components/ThemeMarketplaceDetail.tsx
+  s_6550e4daf7cdc9::t_ae729a899138b0 120,127,217,228
+packages/admin/src/components/TranslationsPanel.tsx
+  s_6550e4daf7cdc9::t_8fd7cd58792da7 83
+packages/admin/src/components/Widgets.tsx
+  s_6550e4daf7cdc9::t_807064714eec90 696
+packages/admin/src/components/WordPressImport.tsx
+  s_6550e4daf7cdc9::t_1e6b069f4112f0 1034,1079,1205,1518,1532,1872,2013,2057,2089,2451
+packages/admin/src/components/users/UserList.tsx
+  s_6550e4daf7cdc9::t_f6d0e9398d4fd0 123,137
+packages/admin/src/router.tsx
+  s_6550e4daf7cdc9::t_a342785b915fc4 2193
+packages/admin/src/routes/users.tsx
+  s_6550e4daf7cdc9::t_181ab976339830 208
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f23e50d0ffc250d88d68106e6a7b8ab3ca924cef",
+  "prompts": {},
+  "sessions": {
+    "s_6550e4daf7cdc9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa35a-e60d-7a91-bee2-f51952f5ee6a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

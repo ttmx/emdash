@@ -1,0 +1,19 @@
+packages/core/src/astro/routes/api/media/[id]/confirm.ts
+  s_ac4a7ee72a1444::t_ab14c125da71b7 187
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1c9c291c7bce34a943386036f3c00c56b8449f40",
+  "prompts": {},
+  "sessions": {
+    "s_ac4a7ee72a1444": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fae4c-4032-7da2-81a4-36064e0bc54a",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

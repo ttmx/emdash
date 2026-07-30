@@ -1,0 +1,19 @@
+packages/core/tests/unit/api/schemas.test.ts
+  s_e0f6a070d9f72a::t_25a0a4a31d3cfc 256,258-265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4103391dee4c21f1153fa207a077017ad70a9752",
+  "prompts": {},
+  "sessions": {
+    "s_e0f6a070d9f72a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9ab-2cd5-71e2-b5c3-20cfd881049e",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

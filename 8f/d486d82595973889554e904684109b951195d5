@@ -1,0 +1,57 @@
+packages/core/src/database/migrations/runner.ts
+  s_8b68720076931f::t_95ed7e8d94f396 59,114
+packages/core/src/database/types.ts
+  s_8b68720076931f::t_bbe209375c9164 84-92,507
+packages/core/src/api/handlers/media.ts
+  s_49a2ab6e863f68::t_7d190f365bff8d 188,191,193,205
+packages/core/src/astro/routes/api/media/[id].ts
+  s_49a2ab6e863f68::t_dbcab8b4d1038c 16-17,145-153,155-162
+packages/core/src/astro/routes/api/media/[id]/upload.ts
+  s_49a2ab6e863f68::t_468511ed47afe3 9,13-24,122,134,137-139,141-150,152-153,155-158,160-164,167,170,174-175,177-178,180-194,196-197
+packages/core/src/cleanup.ts
+  s_49a2ab6e863f68::t_6ac6a12a25ecef 19,31,61,112-131
+packages/core/src/database/migrations/054_media_upload_attempts.ts
+  s_49a2ab6e863f68::t_528eef28d8bad2 1-33
+packages/core/src/database/repositories/media.ts
+  s_49a2ab6e863f68::t_17e1348578bebc 88-90,144-219,231-240,427-443,445-446
+packages/core/src/media/upload-attempts.ts
+  s_e0f6a070d9f72a::t_5430bb1e4f4618 1-35
+packages/core/tests/integration/astro/media-stream-upload.test.ts
+  s_49a2ab6e863f68::t_3167574c0544ef 5-6,9,95,97,172-218,372-512
+packages/core/tests/integration/database/media-upload-publish.test.ts
+  s_49a2ab6e863f68::t_b89b51c6987c32 33-36,47-58
+packages/core/tests/integration/database/migrations.test.ts
+  s_49a2ab6e863f68::t_1225daf3c4571c 143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8fd486d82595973889554e904684109b951195d5",
+  "prompts": {},
+  "sessions": {
+    "s_49a2ab6e863f68": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9b5-e9b6-73d0-856e-3a8df1274502",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_8b68720076931f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9ad-788e-7341-ae17-ef4c24c07aa2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_e0f6a070d9f72a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9ab-2cd5-71e2-b5c3-20cfd881049e",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

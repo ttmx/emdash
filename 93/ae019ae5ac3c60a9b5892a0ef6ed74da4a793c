@@ -1,0 +1,29 @@
+packages/admin/src/components/editor/BlockMenu.tsx
+  s_0a509ae50dc644::t_5cf42a5a17566e 173-175
+packages/admin/tests/editor/block-menu.test.tsx
+  s_8b68720076931f::t_94a43579ff054d 10-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "93ae019ae5ac3c60a9b5892a0ef6ed74da4a793c",
+  "prompts": {},
+  "sessions": {
+    "s_0a509ae50dc644": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fad30-dd82-7ca0-8a0c-286de78cd6dd",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_8b68720076931f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa9ad-788e-7341-ae17-ef4c24c07aa2",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

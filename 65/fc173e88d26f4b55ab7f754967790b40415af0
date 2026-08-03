@@ -1,0 +1,27 @@
+packages/core/tests/integration/database/media-usage-cleanup-plan.test.ts
+  s_e14ab465aa9f22::t_c9e0e29fcf5677 1-255
+packages/core/tests/integration/database/media-usage-cleanup.test.ts
+  s_e14ab465aa9f22::t_0bb0d637a1fd81 1-730
+packages/core/tests/integration/database/media-usage-migration.test.ts
+  s_e14ab465aa9f22::t_bc4d8951b1ce3a 21
+packages/core/tests/integration/database/media-usage-repository.test.ts
+  s_e14ab465aa9f22::t_5b886734e896b2 928-944,1483-1529
+packages/core/tests/integration/database/migrations.test.ts
+  s_e14ab465aa9f22::t_e5951f28efeb7c 54-56,147-148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "65fc173e88d26f4b55ab7f754967790b40415af0",
+  "prompts": {},
+  "sessions": {
+    "s_e14ab465aa9f22": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc20d-8525-7ec3-bf8a-dd5142ac90be",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+packages/core/src/plugins/manifest-schema.ts
+  s_660966d8bc854b::t_65d785231171df 295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "87e6c4718d71a1609d3c1e5184d1f8e23d3b112f",
+  "prompts": {},
+  "sessions": {
+    "s_660966d8bc854b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_04c016ff4ffe9oWm99rf7b38fV",
+        "model": "grok-4.5"
+      },
+      "human_author": "scottbuscemi <sbuscemi@cloudflare.com>"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+packages/core/src/query.ts
+  s_714254441f85e7::t_07324a5086760b 350-355
+  s_714254441f85e7::t_7952be90459dc3 356-366,461-465,753-755,860,1012-1013,1015
+packages/core/src/database/repositories/content.ts
+  s_714254441f85e7::t_22d15908e90f68 663
+packages/core/tests/unit/object-cache-content.test.ts
+  s_714254441f85e7::t_445151b05aa54d 12-13,16,24,42-50,75-76,113-227,248-298,309,311-312
+.changeset/draft-save-skip-edge-invalidate.md
+  s_714254441f85e7::t_497219317b5e34 5
+packages/core/src/emdash-runtime.ts
+  s_714254441f85e7::t_8270710629f9e9 228-229,2915-2917
+packages/core/tests/integration/content/draft-save-live-content-changed.test.ts
+  s_714254441f85e7::t_bcb0724d652826 88-103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cf9d923a7d134facdc51b961c92666fe1d282de4",
+  "prompts": {},
+  "sessions": {
+    "s_714254441f85e7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fb7cd-6f52-7112-b83e-4177f0f17217",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

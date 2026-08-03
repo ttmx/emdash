@@ -1,0 +1,27 @@
+packages/core/src/database/migrations/055_media_usage_cleanup.ts
+  s_e14ab465aa9f22::t_f8726ebd06b156 1-77
+packages/core/src/database/migrations/056_media_usage_cleanup_fence.ts
+  s_e14ab465aa9f22::t_73e71f9fea57db 1-228
+packages/core/src/database/migrations/runner.ts
+  s_e14ab465aa9f22::t_3ac57cf7f8c59f 60-61,117-118
+packages/core/src/database/repositories/media-usage.ts
+  s_e14ab465aa9f22::t_875540514802d9 5,15,36,41-52,154-198,392-399,416-430,477-486,522-527,892-1064,1067-1073,1075,1080-1084,1088,1091-1095,1097,1099-1101,1104-1108,1111-1117,1119,1124-1128,1133,1136-1138,1140-1146,1149-1153,1156-1162,1164,1169-1173,1178,1181-1185,1187,1189-1221,1395-1622,1694-1695,1697-1726,1731-1732,1734-1885,1892,1899,1908,1915,2257-2261
+packages/core/src/database/types.ts
+  s_e14ab465aa9f22::t_1a86691b28c4b1 134-171,548-550
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4a2273f30e09ab6765c394c934df66e29df9315a",
+  "prompts": {},
+  "sessions": {
+    "s_e14ab465aa9f22": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc20d-8525-7ec3-bf8a-dd5142ac90be",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

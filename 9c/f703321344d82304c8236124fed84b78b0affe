@@ -1,0 +1,57 @@
+packages/core/tests/integration/database/media-usage-content-repair.test.ts
+  s_624d811dcaeb04::t_8afef24385b1ec 194-233
+packages/core/tests/integration/database/media-usage-content-snapshots.test.ts
+  s_c9f60a6ee88fa3::t_8782cc63b6bb9d 233-256,258,261,264-270,277-289,609-610
+packages/core/tests/unit/media/usage-extractor.test.ts
+  s_c9f60a6ee88fa3::t_a325e6ac36acad 195,216-239
+.changeset/curvy-otters-reference.md
+  s_624d811dcaeb04::t_91d71bc931d2de 6
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_624d811dcaeb04::t_31c288143d242c 20
+packages/core/src/media/usage/content-fields.ts
+  s_5965c9a485b0f7::t_bce44582d35963 61,84,92,95
+packages/core/src/media/usage/content-refresh.ts
+  s_624d811dcaeb04::t_cc710099ea0419 164-168,380-404
+packages/core/src/media/usage/content-repair.ts
+  s_624d811dcaeb04::t_8aacb07810037a 472
+packages/core/src/media/usage/content-snapshots.ts
+  s_624d811dcaeb04::t_63bd5d84300368 22,105-108,182-185,200,212,228-233,235
+packages/core/src/media/usage/extractor.ts
+  s_5965c9a485b0f7::t_72f17692a1e2f6 88,93,95
+packages/core/tests/integration/database/media-usage-content-fields.test.ts
+  s_624d811dcaeb04::t_bc120d49642d69 44,60-65,70,110-114,118-123
+packages/core/tests/integration/database/media-usage-content-refresh.test.ts
+  s_624d811dcaeb04::t_778ae39f70c9ee 116-150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9cf703321344d82304c8236124fed84b78b0affe",
+  "prompts": {},
+  "sessions": {
+    "s_5965c9a485b0f7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc376-b24d-7080-bfcb-5542bea48dd1",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_624d811dcaeb04": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc375-b01f-7471-bea8-14e814f28ffe",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_c9f60a6ee88fa3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_03cad22aaffep3u2Tia6k3qoOI",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

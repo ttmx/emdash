@@ -1,0 +1,19 @@
+packages/admin/tests/editor/PortableTextEditor.test.tsx
+  s_660966d8bc854b::t_181d36ba423698 351-432
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "867bf72277aa3b4a3d3de6bc9227379e14a8ae8f",
+  "prompts": {},
+  "sessions": {
+    "s_660966d8bc854b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_04c016ff4ffe9oWm99rf7b38fV",
+        "model": "grok-4.5"
+      },
+      "human_author": "scottbuscemi <sbuscemi@cloudflare.com>"
+    }
+  }
+}

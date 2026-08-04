@@ -1,0 +1,21 @@
+packages/admin/src/components/settings/SocialSettings.tsx
+  s_8d2eb49104f369::t_4f2fa9348bf6ce 7,13-14,16-21,28-32,44-45,52,55,79-81,85-91,93-147,150,153
+packages/admin/tests/components/settings/SocialSettings.test.tsx
+  s_8d2eb49104f369::t_69ea1347616aef 1-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5d868f08b4a795a35fa64274a8a25fa7099ed9d3",
+  "prompts": {},
+  "sessions": {
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

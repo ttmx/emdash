@@ -1,0 +1,23 @@
+packages/admin/src/components/settings/SecuritySettings.tsx
+  s_8d2eb49104f369::t_118cbd29e2eae8 10,16,19-24,61,78,101-103,110-111,113,120-121,127-129,134-138,152-164,166-188
+packages/admin/tests/components/settings/SecuritySettings.test.tsx
+  s_8d2eb49104f369::t_07f86123dede6d 74-84,101-161
+packages/admin/src/components/settings/PasskeyItem.tsx
+  s_8d2eb49104f369::t_6b4405a1888e0b 128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6319b92e5a63d378e2191f361475793f86a837d5",
+  "prompts": {},
+  "sessions": {
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

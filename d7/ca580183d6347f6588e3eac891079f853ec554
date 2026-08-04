@@ -1,0 +1,21 @@
+packages/admin/src/components/settings/ApiTokenSettings.tsx
+  s_8d2eb49104f369::t_4282cfe723dc44 7,11,24-25,27-33,141-145,198-216,219-262,264-272,275,277-339,341,343,346-349,354-358,360-379,433-434,455,469
+packages/admin/tests/components/settings/ApiTokenSettings.test.tsx
+  s_8d2eb49104f369::t_1a961888eae782 1-135
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d7ca580183d6347f6588e3eac891079f853ec554",
+  "prompts": {},
+  "sessions": {
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

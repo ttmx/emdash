@@ -1,0 +1,23 @@
+packages/admin/src/components/Settings.tsx
+  s_8d2eb49104f369::t_a0aa9a00f7d133 18,34-57,59-76,78-87,89-101,104-124
+packages/admin/src/components/settings/SettingsLayout.tsx
+  s_8d2eb49104f369::t_ae5e9eddd04e1a 1-141
+packages/admin/tests/components/Settings.test.tsx
+  s_8d2eb49104f369::t_ba9e2fc8968876 5,114-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e496f212384ed40f90aa35f3e66faedcad79b497",
+  "prompts": {},
+  "sessions": {
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

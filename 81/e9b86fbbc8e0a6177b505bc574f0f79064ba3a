@@ -1,0 +1,19 @@
+packages/admin/tests/components/Settings.test.tsx
+  s_8d2eb49104f369::t_a1e9be11e9e1a0 64-66,90-118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "81e9b86fbbc8e0a6177b505bc574f0f79064ba3a",
+  "prompts": {},
+  "sessions": {
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

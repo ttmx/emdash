@@ -1,0 +1,19 @@
+packages/core/tests/integration/database/media-usage-cleanup-plan.test.ts
+  s_d40d6b92de7460::t_72e9888f5c8f37 22,111,122,144-146,150,161-182,188,199-203,210-214,217,219-221,240,250
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3f022cd2a0f843e0a9c99fb5a258afd1d1b7bfcb",
+  "prompts": {},
+  "sessions": {
+    "s_d40d6b92de7460": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_03cae6196ffe50l0cLlmFVE926",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

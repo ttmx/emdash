@@ -1,0 +1,19 @@
+packages/cloudflare/src/plugins/ai-search.ts
+  s_397d3aa2363938::t_dceccfb1a342c2 68-69,81-83,450
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1584f83f9e3545cc725319f9c3a226cc36c9df3e",
+  "prompts": {},
+  "sessions": {
+    "s_397d3aa2363938": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_031f8e74effeAHtbm4u4Jccfme",
+        "model": "gpt-5.6"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

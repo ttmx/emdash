@@ -1,0 +1,21 @@
+packages/cloudflare/src/plugins/ai-search-synonyms.ts
+  s_397d3aa2363938::t_5104211fbcec76 119
+packages/cloudflare/tests/plugins/ai-search-endpoint.test.ts
+  s_397d3aa2363938::t_da5483ddcbdb91 63-64,137-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9c9e8056895d2a36af6fbfc20ae1bd259d3e9069",
+  "prompts": {},
+  "sessions": {
+    "s_397d3aa2363938": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_031f8e74effeAHtbm4u4Jccfme",
+        "model": "gpt-5.6"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

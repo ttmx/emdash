@@ -1,0 +1,21 @@
+packages/cloudflare/src/plugins/ai-search.ts
+  s_00d872dbabf86d::t_cb9bcd4794e357 353-356,397-469,492,495-502,504,943-945,959-961,963-964,1016-1017,1073-1078,1083
+packages/cloudflare/tests/plugins/ai-search-indexing.test.ts
+  s_00d872dbabf86d::t_71422f6a86c6bc 968-1036
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7d1387a4774a860e098c21a7e3ef69a9f96f95b1",
+  "prompts": {},
+  "sessions": {
+    "s_00d872dbabf86d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_02e204bbdffeRCvEttddcW6tQf",
+        "model": "claude-opus-5"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

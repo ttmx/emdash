@@ -1,0 +1,19 @@
+packages/cloudflare/src/plugins/ai-search.ts
+  s_03fd9647f201e1::t_9594f1f55bce3d 384-386,388-390,392,397-401,414-419,421,423-426,428,431-432,434-436,444-445,447-451,454,456,461,463,941-942,945,955-961,963,965,1013,1020,1074-1077,1081,1174,1201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "42dec0215db47dc9315fb381c23d3fe01b8d2db6",
+  "prompts": {},
+  "sessions": {
+    "s_03fd9647f201e1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_02e0f5a2fffeYx152bTRuEId8l",
+        "model": "claude-opus-5"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

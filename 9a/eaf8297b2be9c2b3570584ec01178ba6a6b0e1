@@ -1,0 +1,19 @@
+e2e/tests/keyboard-shortcuts.spec.ts
+  s_50fe09764cbc0c::t_219702a60f9688 25,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9aeaf8297b2be9c2b3570584ec01178ba6a6b0e1",
+  "prompts": {},
+  "sessions": {
+    "s_50fe09764cbc0c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01f40-9fe5-7fc2-a09f-1622fdee5896",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

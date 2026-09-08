@@ -1,0 +1,33 @@
+packages/admin/src/components/editor/CodeBlockNode.tsx
+  s_cd3ee911dc3a75::t_c230cd3b6da059 94,170,173,178-179,185
+packages/admin/tests/editor/PortableTextEditor.test.tsx
+  s_6cf2eeb1ffa60c::t_e264c202320513 1311-1354
+packages/core/src/components/inline-code-block.tsx
+  s_cd3ee911dc3a75::t_15bb5f349c337e 216,267,273,276,281-282
+packages/core/tests/unit/components/inline-portable-text-code-block.test.ts
+  s_6cf2eeb1ffa60c::t_8d935d16e67ac3 140-193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a7066dafe3c9dfb8931c8ad595a0e63f3eb02275",
+  "prompts": {},
+  "sessions": {
+    "s_6cf2eeb1ffa60c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a028d0-2aef-7fe3-9cc5-8638d2a0ec23",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

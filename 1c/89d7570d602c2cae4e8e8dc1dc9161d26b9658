@@ -1,0 +1,65 @@
+packages/admin/package.json
+  s_7117dd1efa5f69::t_78211ca63ee98f 60
+packages/admin/tests/components/PortableTextEditor.list.test.ts
+  s_f44f80db446925::t_cb8feb6cc8b85c 13-14,191,378-433
+packages/core/src/client/portable-text.ts
+  s_7117dd1efa5f69::t_06093259e0e3e7 21-22
+packages/core/src/content/converters/portable-text-to-prosemirror.ts
+  s_f44f80db446925::t_05645b51cc935e 8-15,41-42,61-62,68-74,82-84,131-169,311-313,333-342,345-354,359-364,367,379-381,412,420,429-437
+packages/core/src/content/converters/types.ts
+  s_7117dd1efa5f69::t_8a42f8c3d67ef9 44-45
+packages/core/tests/unit/converters/numbered-list-continuity.test.ts
+  s_f44f80db446925::t_4b1bcc10e2682d 1-145
+docs/technical-specs/issue-2344-numbered-list-continuity.md
+  s_ba5b69c70266ab::t_fda94064aaf7e3 1-184
+packages/admin/src/components/PortableTextEditor.tsx
+  s_ba5b69c70266ab::t_1c75cc6fc7d4d6 127,167-168,255-312,330-331,344-353,392,395,572-573,577,579-580,584,587-588,598,604-612,614-622,752-753,762-763,772-778,786-788,804-842,1059-1065,1084-1093,1097-1106,1111-1117,1120,1129-1131,1160-1161,1169,1177-1185,2732,2743
+packages/admin/src/components/editor/ordered-list.ts
+  s_ba5b69c70266ab::t_88eceaffc7e2de 1-17
+packages/core/package.json
+  s_7117dd1efa5f69::t_f713b65b4acbbb 226
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_ba5b69c70266ab::t_71821c07e28275 28-35,39,62-63,120-121,130,171,173,259-263,277,366-375,387-388,391-397,402-404,569-585,588,2001,2003
+packages/core/src/components/ordered-list.ts
+  s_ba5b69c70266ab::t_f5ad09ffddfaf8 1-17
+packages/core/src/content/converters/numbered-list.ts
+  s_ba5b69c70266ab::t_d5ee199d704c03 1-64
+packages/core/src/content/converters/prosemirror-to-portable-text.ts
+  s_f44f80db446925::t_51424a7237848c 8,40-41,57-60,69,72,182,185,187-188,190,205-206,210-211,222,228,230,244,247,249-250,252
+pnpm-lock.yaml
+  s_ba5b69c70266ab::t_f780ce96d7a6fe 1200-1202,1724-1726
+pnpm-workspace.yaml
+  s_f44f80db446925::t_ffdf802b3533d1 131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1c89d7570d602c2cae4e8e8dc1dc9161d26b9658",
+  "prompts": {},
+  "sessions": {
+    "s_7117dd1efa5f69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd37a-1ed4-7122-8e42-110dfcc855c8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_ba5b69c70266ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd36d-1bcd-79d1-ab90-63ade35e2a95",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_f44f80db446925": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd354-3ef4-7421-951b-517d241bd99c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

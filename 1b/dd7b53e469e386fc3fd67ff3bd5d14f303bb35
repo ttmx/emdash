@@ -1,0 +1,25 @@
+.changeset/media-usage-used-in-ui.md
+  s_97e3674bdac896::t_9ee7e11ece69be 1-6
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_97e3674bdac896::t_f0c4a9eae6befd 12,15-21,26,58,75-77,92,169,191,193,195-217,432-442,485-488
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_97e3674bdac896::t_fd19bc9ffdc424 19-24,142-163
+packages/admin/tests/components/MediaDetailPanelNavigation.test.tsx
+  s_97e3674bdac896::t_d9632ddb8a49f6 1-205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1bdd7b53e469e386fc3fd67ff3bd5d14f303bb35",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

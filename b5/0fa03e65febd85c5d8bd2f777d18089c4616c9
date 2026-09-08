@@ -1,0 +1,19 @@
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_97e3674bdac896::t_7391649681ee5d 63-64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b50fa03e65febd85c5d8bd2f777d18089c4616c9",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

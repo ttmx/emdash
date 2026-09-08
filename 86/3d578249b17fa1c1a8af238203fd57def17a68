@@ -1,0 +1,29 @@
+packages/admin/src/components/ContentSettingsPanel.tsx
+  s_681f8ac6d2160d::t_f418c3c113f3a2 34-35,675
+packages/admin/tests/components/BylineCreditsEditor.test.tsx
+  s_681f8ac6d2160d::t_30ffdbcb2d1bba 1-223
+.changeset/calm-bylines-flow.md
+  s_681f8ac6d2160d::t_0661a01768a4cd 1-5
+packages/admin/src/components/BylineCreditsEditor.tsx
+  s_681f8ac6d2160d::t_b89ad6c77537dd 1-944
+packages/admin/src/components/ContentEditor.tsx
+  s_681f8ac6d2160d::t_8ee4db48cca596 1074-1078
+packages/admin/tests/components/ContentEditor.test.tsx
+  s_681f8ac6d2160d::t_5bd3f80a49fdb7 1110-1111,1148-1149,1181-1183,1511-1537,2158-2198,2215,2227-2231
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "863d578249b17fa1c1a8af238203fd57def17a68",
+  "prompts": {},
+  "sessions": {
+    "s_681f8ac6d2160d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03f61-517c-74e3-a368-e5bf63b7ac62",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

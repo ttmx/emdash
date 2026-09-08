@@ -1,0 +1,19 @@
+packages/admin/src/components/Settings.tsx
+  s_97e3674bdac896::t_2043c43d506f3f 14,73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "871067c319d7dba60bac576f95741055dfe18e2a",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

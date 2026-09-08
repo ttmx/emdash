@@ -1,0 +1,21 @@
+packages/admin/src/components/settings/AllowedDomainsSettings.tsx
+  s_0f09f26b06bbd0::t_339a655cefa754 215-219
+packages/admin/src/components/settings/SecuritySettings.tsx
+  s_0f09f26b06bbd0::t_483142132b85ff 137-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6fd6bb04d857c59a09313e9349d04ae098b140fd",
+  "prompts": {},
+  "sessions": {
+    "s_0f09f26b06bbd0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fcec9-8191-7381-aa6d-db9c29b859e1",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

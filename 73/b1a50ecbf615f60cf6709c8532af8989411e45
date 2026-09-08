@@ -1,0 +1,21 @@
+packages/admin/src/components/FocalPointEditor.tsx
+  s_2475d4feb449ab::t_0f1fb1292e1a20 37,57-62,68-69,71,74-76,131
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_2475d4feb449ab::t_a8c59549769b2e 257,297-310,323-350
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "73b1a50ecbf615f60cf6709c8532af8989411e45",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

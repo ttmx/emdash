@@ -1,0 +1,33 @@
+.changeset/media-usage-activation-ui.md
+  s_97e3674bdac896::t_5c8a0cb61f6168 6
+docs/src/content/docs/guides/media-library.mdx
+  s_97e3674bdac896::t_7d33feb122c3c0 23-25
+docs/src/content/docs/reference/rest-api.mdx
+  s_97e3674bdac896::t_740c303c2de3c7 369
+packages/admin/src/components/SetupWizard.tsx
+  s_97e3674bdac896::t_5931fda63b500b 48,96,111,147-160
+packages/admin/tests/components/SetupWizard.test.tsx
+  s_97e3674bdac896::t_826e3c44177bf4 4,55,110-171
+packages/core/src/api/schemas/setup.ts
+  s_97e3674bdac896::t_fcea21f61a432a 28
+packages/core/src/astro/routes/api/setup/index.ts
+  s_97e3674bdac896::t_4f84d81afc1c61 17-20,66-90
+packages/core/tests/integration/astro/setup-media-usage.test.ts
+  s_97e3674bdac896::t_0fdbd80e997c21 1-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0a6b6bcb34bcb3ab75ce17ff162f732417764ca2",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

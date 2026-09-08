@@ -1,0 +1,21 @@
+packages/core/src/database/repositories/media-usage.ts
+  s_d45998f6731739::t_e7336a692a7391 461-479,501,602,637,665,2370-2371,2373-2374,2376-2393,2396-2397,2402
+packages/core/tests/workerd/media-usage-collection-deletion-d1.test.ts
+  s_d45998f6731739::t_581b3ba6f395ce 8,11,44-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e187d596846233edb6f8fba3365d096f40b1b9be",
+  "prompts": {},
+  "sessions": {
+    "s_d45998f6731739": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff629-861b-7db2-808a-08018fb528e7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

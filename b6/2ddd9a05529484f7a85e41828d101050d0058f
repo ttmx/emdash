@@ -1,0 +1,21 @@
+packages/cloudflare/src/db/do-playground-routes.ts
+  s_3291003d59bc7f::t_63ddd1c1ef28b7 39
+packages/cloudflare/tests/db/do-playground-routes.test.ts
+  s_3291003d59bc7f::t_4c95835c7e6284 45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b62ddd9a05529484f7a85e41828d101050d0058f",
+  "prompts": {},
+  "sessions": {
+    "s_3291003d59bc7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0541d-c568-7fb0-96e1-c146f3278641",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

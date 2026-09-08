@@ -1,0 +1,41 @@
+packages/core/src/database/repositories/media-folders.ts
+  s_f8532f0b8288f2::t_530df658706111 1-100
+packages/core/src/database/repositories/media.ts
+  s_f8532f0b8288f2::t_e3e0b2cb369246 66,93-102,146,454,465,529-534,579
+packages/core/tests/integration/database/migrations.test.ts
+  s_f8532f0b8288f2::t_4ceb580d518f18 187
+packages/core/src/database/migrations/071_media_folders.ts
+  s_202b6e3937f527::t_6d101179dd0f58 1-72
+packages/core/src/database/migrations/runner.ts
+  s_202b6e3937f527::t_89a36dac202577 76,148
+packages/core/src/database/types.ts
+  s_202b6e3937f527::t_00984097012076 79-85,637,705
+packages/core/tests/integration/database/media-folders.test.ts
+  s_f8532f0b8288f2::t_044c25e5bba952 1-245
+packages/core/tests/integration/database/media-page-pagination.test.ts
+  s_f8532f0b8288f2::t_e7fd91abc3dbdd 80-91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "aba68d2752a2ca3954ef127176ef750387bea915",
+  "prompts": {},
+  "sessions": {
+    "s_202b6e3937f527": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02131-bc26-71b2-bbac-02e6cb5fe95f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

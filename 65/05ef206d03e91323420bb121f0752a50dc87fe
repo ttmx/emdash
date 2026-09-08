@@ -1,0 +1,29 @@
+packages/admin/tests/components/BylineCreditsEditor.test.tsx
+  s_97e3674bdac896::t_1d4b1957cf36d1 153-213,265-287,402-425
+packages/admin/src/components/BylineCreditsEditor.tsx
+  s_681f8ac6d2160d::t_d1da42d7e44cb4 151,156-161,164,166,185-191,206,218,234,336,340,342,441,445,458,461-462,548,616-619,857
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6505ef206d03e91323420bb121f0752a50dc87fe",
+  "prompts": {},
+  "sessions": {
+    "s_681f8ac6d2160d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03f61-517c-74e3-a368-e5bf63b7ac62",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

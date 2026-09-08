@@ -1,0 +1,43 @@
+packages/admin/src/lib/api/index.ts
+  s_97e3674bdac896::t_4b076e61ce92d7 61-66,73-74
+packages/admin/src/lib/api/media.ts
+  s_97e3674bdac896::t_0350364d8a46c8 23-73,141-162
+packages/admin/tests/lib/media-api.test.ts
+  s_97e3674bdac896::t_400df44859be14 1-4,10-44,46-68,70-102
+packages/admin/src/components/MediaUsedIn.tsx
+  s_97e3674bdac896::t_074797a06abdeb 2,11-66,108-112,114-117,119-123,125-126,145-158,160,161-162,164-233,234-333
+packages/admin/tests/components/MediaUsedIn.test.tsx
+  s_97e3674bdac896::t_8a3b7e797ed868 1-2,4-147,161,163,188-193,199-209,217-323,327-378
+.changeset/media-usage-used-in-ui.md
+  s_97e3674bdac896::t_9ee7e11ece69be 1-6
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_97e3674bdac896::t_f0c4a9eae6befd 12,15-21,26,58,75-77,92,169,191,193,195-217,432-442,485-488
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_97e3674bdac896::t_fd19bc9ffdc424 19-24,142-163
+packages/admin/tests/components/MediaDetailPanelNavigation.test.tsx
+  s_97e3674bdac896::t_d9632ddb8a49f6 1-205
+packages/core/src/astro/routes/api/setup/dev-bypass.ts
+  s_97e3674bdac896::t_f4bf13e55da785 7,34,79-88
+packages/core/src/seed/apply.ts
+  s_97e3674bdac896::t_b304a4ca7645b6 1369,1371,1395,1410
+packages/core/tests/unit/astro/setup-dev-bypass.test.ts
+  s_97e3674bdac896::t_dbae50e1511346 25-28,42-56,109-136
+packages/core/tests/unit/seed/media.test.ts
+  s_97e3674bdac896::t_f56a6aea9de823 205,209
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5ad81e952c10cd69579136aff421677c8194b524",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

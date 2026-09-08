@@ -1,0 +1,204 @@
+packages/core/src/database/repositories/media.ts
+  s_f8532f0b8288f2::t_afed7c2dd7fc86 1-7,105-113,397,430-450,506-528,535-537
+  s_2475d4feb449ab::t_e62348701facdb 66,93-102,146,454,465,529-534,579
+packages/core/tests/unit/api/media-usage-summary.test.ts
+  s_97e3674bdac896::t_580d6e0478a730 316-350
+  s_2475d4feb449ab::t_c26104b825ff2e 579
+  s_f8532f0b8288f2::t_59508118dead48 579
+packages/core/tests/unit/client/client.test.ts
+  s_f8532f0b8288f2::t_67da0fcf332da8 805-825
+  s_2475d4feb449ab::t_8e10e6432463b0 727-804
+packages/core/src/api/handlers/media.ts
+  s_f09cca8e7df10c::t_5411f1e6cb1f29 17,31,39-59,61-64
+  s_2475d4feb449ab::t_c185b77ac80d7a 12-13,35,60,71,183,204-210,221-231
+  s_97e3674bdac896::t_2af190186dc472 12-13,35,60,71,183,204-210,221-231
+packages/core/src/api/schemas/media.ts
+  s_f09cca8e7df10c::t_092f0407153e9e 24,39-42,196,204
+  s_2475d4feb449ab::t_e7bc6d3d70a926 26-32,59-67,71-86,160,164-175
+  s_3e8fc308d8a272::t_90e0a61586d746 59-67
+packages/core/src/astro/routes/api/media.ts
+  s_f09cca8e7df10c::t_9feb896d4e252e 58,72-76,94-98
+  s_2475d4feb449ab::t_e1094583933a33 62
+  s_202b6e3937f527::t_66dfedc2f75b34 62
+packages/core/src/astro/types.ts
+  s_f09cca8e7df10c::t_2d991cb8f3de8c 377
+  s_2475d4feb449ab::t_1f0da188cf0406 380,400-406
+  s_202b6e3937f527::t_c34614449afe53 380,400-406
+packages/core/src/client/index.ts
+  s_f8532f0b8288f2::t_180a23f467ff20 827,830,835,844-847
+  s_2475d4feb449ab::t_605c33de948ee6 200,204-215,829,837-841,863-904
+  s_3e8fc308d8a272::t_7de0f962b14e6e 204-205,896-897
+packages/core/src/emdash-runtime.ts
+  s_f09cca8e7df10c::t_98cca002cdce99 3459
+  s_2475d4feb449ab::t_6da9db7926feb5 3463,3524-3530
+  s_202b6e3937f527::t_fe042977706b3d 3463,3524-3530
+packages/admin/src/components/MediaLibrary.tsx
+  s_f09cca8e7df10c::t_411cb2dea0d205 681
+  s_f09cca8e7df10c::t_8647e1f311c72d 430,471
+  s_f8532f0b8288f2::t_17389d21c4ecce 687-702,704
+  s_f8532f0b8288f2::t_a3bf97a222717a 101-103,176-178,189-191,200,203-215,664
+  s_50fe09764cbc0c::t_37be3cea1fc246 572
+  s_50fe09764cbc0c::t_3d80ace3f18795 73
+  s_f8532f0b8288f2::t_329d0849e2f96b 372
+  s_50fe09764cbc0c::t_ea4ab41ff2e894 570
+  s_f09cca8e7df10c::t_6d0eef08dde2ab 1,57,64-72,74-75,86,99-100,170-175,179-188,192-199,201-202,216-219,327-329,663,665-680,682-686,703
+  s_f8532f0b8288f2::t_b790054521b59f 569,571,573,610-613
+  s_50fe09764cbc0c::t_0c492882500145 53-56,84-85,707-714
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_f09cca8e7df10c::t_e41f3738e2ce84 450
+  s_f09cca8e7df10c::t_ce27926109e6fa 476,483-485
+  s_50fe09764cbc0c::t_7a23d3c4422295 488,498,519-520,524
+  s_50fe09764cbc0c::t_620b845d154c80 86,449,459-460,467
+  s_f8532f0b8288f2::t_2a6fc4c53ec1ec 81-85,87-94,436-439,441-444,446-448,451-458,463,465-466,468-473,477,480-482,486-487,489-497,499-518,521-523,590,598
+  s_50fe09764cbc0c::t_b31da938422762 409-435
+packages/admin/src/router.tsx
+  s_50fe09764cbc0c::t_3fbb143e8c00a4 1382
+  s_f8532f0b8288f2::t_48590111669ec8 1404
+  s_f09cca8e7df10c::t_46fa7080b81e5f 1381,1383,1386-1394,1396-1403,1405-1442,1448-1449,1460-1469,1473-1474
+  s_f09cca8e7df10c::t_7fda45d3760752 11-17,1395
+packages/admin/tests/lib/media-pagination.test.ts
+  s_50fe09764cbc0c::t_45870c0b4f7f79 23,27
+  s_f8532f0b8288f2::t_16f10c3052bb17 1-22,24-26,28-30
+packages/admin/tests/router.test.tsx
+  s_50fe09764cbc0c::t_fba378d0938dee 159-160,313,319,322,324,330
+  s_50fe09764cbc0c::t_dc9be823eda585 348,354
+  s_f09cca8e7df10c::t_e4c826227258fd 113,116-119,122-130,152-158,161-166,251,296-312,314-318,320-321,323,325-329,331-347,349-353,355-376
+  s_f09cca8e7df10c::t_acd659e42f1c40 114-115,120-121,149-151,377-422
+e2e/tests/admin-fixes.spec.ts
+  s_50fe09764cbc0c::t_9aa2e40002d3a5 99
+e2e/tests/keyboard-shortcuts.spec.ts
+  s_50fe09764cbc0c::t_219702a60f9688 25,45
+e2e/tests/media-library.spec.ts
+  s_50fe09764cbc0c::t_564df1807f6c0d 118
+.changeset/bright-media-pages.md
+  s_f09cca8e7df10c::t_2cf9efddf59ac0 1,4-5
+  s_50fe09764cbc0c::t_df6858fa17b0a6 2-3,6-8
+packages/admin/src/lib/api/media.ts
+  s_97e3674bdac896::t_ccb0afc88950a0 54-57,63,68,71,86
+.changeset/flat-media-folders.md
+  s_2475d4feb449ab::t_b4872d3e03de0a 1-18
+  s_3e8fc308d8a272::t_6d6f04aff146d6 5-18
+docs/src/content/docs/guides/media-library.mdx
+  s_2475d4feb449ab::t_319bdcf1411f3c 9,158
+docs/src/content/docs/reference/rest-api.mdx
+  s_2475d4feb449ab::t_f99b26496c467f 189,193,196-199,214,327-328,332,334,349-350,495-496,499,507-509,513-514,516,519-528,530-533,536-544,547,551-559
+  s_f8532f0b8288f2::t_fa9057acd8c9b2 513-514
+packages/core/src/api/errors.ts
+  s_2475d4feb449ab::t_08bbb613c944b3 89-92
+packages/core/src/api/handlers/index.ts
+  s_2475d4feb449ab::t_6b2e787a2c171b 63-68
+packages/core/src/api/handlers/media-folders.ts
+  s_2475d4feb449ab::t_179c89df0bd85f 1-112
+  s_97e3674bdac896::t_6c9cc789ffda4a 1-112
+packages/core/src/api/openapi/document.ts
+  s_2475d4feb449ab::t_cdf6c428e9dc63 60-64,710-783
+  s_97e3674bdac896::t_7fef5c544c8369 60-64,710-783
+packages/core/src/astro/integration/routes.ts
+  s_2475d4feb449ab::t_d6ba33d8bfa53e 211-220
+packages/core/src/astro/routes/api/media/[id].ts
+  s_2475d4feb449ab::t_e5439b7fd19027 95
+  s_202b6e3937f527::t_826f3f77df59b2 95
+packages/core/src/astro/routes/api/media/folders/[id].ts
+  s_2475d4feb449ab::t_73b882807dd1ee 1-40
+  s_97e3674bdac896::t_c74d8cb49cc5ac 1-40
+packages/core/src/astro/routes/api/media/folders/index.ts
+  s_2475d4feb449ab::t_1e3668bb7b989a 1-33
+packages/core/src/database/migrations/072_media_folders.ts
+  s_f8532f0b8288f2::t_e84490b1bfc527 1-72
+packages/core/src/database/migrations/runner.ts
+  s_2475d4feb449ab::t_f141e6b7fed4bc 77,150
+packages/core/src/database/repositories/media-folders.ts
+  s_2475d4feb449ab::t_fa19bb58f8eac2 1-100
+packages/core/src/database/types.ts
+  s_2475d4feb449ab::t_38483fbf9a8132 79-85,637,705
+packages/core/tests/integration/client/client.test.ts
+  s_2475d4feb449ab::t_77e811acebc946 254-267
+packages/core/tests/integration/database/media-folders.test.ts
+  s_2475d4feb449ab::t_77684d8da3a40f 1-245
+packages/core/tests/integration/database/media-page-pagination.test.ts
+  s_2475d4feb449ab::t_777a4acb684232 80-91
+packages/core/tests/integration/database/migrations.test.ts
+  s_2475d4feb449ab::t_3037f63ae7cf82 188
+packages/core/tests/unit/api/media-folders-handlers.test.ts
+  s_2475d4feb449ab::t_9cd3fca6f510d6 1-113
+  s_97e3674bdac896::t_0c39e0f051a935 1-113
+packages/core/tests/unit/api/media-folders-routes.test.ts
+  s_2475d4feb449ab::t_95d47bb08a64ea 1-240
+  s_f8532f0b8288f2::t_f200259ebf8af3 167-197
+packages/core/tests/unit/api/media-list-route.test.ts
+  s_2475d4feb449ab::t_a73feb13810ecd 5,53-75,99
+  s_202b6e3937f527::t_21bc7c665a6118 5,53-75,99
+packages/core/tests/unit/api/openapi.test.ts
+  s_2475d4feb449ab::t_03bded0e5118d5 34-35,45-92
+  s_97e3674bdac896::t_8a99511c540589 34-35,45-92
+packages/core/tests/unit/astro/routes.test.ts
+  s_2475d4feb449ab::t_d02c7041abd218 90-101
+e2e/tests/accessibility.spec.ts
+  s_202b6e3937f527::t_da1b79bccbadb3 185,187-188
+e2e/fixture/emdash-env.d.ts
+  s_f8532f0b8288f2::t_7e767c939c3fda 42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "edfd4e3a7d004c75a8e270c5f1745c4c9895f252",
+  "prompts": {},
+  "sessions": {
+    "s_202b6e3937f527": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02131-bc26-71b2-bbac-02e6cb5fe95f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_3e8fc308d8a272": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a014f4-f829-7c42-99cd-3bec947abf80",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_50fe09764cbc0c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01f40-9fe5-7fc2-a09f-1622fdee5896",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f09cca8e7df10c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e8d-ced5-77d2-a252-23390aa2f1c4",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

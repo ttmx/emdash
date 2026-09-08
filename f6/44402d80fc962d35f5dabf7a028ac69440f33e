@@ -1,0 +1,23 @@
+docs/src/content/docs/guides/media-library.mdx
+  s_2475d4feb449ab::t_1ef652f6ac169d 215,219
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_2475d4feb449ab::t_d2c61ae17315cd 471,484,786-790,797-803,808,812,816-819
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_2475d4feb449ab::t_09cd9bb0b250cf 135,209,238,246,269,284,410,425
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f644402d80fc962d35f5dabf7a028ac69440f33e",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

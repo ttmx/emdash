@@ -1,0 +1,83 @@
+.changeset/steady-cats-retry.md
+  s_39d34136f9a8db::t_ed09a654ca68ee 1-5
+packages/core/src/api/handlers/index.ts
+  s_39d34136f9a8db::t_2cb1ade3a0f793 80-89
+packages/core/src/api/openapi/document.ts
+  s_39d34136f9a8db::t_9a73a7aaa38e04 45-49,798-844
+packages/core/src/astro/integration/routes.ts
+  s_39d34136f9a8db::t_17d33620f40ebe 252-261
+packages/core/src/client/index.ts
+  s_97e3674bdac896::t_5d76cf5fdd0d92 231-273,864-883
+packages/core/src/database/repositories/media-usage-work.ts
+  s_97e3674bdac896::t_f611d6f54c0285 6,16-19,44-62,66-423,607-609,630-639,711-728,742-746
+packages/core/src/database/repositories/media-usage.ts
+  s_39d34136f9a8db::t_c03685a246b1db 2365
+packages/core/src/emdash-runtime.ts
+  s_c0589149ac8913::t_f8b2ce4a608c1a 3506-3507,3513
+packages/core/src/media/usage/content-refresh.ts
+  s_39d34136f9a8db::t_5ebb5895d1abfb 23,36,184-195,199-202,265-286
+packages/core/src/media/usage/work-processor.ts
+  s_39d34136f9a8db::t_bd7aef359a2005 169-172,246-248
+packages/core/tests/integration/database/media-usage-work-measurement.test.ts
+  s_97e3674bdac896::t_a612208483b8fc 1-782
+packages/core/tests/integration/database/media-usage-work-operator.test.ts
+  s_97e3674bdac896::t_a6773a3cb2dc2e 1-495
+packages/core/tests/integration/database/media-usage-work-processor.test.ts
+  s_c0589149ac8913::t_f12dc644e3adc4 13,17,255-391,501-513,532-649
+packages/core/tests/unit/api/media-usage-work-route.test.ts
+  s_97e3674bdac896::t_e7b59487dce59e 1-304
+packages/core/tests/unit/api/openapi.test.ts
+  s_97e3674bdac896::t_71e40f1f4ed30a 286-287
+packages/core/tests/unit/client/client.test.ts
+  s_39d34136f9a8db::t_4145ac492aefa5 989-1123
+packages/core/src/api/errors.ts
+  s_8201988bce86e7::t_1af1473c966806 91-94,456-457
+packages/core/src/api/handlers/media-usage-work.ts
+  s_97e3674bdac896::t_0e26e19064cad0 1-113
+packages/core/src/api/schemas/media-usage.ts
+  s_97e3674bdac896::t_e1ce3d1445b62e 112-186,189-193
+packages/core/src/astro/routes/api/admin/media-usage/work/index.ts
+  s_39d34136f9a8db::t_0b819f6dad6aea 1-26
+packages/core/src/astro/routes/api/admin/media-usage/work/retry.ts
+  s_39d34136f9a8db::t_0f47f7b88944c5 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b355e41fdaaf93e622720970b16455a902ca29ef",
+  "prompts": {},
+  "sessions": {
+    "s_39d34136f9a8db": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdb8d-83a2-7c23-b509-cefd9639ca80",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_8201988bce86e7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdc63-eac1-74a1-8eee-3c610f7b20bd",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_c0589149ac8913": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdc5f-4135-73a0-b92c-5bf47591eb2e",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+.changeset/fast-media-usage-backfill.md
+  s_f8532f0b8288f2::t_8473a9bcbe272c 6
+.changeset/media-usage-activation-ui.md
+  s_f8532f0b8288f2::t_7beb3f1496fd5d 7
+.changeset/media-usage-progress-locale.md
+  s_93863a022d2c20::t_1b46f21c9e9cbd 5
+docs/src/content/docs/deployment/cloudflare.mdx
+  s_93863a022d2c20::t_d20cb630b4d60e 98,100-102,125,155,157,163,166,168-171,173,175
+docs/src/content/docs/guides/media-library.mdx
+  s_93863a022d2c20::t_9a2fd5c30141fc 19,21
+docs/src/content/docs/reference/rest-api.mdx
+  s_f8532f0b8288f2::t_0138d31b2cb7ca 369,373-375,404,413,419
+.changeset/remove-media-usage-scheduled-recovery.md
+  s_97e3674bdac896::t_c6aeef4cf2ac3f 6-12
+docs/src/content/docs/deployment/nodejs.mdx
+  s_97e3674bdac896::t_ec340112c4c34f 58,60,62,64,66-69,71,73,75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c9083f4182215a3d7c1f6bfacb7da19a5bd3637d",
+  "prompts": {},
+  "sessions": {
+    "s_93863a022d2c20": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02389-3b2b-7643-83f5-e456206e395a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

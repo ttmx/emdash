@@ -1,0 +1,37 @@
+packages/core/src/emdash-runtime.ts
+  s_97e3674bdac896::t_2eca7b6cc83f5e 55-59,560-564,813-816
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_97e3674bdac896::t_a83fa726f6f9c7 46-171
+packages/core/src/astro/middleware.ts
+  s_8e30c3be547b84::t_b6091a02579b93 47,299-311
+packages/core/src/media/usage/maintenance-engine.ts
+  s_8e30c3be547b84::t_531b50969600fd 1-108
+packages/core/src/media/usage/reconciliation-processor.ts
+  s_8e30c3be547b84::t_f649435bcdf6d7 37-41,51-56,62,65-67,71-74,78,91-96,99-102,113,116
+packages/core/tests/integration/database/media-usage-reconciliation-finalization.test.ts
+  s_97e3674bdac896::t_81d26321c707c9 7-10,109-118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "851e082cc95ffc831f4e1ab2c06dff2e5aa3017a",
+  "prompts": {},
+  "sessions": {
+    "s_8e30c3be547b84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a00ad4-f52f-7090-baa3-5ecfed42931f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

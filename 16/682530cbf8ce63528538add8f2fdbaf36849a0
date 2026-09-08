@@ -1,0 +1,39 @@
+packages/core/src/database/repositories/media-usage.ts
+  s_97e3674bdac896::t_e74a31ab56842b 12,140,421-426,449,489-494,512,2020-2059
+packages/core/src/media/usage/projection-fingerprint.ts
+  s_97e3674bdac896::t_9adc2c8adb693c 1-114
+packages/core/tests/integration/database/media-usage-content-refresh.test.ts
+  s_97e3674bdac896::t_c913f30cf7b655 69,116-143,305,321-322,324-328,332-334,336,338,341-343,378-402,545-553
+packages/core/tests/integration/database/media-usage-content-snapshots.test.ts
+  s_97e3674bdac896::t_d1430e241d8842 434-439,445-471
+packages/core/tests/integration/database/media-usage-work-repository.test.ts
+  s_97e3674bdac896::t_3acf94900226d5 1-316
+packages/core/tests/unit/media/usage-projection-fingerprint.test.ts
+  s_97e3674bdac896::t_34b1ec9f28fa3f 1-80
+.opencode/memory/active/media-usage-index-used-in/implementation/STEP_2.md
+  s_97e3674bdac896::t_cb04790d052597 1-20
+packages/core/src/database/repositories/media-usage-work.ts
+  s_97e3674bdac896::t_c10eaffb34a3ec 1-230
+packages/core/src/media/usage/content-refresh.ts
+  s_97e3674bdac896::t_fd3753b4950e94 105,108-114,125,128,130-133,155-156,158,179-180,183,191
+packages/core/src/media/usage/content-repair.ts
+  s_97e3674bdac896::t_9641837196456b 469
+packages/core/src/media/usage/content-snapshots.ts
+  s_97e3674bdac896::t_5a7ed07745126b 15,22,73-76,88,90-91,94-99,103,153-157,159-160,163-169,172-173,199,201-207
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "16682530cbf8ce63528538add8f2fdbaf36849a0",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

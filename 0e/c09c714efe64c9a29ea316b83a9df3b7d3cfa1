@@ -1,0 +1,21 @@
+packages/admin/src/components/editor/CodeBlockNode.tsx
+  s_cd3ee911dc3a75::t_6c0a5a2a5f34ae 174
+packages/core/src/components/inline-code-block.tsx
+  s_cd3ee911dc3a75::t_d43d5ed326bcbd 277
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0ec09c714efe64c9a29ea316b83a9df3b7d3cfa1",
+  "prompts": {},
+  "sessions": {
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

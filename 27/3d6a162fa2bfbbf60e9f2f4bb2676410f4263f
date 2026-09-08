@@ -1,0 +1,41 @@
+.changeset/metal-wolves-scream.md
+  s_3291003d59bc7f::t_d6df6e816cfca8 2,5
+packages/cloudflare/package.json
+  s_e4518acc682442::t_d873fd1af0cab7 109
+packages/cloudflare/src/db/do-class.ts
+  s_e4518acc682442::t_33d083c79c6677 205-208,211-213,216-217,220-226,231
+packages/cloudflare/src/db/playground-loading.ts
+  s_3291003d59bc7f::t_fe9e6e024734c1 159-160,185,203-204,237,259,329,376,385-386,401,403-408,412-415,417-418,420,442-454
+packages/cloudflare/src/db/playground-middleware.ts
+  s_e4518acc682442::t_6393ddce6edc1b 18-19,23,25,36-50,70,72,79-82,86,88-95,105-111,117-135,138,140-145,147-165,167,170-177,179-193,195-202,205-213,215,244,251-253,262-264,283-285,287-299,306-309,339,345-356
+packages/cloudflare/src/db/playground.ts
+  s_e4518acc682442::t_251077c31614b9 48
+packages/cloudflare/tsconfig.json
+  s_e4518acc682442::t_d232e3dff403e8 14
+packages/cloudflare/tests/db/playground-loading.test.ts
+  s_3291003d59bc7f::t_9e5f1c06184d1d 29,36-43,62-64,66,82-84,87,89-90,95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "273d6a162fa2bfbbf60e9f2f4bb2676410f4263f",
+  "prompts": {},
+  "sessions": {
+    "s_3291003d59bc7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0541d-c568-7fb0-96e1-c146f3278641",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_e4518acc682442": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05476-042a-7853-bbfd-cba318634cb4",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

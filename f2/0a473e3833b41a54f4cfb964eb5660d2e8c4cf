@@ -1,0 +1,19 @@
+packages/admin/tests/components/MediaDetailPanelNavigation.test.tsx
+  s_97e3674bdac896::t_77eed262d12037 145-158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f20a473e3833b41a54f4cfb964eb5660d2e8c4cf",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+.changeset/add-resizable-content-editor-settings.md
+  s_97e3674bdac896::t_27b69b8af47156 1-5
+packages/admin/src/components/ContentEditor.tsx
+  s_97e3674bdac896::t_7b87d5943d5644 62-65,253,640,643-646,652,848-852,926,939-980
+packages/admin/tests/components/ContentEditor.test.tsx
+  s_97e3674bdac896::t_173276aa5eea3d 1,206-214,1197-1283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8da0266addbd077ae7e1e42215de3cff4d42ae63",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+packages/core/src/astro/middleware.ts
+  s_97e3674bdac896::t_242ba78c5f8d0f 964
+packages/core/tests/unit/astro/middleware-prerender.test.ts
+  s_97e3674bdac896::t_11dd0b2f12ea87 28,40,95-97,103,250,657-674
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "880b4c5d8a384d734ea7285266cf020e135b035c",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

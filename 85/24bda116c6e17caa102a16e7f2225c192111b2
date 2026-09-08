@@ -1,0 +1,47 @@
+packages/admin/src/components/ContentList.tsx
+  s_97e3674bdac896::t_222077efcda414 5,9,13,22,64,209-226,458-482,883,926,942-943,951-1018
+packages/admin/src/components/MediaLibrary.tsx
+  s_f7da1a00d7a35d::t_8499555bc8b229 82,934-935,965-996
+.changeset/refine-admin-table-toolbars.md
+  s_c444261db0d227::t_6dbe68a15c6e72 1-5
+packages/admin/src/components/TableToolbar.tsx
+  s_c444261db0d227::t_02cfc6e89d6385 1-59
+packages/admin/src/components/comments/CommentInbox.tsx
+  s_c444261db0d227::t_c0d8f7e4934645 8,11,24,198-215
+packages/admin/src/components/users/UserList.tsx
+  s_c444261db0d227::t_5eb232793c3d55 1,3,8,61-67,69,83
+packages/admin/tests/components/ContentList.test.tsx
+  s_c444261db0d227::t_bc6b1a78b84441 352-375
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8524bda116c6e17caa102a16e7f2225c192111b2",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_c444261db0d227": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a015ae-ff60-7762-8acb-068691722b97",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f7da1a00d7a35d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a015a7-d54d-7a90-9c40-5d48a814f2b7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

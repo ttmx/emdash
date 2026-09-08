@@ -1,0 +1,19 @@
+docs/src/content/docs/reference/rest-api.mdx
+  s_f8532f0b8288f2::t_fa9057acd8c9b2 362-363
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cad314c5cb448c799bccdc2261557e41f8d228ae",
+  "prompts": {},
+  "sessions": {
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

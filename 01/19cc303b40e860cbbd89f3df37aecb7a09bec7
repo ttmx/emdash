@@ -1,0 +1,39 @@
+docs/technical-specs/byline-editor-experience.md
+  s_97e3674bdac896::t_e52eab8c23cfa0 112-113
+packages/admin/src/components/BylineCreditsEditor.tsx
+  s_681f8ac6d2160d::t_e320ecd0916d88 396,463,470-476
+packages/admin/tests/components/BylineCreditsEditor.test.tsx
+  s_175ffb1df876da::t_ea439de4a779b2 268,287
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0119cc303b40e860cbbd89f3df37aecb7a09bec7",
+  "prompts": {},
+  "sessions": {
+    "s_175ffb1df876da": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a042a2-5ba0-76c2-8611-a9b63dc3a8e2",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_681f8ac6d2160d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03f61-517c-74e3-a368-e5bf63b7ac62",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

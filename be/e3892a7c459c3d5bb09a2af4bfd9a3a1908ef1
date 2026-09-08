@@ -1,0 +1,31 @@
+docs/technical-specs/issue-2344-numbered-list-continuity.md
+  s_7117dd1efa5f69::t_e59ac27d8f5545 18,26,50,62,130,155,176-177
+packages/core/src/client/portable-text.ts
+  s_ba5b69c70266ab::t_bb18f3ca338b52 65,69,96,102,170,243,252
+packages/core/tests/unit/client/portable-text.test.ts
+  s_ba5b69c70266ab::t_ef4d5ebe005f71 150,153,166-167,169,175,177,180,182-186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bee3892a7c459c3d5bb09a2af4bfd9a3a1908ef1",
+  "prompts": {},
+  "sessions": {
+    "s_7117dd1efa5f69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd37a-1ed4-7122-8e42-110dfcc855c8",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_ba5b69c70266ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd36d-1bcd-79d1-ab90-63ade35e2a95",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+.changeset/metal-wolves-scream.md
+  s_006500cecc2292::t_c2d0210661bfce 2
+packages/cloudflare/tests/db/playground-middleware.test.ts
+  s_6233aa94bc48af::t_4863a01277981c 76-79,85-87,96,173,178-189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "89033cb5ef6cd3ef5613efc94882fcacecc57da2",
+  "prompts": {},
+  "sessions": {
+    "s_006500cecc2292": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbc0dcf7fffeuhv9PevDVlaZwJ",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Bartek Bak <bartek@cloudflare.com>"
+    },
+    "s_6233aa94bc48af": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbd5896d7ffeMDxsyjQXNVYWrY",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Bartek Bak <bartek@cloudflare.com>"
+    }
+  }
+}

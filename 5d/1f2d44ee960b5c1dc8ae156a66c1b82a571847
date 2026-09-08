@@ -1,0 +1,21 @@
+packages/core/src/media/usage/collection-deletion-processor.ts
+  s_97e3674bdac896::t_4193e9ff7ec79a 270-297
+packages/core/tests/integration/database/media-usage-collection-deletion-processor.test.ts
+  s_97e3674bdac896::t_010ad836ca3d98 372-413
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5d1f2d44ee960b5c1dc8ae156a66c1b82a571847",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

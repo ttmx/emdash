@@ -1,0 +1,19 @@
+.changeset/quiet-media-usage-ready.md
+  s_eb694def01646c::t_09253f1ff5a73d 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6203df88d34487ca2d8b0fccf75cdd2c65d1dbc1",
+  "prompts": {},
+  "sessions": {
+    "s_eb694def01646c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0572e-9221-7441-9be1-5b6e55e12002",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

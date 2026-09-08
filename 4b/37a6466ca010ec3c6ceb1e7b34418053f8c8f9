@@ -1,0 +1,30 @@
+docs/src/content/docs/reference/rest-api.mdx
+  s_d16d84f5f0805b::t_a7b376e715300a 482
+  s_d16d84f5f0805b::t_1766d705f42e14 6,320,322-323,325,327-339,342-468,471-481
+docs/src/content/docs/guides/media-library.mdx
+  s_97e3674bdac896::t_a7aa867ebe7b8e 51-52,140,142,144,146,148,150-151,274-276
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4b37a6466ca010ec3c6ceb1e7b34418053f8c8f9",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_d16d84f5f0805b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01567-8907-77b2-b349-6119675cbd0b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

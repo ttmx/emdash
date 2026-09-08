@@ -1,0 +1,77 @@
+packages/admin/src/lib/api/media.ts
+  s_cd3ee911dc3a75::t_d50c21d15e7f95 41-42,345-352
+packages/core/src/api/handlers/media.ts
+  s_cd3ee911dc3a75::t_8ac1d24ce48a55 10,152,154-162
+packages/core/src/api/schemas/media.ts
+  s_cd3ee911dc3a75::t_48016b16595144 3-4,49-59,127-128
+packages/core/src/astro/routes/api/media/[id].ts
+  s_cd3ee911dc3a75::t_65b9a1b3d9da84 95-96
+packages/core/src/astro/types.ts
+  s_cd3ee911dc3a75::t_31ca62b1d84164 398-405
+packages/core/src/client/index.ts
+  s_cd3ee911dc3a75::t_9fce5c4e4ced03 196-197
+packages/core/src/database/types.ts
+  s_cd3ee911dc3a75::t_befcae268b5a64 70-71,690-691
+packages/core/src/emdash-runtime.ts
+  s_cd3ee911dc3a75::t_f49e9c7ad5f7f8 3522-3529
+packages/core/src/media/local-runtime.ts
+  s_ae64bef6a6a1c8::t_822b62769289a7 76-77,104-105,232-233,247-248
+packages/core/src/media/normalize.ts
+  s_cd3ee911dc3a75::t_b920f664ee0be5 12,142,150,175,183,242-246
+packages/core/src/media/types.ts
+  s_cd3ee911dc3a75::t_2eb1d5963a5654 9-10,90-92,272-274,289,297
+packages/core/tests/integration/database/media-focal-point.test.ts
+  s_cd3ee911dc3a75::t_6b3c4155bf20ec 1-61
+packages/core/tests/unit/api/media-focal-point.test.ts
+  s_2475d4feb449ab::t_dc48829a49aecd 1-59
+packages/core/src/database/migrations/071_media_focal_point.ts
+  s_4cdbe790b3997d::t_cdfc1e7352836f 1-21
+packages/core/src/database/migrations/runner.ts
+  s_4cdbe790b3997d::t_ffd3ea1c4e894e 76,148
+packages/core/src/database/repositories/media.ts
+  s_2475d4feb449ab::t_e58b2518479629 4,52-53,114-115,436-437,449-452,517,525-526
+packages/core/src/media/focal-point.ts
+  s_4cdbe790b3997d::t_8cdfa11a9a387e 1-36
+packages/core/tests/unit/media/focal-point-normalize.test.ts
+  s_2475d4feb449ab::t_eb1acf1fb81f36 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "89939abf7ff97b2deb843d17ffb7c666ded9f6af",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_4cdbe790b3997d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03097-c2d2-72d3-8dd0-f32fefa046e9",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_ae64bef6a6a1c8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03082-2266-7391-94af-26629829a196",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

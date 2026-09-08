@@ -1,0 +1,21 @@
+packages/admin/src/lib/api/media-usage-activation.ts
+  s_ef01222369bbb3::t_f6fa17601dc57d 1-166
+packages/admin/tests/lib/media-usage-activation-api.test.ts
+  s_ef01222369bbb3::t_a298468f4d9046 1-186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9d134a98488e85a936aeea7f664d591cff914d56",
+  "prompts": {},
+  "sessions": {
+    "s_ef01222369bbb3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a007eb-08c1-76c1-884e-05aa8dbedde8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+.changeset/quiet-code-block-actions.md
+  s_c2e587994379d4::t_2221a1c26cd1d0 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "02d2b649661e7151cd38f7f2dad0b5b234acecd5",
+  "prompts": {},
+  "sessions": {
+    "s_c2e587994379d4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0308a-ad88-76f3-bb6f-f872c5168bc0",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+packages/admin/tests/components/SortableContentSettingsSections.test.tsx
+  s_681f8ac6d2160d::t_d13735cf66615e 74,90-91
+packages/admin/src/components/SortableContentSettingsSections.tsx
+  s_681f8ac6d2160d::t_129826c54fcaa6 216-217
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "624ef5daf5ba5c3017725a0af6e96063c5af56c0",
+  "prompts": {},
+  "sessions": {
+    "s_681f8ac6d2160d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03f61-517c-74e3-a368-e5bf63b7ac62",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

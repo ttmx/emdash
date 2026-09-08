@@ -1,0 +1,21 @@
+packages/admin/src/components/MediaLibrary.tsx
+  s_6d0f8013b13b34::t_04650278b0f688 29,606
+packages/admin/src/components/MediaUploadDialog.tsx
+  s_6d0f8013b13b34::t_71ba55a00c7972 21-22,43,171,445
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "55621215eccf5df9c95100f11413ba3788432e1d",
+  "prompts": {},
+  "sessions": {
+    "s_6d0f8013b13b34": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01a75-e5c4-7811-8c4c-da439ba8fad3",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

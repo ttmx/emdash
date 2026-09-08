@@ -1,0 +1,37 @@
+packages/admin/src/components/DynamicPluginsUnavailable.tsx
+  s_24fc2aa0cf5a00::t_51d59a88c18973 1-63
+packages/admin/src/lib/api/client.ts
+  s_24fc2aa0cf5a00::t_3149f510622eee 179-188
+packages/admin/src/router.tsx
+  s_24fc2aa0cf5a00::t_7cd7056479dc07 37,1428-1435,1487-1493
+packages/admin/tests/components/DynamicPluginsUnavailable.test.tsx
+  s_24fc2aa0cf5a00::t_9f70c7dfdf1428 1-30
+packages/admin/tests/router.test.tsx
+  s_24fc2aa0cf5a00::t_33c0cf0568704a 45-57,432-490
+packages/core/src/astro/types.ts
+  s_24fc2aa0cf5a00::t_4c0026b32b7364 190-205
+packages/core/src/emdash-runtime.ts
+  s_24fc2aa0cf5a00::t_e8e05374e9efdf 445-463,2390-2398
+packages/core/tests/integration/runtime/manifest-sandbox-availability.test.ts
+  s_24fc2aa0cf5a00::t_bb7aba3e4b5fb2 1-78
+packages/core/tests/unit/runtime/manifest-build.test.ts
+  s_24fc2aa0cf5a00::t_976cd455f14b5a 27-30,43-44,165-183
+.changeset/gate-dynamic-plugins-sandbox.md
+  s_24fc2aa0cf5a00::t_5f610987ad4f3a 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4ed304df5f5e01dd41ccdd322f58494606e3bfd8",
+  "prompts": {},
+  "sessions": {
+    "s_24fc2aa0cf5a00": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "848b2c6c-570c-4251-abc6-7c716057e74c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Matt TK Taylor <matttaylor@cloudflare.com>"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+packages/cloudflare/src/worker.ts
+  s_97e3674bdac896::t_422180ceaef87e 84-90
+packages/cloudflare/tests/worker-scheduled.test.ts
+  s_97e3674bdac896::t_2879f8e0653bbc 28
+packages/core/src/emdash-runtime.ts
+  s_97e3674bdac896::t_06c3e208a076a0 1726-1733,1766-1771,1774
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_97e3674bdac896::t_0607c47fd06069 61-76,231-247
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5ce7f25e71e5aaa0a7a7f5e228cd7188390877c8",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

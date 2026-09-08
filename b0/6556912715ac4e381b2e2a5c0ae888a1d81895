@@ -1,0 +1,27 @@
+packages/admin/src/components/MediaLibrary.tsx
+  s_50fe09764cbc0c::t_3d80ace3f18795 75
+packages/admin/src/router.tsx
+  s_50fe09764cbc0c::t_3fbb143e8c00a4 1381
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_50fe09764cbc0c::t_620b845d154c80 72,309,319-320,327
+packages/admin/tests/lib/media-pagination.test.ts
+  s_50fe09764cbc0c::t_45870c0b4f7f79 23,27
+packages/admin/tests/router.test.tsx
+  s_50fe09764cbc0c::t_fba378d0938dee 159-160,313,319,322,324,330
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b06556912715ac4e381b2e2a5c0ae888a1d81895",
+  "prompts": {},
+  "sessions": {
+    "s_50fe09764cbc0c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01f40-9fe5-7fc2-a09f-1622fdee5896",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

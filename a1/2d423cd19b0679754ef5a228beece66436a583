@@ -1,0 +1,221 @@
+packages/admin/src/components/MediaLibrary.tsx
+  s_f8532f0b8288f2::t_4fe0a8c084fa49 599
+  s_bcd4ecffd7b6cd::t_cadd4ec7090892 601
+  s_cd3ee911dc3a75::t_107b60136daa38 26-28,30-41,43,47,49,53,70,72,105-124,138-182,197-215,218,249-255,296,376-378,382,388,392,408,416,428,442,463-485,506-529,541,592,600,602-653,678-720,722-748,761-832,847,872-873,944-1014,1020,1036-1046,1101-1107,1142-1147,1158-1199,1206-1214,1320,1325,1329-1541
+  s_cd3ee911dc3a75::t_93602fb24d0daf 23-25
+  s_cd3ee911dc3a75::t_33291272c515ca 530-532,538-540
+  s_cd3ee911dc3a75::t_280a31d60f4567 542-544,589-591
+  s_cd3ee911dc3a75::t_0aa326fc22f7ce 1542-1544
+  s_bcd4ecffd7b6cd::t_b145ee0f527d8b 1-22,533-537,545-588,593-598,1545,1597-1598,1602,1604-1611,1615-1616,1619-1620,1622,1624-1625,1633,1704-1705,1709,1712-1719,1723-1726,1728,1730-1731,1741
+docs/src/content/docs/guides/media-library.mdx
+  s_f8532f0b8288f2::t_f694ffa6fc505a 24,161-169,173-174
+  s_cd3ee911dc3a75::t_bcbdc847a18d2e 13-14,171-172
+  s_f8532f0b8288f2::t_d9e7206b61a11b 170,175-178
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_f8532f0b8288f2::t_d3f28b297304b7 303,321-341,454-456,463-466,468-473,551,575,671,675,707,733,739,747-767
+  s_f8532f0b8288f2::t_caf19f68a79830 297-302
+  s_f8532f0b8288f2::t_bd5cb40a153bad 8,11-43,67,91-104,121-125,158-171,189,193-296,304-320,342-453,457-462,467,474-480,482-483,485,490,492-493,498,506,511,515,518,520,522,528-530,533,535-537,544,549-550,556-557,559,569,576,579-580,584,588,592,596,601,605-606,608,621,624,627-631,633,637,643,646-647,650,652-656,659-661,664-665,668-669,677-678,680,690,694-695,700,702-703,709,713,717,721,728,732,736-737,745,768,1118,1247-1282,1295,1307
+  s_97e3674bdac896::t_7391649681ee5d 63-64
+  s_f8532f0b8288f2::t_d27de60026e44f 7
+  s_f8532f0b8288f2::t_e6c5be0079bc17 68
+  s_f8532f0b8288f2::t_f3379bb35b9139 481
+  s_f8532f0b8288f2::t_2a2298a22dac3c 484
+  s_f8532f0b8288f2::t_663d8e42d72a2c 486-489
+  s_f8532f0b8288f2::t_39997f6283667e 491
+  s_f8532f0b8288f2::t_0efb96f29fccb1 494-497
+  s_f8532f0b8288f2::t_7840e011fd1d6b 499-501,503-505
+  s_f8532f0b8288f2::t_929c5fab72f760 507-510
+  s_f8532f0b8288f2::t_4aed3bf14c87fd 512-514
+  s_f8532f0b8288f2::t_81733b45d97b6a 516-517
+  s_f8532f0b8288f2::t_7cd4829e1aab73 519
+  s_f8532f0b8288f2::t_7f7cf6df55ee43 521
+  s_f8532f0b8288f2::t_840edc7912de86 523-527
+  s_f8532f0b8288f2::t_a4bcbfedeaeac0 531-532
+  s_f8532f0b8288f2::t_142f56eb3bfe63 534
+  s_f8532f0b8288f2::t_525aa88ec32d17 538-543
+  s_f8532f0b8288f2::t_93a77073935222 545-548
+  s_f8532f0b8288f2::t_18051814258e77 552-555
+  s_f8532f0b8288f2::t_8d1bc2e0286df8 558
+  s_f8532f0b8288f2::t_64c0f277fff8d5 560-562,566-568
+  s_f8532f0b8288f2::t_1f946459242c90 570-574
+  s_f8532f0b8288f2::t_71e4743b9cf812 577-578
+  s_f8532f0b8288f2::t_cc9edc9bfc73f8 581-583
+  s_f8532f0b8288f2::t_ddc99e2c201879 585-587
+  s_f8532f0b8288f2::t_dc3fa51ba423db 589-591
+  s_f8532f0b8288f2::t_2f95f75aebb40c 593-595
+  s_f8532f0b8288f2::t_c6cd7cdfb5fde8 597-600
+  s_f8532f0b8288f2::t_8b49dd2da234d8 602-604
+  s_f8532f0b8288f2::t_4d9dc6e49dfbd3 607
+  s_f8532f0b8288f2::t_6cc0c4f2bfb3dd 609-611,618-620
+  s_f8532f0b8288f2::t_9caa5304d1a6f5 622-623
+  s_f8532f0b8288f2::t_a088239b7ebd0b 625-626
+  s_f8532f0b8288f2::t_ab2e09692b29dc 632
+  s_f8532f0b8288f2::t_b74c5554e88ed3 634-636
+  s_f8532f0b8288f2::t_2b6a3908b24b80 638-642
+  s_f8532f0b8288f2::t_168ca1fe242b51 644-645
+  s_f8532f0b8288f2::t_fa1f324e6bbf99 648-649
+  s_f8532f0b8288f2::t_61922beb850852 651
+  s_f8532f0b8288f2::t_59ba7c217fc15e 657-658
+  s_f8532f0b8288f2::t_0a1c771f2769d5 662-663
+  s_f8532f0b8288f2::t_18ea027398a960 666-667
+  s_f8532f0b8288f2::t_fb6a3fb8ec0688 670
+  s_f8532f0b8288f2::t_95eb87fdd63a65 672-674
+  s_f8532f0b8288f2::t_a9459cc946d05c 676
+  s_f8532f0b8288f2::t_bcec4bd399926e 679
+  s_f8532f0b8288f2::t_52d42eaf7b4141 681-683,687-689
+  s_f8532f0b8288f2::t_0276ec7b520a29 691-693
+  s_f8532f0b8288f2::t_ee775c22ce3d61 696-699
+  s_f8532f0b8288f2::t_a0a0f76b1226fa 701
+  s_f8532f0b8288f2::t_8020b15a978a86 704-706
+  s_f8532f0b8288f2::t_aadfcf94bb8061 708
+  s_f8532f0b8288f2::t_ea08dd254427d7 710-712
+  s_f8532f0b8288f2::t_71be4df6e64c82 714-716
+  s_f8532f0b8288f2::t_d982d914cf79d5 718-720
+  s_f8532f0b8288f2::t_986bdea6a10134 722-727
+  s_f8532f0b8288f2::t_c768292ce97bb8 729-731
+  s_f8532f0b8288f2::t_1310427ac95a6b 734-735
+  s_f8532f0b8288f2::t_d4606d2c57af06 738
+  s_f8532f0b8288f2::t_9c579906cdd25a 740-744
+  s_f8532f0b8288f2::t_6edf8b307950d8 746
+  s_f8532f0b8288f2::t_65a3059a516099 769
+  s_885fba9e22745a::t_f2ec9a3115d4c5 1,44-62,65-66,502,563-565,612-617,684-686,815,829,849,906,1035
+packages/admin/src/router.tsx
+  s_a0cbf957a4a1e6::t_8713daaf417fbe 88,117-122,831-832,1382-1387,1391,1393-1396,1403,1405-1453,1456-1459,1462,1466,1474-1479,1483,1532-1628,1639,1651-1669
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_f8532f0b8288f2::t_fd7151fcf1ae81 340-342
+  s_f8532f0b8288f2::t_83f3f1c27c0028 8-18,20-30,33-45,52-56,62,67,79,84,90,102-103,108-111,123,127-130,133,155,168,170-172,180-292,295-296,298,303-308,328-339,343,356-357,359-360,381,389,405,555-669,695,706,712,728,736,738,743,793-801
+e2e/tests/media-library.spec.ts
+  s_f8532f0b8288f2::t_7eed18a8a06c8e 581-641,643,673,681,685
+  s_f8532f0b8288f2::t_2558dc1e7d5932 97-117,199-513,524,527,537,550,564,568,570,647,665,667-668,676,716,719,730,732,734,738
+  s_f8532f0b8288f2::t_fe0f87358248c9 8,11,45,58-66,73-96,514-523,525-526,528-536,538-549,551-563,565-567,569,571-580,642,644-646,648-664,666,669-672,674-675,677-680,682-684,686-715,717-718,720-729,731,733,735-737,739-749
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_f8532f0b8288f2::t_e1c244de630b7b 342,358,360,364,367,369,382,385,396,399,419,425,429,439,451-453,460,467-468,470-471,473,482,493,500,503,513,520,524,526,535-537,545-547,549-552,556,558,561,565-567,581,584-590,592-594,599-603,605,607-636
+  s_f8532f0b8288f2::t_ee2a3cb4862e3e 158,161-184
+  s_f8532f0b8288f2::t_1700465e6f5f96 6,16-18,23-30,105-114,341,343-357,359,361-363,365-366,368,370-381,383-384,386-395,397-398,400-418,420-424,426-428,430-438,440-450,454-459,461-466,469,472,474-481,483-492,494-499,501-502,504-512,514-519,521-523,525,527-534,538-544,548,553-555,557,559-560,562-564,568-580,582-583,591,595-598,604,606,843-845
+e2e/tests/accessibility.spec.ts
+  s_93863a022d2c20::t_71a8cdae52812a 360-361
+  s_f8532f0b8288f2::t_5ba04db360c0ed 9,27-47,203-242,244-359,362-370
+.changeset/media-library-folder-ui.md
+  s_f8532f0b8288f2::t_aa903bdcc4803e 6
+  s_f8532f0b8288f2::t_ab95f865c8de24 1-5,7-8
+packages/admin/src/styles.css
+  s_f8532f0b8288f2::t_fa4d1acaf27802 82
+docs/src/content/docs/reference/rest-api.mdx
+  s_cd3ee911dc3a75::t_2d1c8358fb6231 368,371-386
+docs/technical-specs/media-library-folder-drag-drop.md
+  s_f8532f0b8288f2::t_6832b2eababb53 1-413
+docs/technical-specs/media-library-folders-pr2.md
+  s_f8532f0b8288f2::t_350afbf094ae97 1-501
+docs/technical-specs/media-library-folders-visual-polish.md
+  s_f8532f0b8288f2::t_60ae7ac2271f79 1-431
+packages/admin/src/components/MediaFolderDialog.tsx
+  s_f8532f0b8288f2::t_11b4c8a469b24d 1-193
+packages/admin/src/components/RouterLinkButton.tsx
+  s_f8532f0b8288f2::t_0764e6e63cc31d 39
+packages/admin/src/lib/api/client.ts
+  s_f8532f0b8288f2::t_c8b2d933baa404 25-36,71-72,77-78,80-85
+packages/admin/src/lib/api/index.ts
+  s_f8532f0b8288f2::t_6ae4d9ddcc073a 10,62-64,73-77
+packages/admin/src/lib/api/media.ts
+  s_f8532f0b8288f2::t_84a6e77efc0a73 54-66,70-71,80,92-96,115-122,129-186,432-440,445
+packages/admin/tests/components/MediaFolderDialog.test.tsx
+  s_f8532f0b8288f2::t_1e51ff33173acf 1-155
+packages/admin/tests/lib/api-client.test.ts
+  s_f8532f0b8288f2::t_afe2a37400dba9 3-8,140-162
+packages/admin/tests/lib/media-folders.test.ts
+  s_f8532f0b8288f2::t_76762a044a4c02 1-89
+packages/admin/tests/lib/media-pagination.test.ts
+  s_f8532f0b8288f2::t_27b6780c2c716a 12-14,31-39
+packages/admin/tests/router.test.tsx
+  s_f8532f0b8288f2::t_b73cc5d61b3746 118-130,137-152,161,172-183,194-233,332-361,409-578,618-842
+packages/core/src/api/errors.ts
+  s_f8532f0b8288f2::t_0ef866774bc9f0 90
+packages/core/src/api/handlers/index.ts
+  s_f8532f0b8288f2::t_d1eba9857b9575 65
+packages/core/src/api/handlers/media-folders.ts
+  s_f8532f0b8288f2::t_84e5e87a276415 16,32-49
+packages/core/src/api/openapi/document.ts
+  s_f8532f0b8288f2::t_57458c8f8c3c68 745-762
+packages/core/src/api/schemas/media.ts
+  s_f8532f0b8288f2::t_0fa62357e5d91d 73-75
+packages/core/src/astro/routes/api/media/folders/[id].ts
+  s_f8532f0b8288f2::t_aa2bfff0a1a323 5-9,22-32
+packages/core/src/astro/routes/api/media/folders/index.ts
+  s_f8532f0b8288f2::t_e2ddd3d7f578f5 20-24
+packages/core/src/client/index.ts
+  s_f8532f0b8288f2::t_e41f043bfb51b1 865,870,875-883
+packages/core/src/database/repositories/media-folders.ts
+  s_f8532f0b8288f2::t_c647c4fcc784f9 1,15-23,49-54
+packages/core/tests/unit/api/media-folders-handlers.test.ts
+  s_f8532f0b8288f2::t_5886713baf87ba 6,52-87
+packages/core/tests/unit/api/media-folders-routes.test.ts
+  s_f8532f0b8288f2::t_6a2d1cace453a2 8,155-178
+packages/core/tests/unit/api/openapi.test.ts
+  s_f8532f0b8288f2::t_f3f191d4b80a87 68-77
+packages/core/tests/unit/client/client.test.ts
+  s_f8532f0b8288f2::t_c8122627e967f3 754-756,772-777,786,791,794,796-800
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a12d423cd19b0679754ef5a228beece66436a583",
+  "prompts": {},
+  "sessions": {
+    "s_885fba9e22745a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03957-2175-7dd1-87b7-8c22049c6fc9",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_93863a022d2c20": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02389-3b2b-7643-83f5-e456206e395a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_a0cbf957a4a1e6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02358-7d13-7bb2-ac8c-1ed004512b24",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_bcd4ecffd7b6cd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03911-3b87-70d2-b50e-95d3915529fe",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+packages/admin/src/components/SetupWizard.tsx
+  s_97e3674bdac896::t_26457410e67a71 90,109
+.changeset/media-usage-activation-ui.md
+  s_97e3674bdac896::t_05d5a67b3c8a78 6
+docs/src/content/docs/guides/media-library.mdx
+  s_97e3674bdac896::t_9d577216108840 23
+docs/src/content/docs/reference/rest-api.mdx
+  s_97e3674bdac896::t_3ce4a5fda1a66d 510
+packages/admin/tests/components/SetupWizard.test.tsx
+  s_97e3674bdac896::t_b84d6df67080fa 108
+packages/core/src/emdash-runtime.ts
+  s_97e3674bdac896::t_2baa628d2f7d24 51,1380-1388
+packages/core/tests/integration/runtime/fresh-site-media-usage.test.ts
+  s_97e3674bdac896::t_31703ded0239de 1,3-13,15-17,20-30,32-35,37-40,43-44,46-48,51-54,57-58,60,62,65-67,70,75-81,83,85,87,90-97,99-102,104-110,113-130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2378332ad3983d4f76930bb40586009b6bc37728",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

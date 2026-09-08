@@ -1,0 +1,27 @@
+e2e/fixture/src/pages/posts/[slug].astro
+  s_6cf2eeb1ffa60c::t_8efbc8644fd0f1 15-25
+e2e/tests/code-block-highlighting.spec.ts
+  s_6cf2eeb1ffa60c::t_a4f8964ba25c66 1-2,5-22,44-62,147-149,165,172-173,221
+packages/admin/src/components/editor/CodeBlockNode.tsx
+  s_6cf2eeb1ffa60c::t_b78723fd5e82c5 196-200,208-209
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_6cf2eeb1ffa60c::t_e7730c78ad8e16 2312-2313,2315-2317,2321-2323,2345,2355
+packages/core/src/components/inline-code-block.tsx
+  s_6cf2eeb1ffa60c::t_b4f762941f94e5 295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e1b424679e778ed8215b63e0fdf717af8036bfe7",
+  "prompts": {},
+  "sessions": {
+    "s_6cf2eeb1ffa60c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a028d0-2aef-7fe3-9cc5-8638d2a0ec23",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

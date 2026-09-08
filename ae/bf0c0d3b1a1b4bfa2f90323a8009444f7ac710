@@ -1,0 +1,23 @@
+.changeset/bright-media-pages.md
+  s_50fe09764cbc0c::t_df6858fa17b0a6 2-3,6-8
+packages/admin/src/components/MediaLibrary.tsx
+  s_50fe09764cbc0c::t_0c492882500145 52-55,83-84,705-712
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_50fe09764cbc0c::t_b31da938422762 409-435
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "aebf0c0d3b1a1b4bfa2f90323a8009444f7ac710",
+  "prompts": {},
+  "sessions": {
+    "s_50fe09764cbc0c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01f40-9fe5-7fc2-a09f-1622fdee5896",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

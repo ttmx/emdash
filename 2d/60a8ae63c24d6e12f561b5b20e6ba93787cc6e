@@ -1,0 +1,19 @@
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_093c99014a98e9::t_66c87f6923427a 176,390,574-592
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2d60a8ae63c24d6e12f561b5b20e6ba93787cc6e",
+  "prompts": {},
+  "sessions": {
+    "s_093c99014a98e9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03f66-8ef9-7ab0-90d2-63bd4bf61cde",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

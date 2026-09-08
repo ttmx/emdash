@@ -1,0 +1,25 @@
+packages/admin/src/components/editor/CodeBlockNode.tsx
+  s_6cf2eeb1ffa60c::t_5d6803bd35e316 61,68,174-177
+packages/admin/tests/editor/PortableTextEditor.test.tsx
+  s_6cf2eeb1ffa60c::t_ab15ad41db12cb 1354
+packages/core/src/components/inline-code-block.tsx
+  s_6cf2eeb1ffa60c::t_5a8b62636b4cd4 119,126,277-280
+packages/core/tests/unit/components/inline-portable-text-code-block.test.ts
+  s_6cf2eeb1ffa60c::t_8753a3392624aa 190
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fda811607597de64584ba0ee8987503678b85e9f",
+  "prompts": {},
+  "sessions": {
+    "s_6cf2eeb1ffa60c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a028d0-2aef-7fe3-9cc5-8638d2a0ec23",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

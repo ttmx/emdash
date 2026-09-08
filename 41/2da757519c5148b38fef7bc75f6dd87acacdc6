@@ -1,0 +1,105 @@
+.changeset/media-focal-point.md
+  s_f8532f0b8288f2::t_fd1714c9d01fcb 1-6
+docs/src/content/docs/guides/media-library.mdx
+  s_f8532f0b8288f2::t_f71b07f972e760 209-222,487-488
+packages/admin/src/components/FocalPointEditor.tsx
+  s_f8532f0b8288f2::t_2a639676ed812c 1-167
+packages/admin/src/components/ImageFieldRenderer.tsx
+  s_f8532f0b8288f2::t_3111a175dd7f93 17,37-38,102-103,127-128,145,235
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_f8532f0b8288f2::t_b0c0b1b0e08814 15,26,46,49-55,58,61,123-126,129,147-148,186-189,191-192,199,319,381-391,460-480,484-487,493-534,536-553,556-558,560-565,569-576,579-591,596-597,599,610,612,614,622-629,813-851,853-857,938-941
+packages/admin/src/components/MediaLibrary.tsx
+  s_f8532f0b8288f2::t_a987743f73d5e4 64,1636,1745
+packages/admin/src/components/MediaPickerModal.tsx
+  s_f8532f0b8288f2::t_c6e0acb6f8f7dc 33,875
+packages/admin/src/components/PortableTextEditor.tsx
+  s_f8532f0b8288f2::t_90e4d03f9c42c1 251-252
+packages/admin/src/components/editor/GalleryDetailPanel.tsx
+  s_f8532f0b8288f2::t_a9f49c95c0c9fa 20,52-53,153-154,311
+packages/admin/src/components/editor/GalleryNode.tsx
+  s_f8532f0b8288f2::t_8d4b7c2d05a3d4 18,36-37,187
+packages/admin/src/lib/api/index.ts
+  s_f8532f0b8288f2::t_98c9f316b7ccc5 65
+packages/admin/src/lib/api/media.ts
+  s_f8532f0b8288f2::t_b29e032079cd65 41-42,432-442
+packages/admin/src/lib/media-utils.ts
+  s_f8532f0b8288f2::t_6995a57595141c 3-29
+packages/admin/tests/components/GalleryFocalPoint.test.ts
+  s_f8532f0b8288f2::t_8550be19117de9 1-20
+packages/admin/tests/components/ImageFieldRenderer.test.tsx
+  s_f8532f0b8288f2::t_bb4b1c5f8b4d81 23-24,43-44,73,129-130
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_f8532f0b8288f2::t_41f1194b25e21d 4,10-12,134-146,173-177,209-219,228-449,455-456,891,895,1055-1056,1062-1068
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_f8532f0b8288f2::t_f37d1fae3eda27 782-790,795
+packages/admin/tests/components/MediaPickerModal.test.tsx
+  s_f8532f0b8288f2::t_d3418656622c0b 31-32,88-92
+packages/core/src/api/handlers/media.ts
+  s_f8532f0b8288f2::t_86dae6f6dd0ac4 10,185,187-195
+packages/core/src/api/schemas/media.ts
+  s_f8532f0b8288f2::t_edb45d83a1d193 3-4,70-80,166-167
+packages/core/src/astro/routes/api/media/[id].ts
+  s_f8532f0b8288f2::t_74a409f6074bcb 96-97
+packages/core/src/astro/types.ts
+  s_f8532f0b8288f2::t_25886e6b4e2452 406-407
+packages/core/src/client/index.ts
+  s_f8532f0b8288f2::t_23f2486215c001 196-197,209-210
+packages/core/src/components/EmDashImage.astro
+  s_f8532f0b8288f2::t_393f9a777e9f7a 31,182,191-196,208,226
+packages/core/src/components/Gallery.astro
+  s_f8532f0b8288f2::t_7331cdab7f8371 16,35-36,78,152,169,181
+packages/core/src/content/converters/gallery.ts
+  s_f8532f0b8288f2::t_68dc32e0bf245c 49-50
+packages/core/src/content/converters/types.ts
+  s_f8532f0b8288f2::t_a11a27ec52b6b7 94-95
+packages/core/src/database/migrations/073_media_focal_point.ts
+  s_f8532f0b8288f2::t_48464c788bd415 1-57
+packages/core/src/database/repositories/media.ts
+  s_f8532f0b8288f2::t_0926bd6f5d2ef9 10,58-59,100,140-141,471-474,571,579-580
+packages/core/src/database/types.ts
+  s_f8532f0b8288f2::t_dc162090bf2cb9 70-71,698-699
+packages/core/src/emdash-runtime.ts
+  s_f8532f0b8288f2::t_a3af87017463ec 3530-3531
+packages/core/src/media/focal-point.ts
+  s_f8532f0b8288f2::t_bfd472053ff974 1-37
+packages/core/src/media/local-runtime.ts
+  s_f8532f0b8288f2::t_9d4f71bad4d8a2 76-77,104-105,232-233,247-248
+packages/core/src/media/normalize.ts
+  s_f8532f0b8288f2::t_8b95cf51fe997a 12,142,150,175,183,242-246
+packages/core/src/media/types.ts
+  s_f8532f0b8288f2::t_5b421fc392a90d 9-10,90-92,272-274,289,297
+packages/core/tests/integration/database/media-focal-point.test.ts
+  s_f8532f0b8288f2::t_6dd3ff49d3344e 1-61
+packages/core/tests/repro/focal-point-render.render.test.ts
+  s_f8532f0b8288f2::t_eb205ab6039579 1-87
+packages/core/tests/unit/api/media-focal-point.test.ts
+  s_f8532f0b8288f2::t_1d54875d0ef6bc 1-59
+packages/core/tests/unit/client/client.test.ts
+  s_f8532f0b8288f2::t_c1d02a81195856 762-764,789-794
+packages/core/tests/unit/converters/gallery-round-trip.test.ts
+  s_f8532f0b8288f2::t_25157e16140a24 19-20,60-61
+packages/core/tests/unit/media/focal-point-normalize.test.ts
+  s_f8532f0b8288f2::t_a917b3a9fa12ac 1-52
+packages/core/src/database/migrations/runner.ts
+  s_f8532f0b8288f2::t_8b0d2d1d6b840e 78,152
+packages/core/tests/integration/database/migrations.test.ts
+  s_f8532f0b8288f2::t_a584d48beec8db 189
+packages/core/tests/unit/database/migrations/073_media_focal_point.test.ts
+  s_f8532f0b8288f2::t_693c4f1cd96c55 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "412da757519c5148b38fef7bc75f6dd87acacdc6",
+  "prompts": {},
+  "sessions": {
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

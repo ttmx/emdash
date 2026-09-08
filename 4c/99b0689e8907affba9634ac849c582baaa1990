@@ -1,0 +1,31 @@
+packages/cloudflare/src/db/playground-loading.ts
+  s_6233aa94bc48af::t_02f159a95bb324 34-47,56,59,73-79,82-83,86-87,93-95,99-103,107-113,116-121,124-141,144-222,225-263,303-321,329-332,335-345,348-358,361-370,384-435,437-467,469-483,496-499,505-510,512
+packages/cloudflare/tests/db/playground-middleware.test.ts
+  s_6233aa94bc48af::t_ee807febd19ef7 1-174
+packages/cloudflare/tests/db/playground-loading.test.ts
+  s_6233aa94bc48af::t_e0bd8007bf0eeb 1-105
+packages/cloudflare/src/db/playground-do-class.ts
+  s_6233aa94bc48af::t_cfeb255df3ba97 1-199
+packages/cloudflare/src/db/playground.ts
+  s_6233aa94bc48af::t_0b2ae9f0f8217d 48
+packages/cloudflare/src/db/playground-middleware.ts
+  s_6233aa94bc48af::t_94d913177b1237 18-19,26-27,37-41,63,92-95,97-101,103,105-117,120-121,123-131,178-179,192-194,204-207,214-218,254-256,258-260
+packages/cloudflare/vitest.workerd.config.ts
+  s_6233aa94bc48af::t_33259e16a2af5b 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4c99b0689e8907affba9634ac849c582baaa1990",
+  "prompts": {},
+  "sessions": {
+    "s_6233aa94bc48af": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fbd5896d7ffeMDxsyjQXNVYWrY",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Bartek Bak <bartek@cloudflare.com>"
+    }
+  }
+}

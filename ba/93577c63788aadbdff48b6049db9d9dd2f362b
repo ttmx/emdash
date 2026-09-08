@@ -1,0 +1,21 @@
+docs/src/content/docs/guides/media-library.mdx
+  s_f8532f0b8288f2::t_f694ffa6fc505a 23,166-168,170-172
+.changeset/media-library-folder-ui.md
+  s_f8532f0b8288f2::t_aa903bdcc4803e 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ba93577c63788aadbdff48b6049db9d9dd2f362b",
+  "prompts": {},
+  "sessions": {
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_cd3ee911dc3a75::t_85dac893a1b9d2 2341,2352,2356,2371,2385,2392-2393,2399,2403,2409,2414,2431,2446,2454,2462,2472,2479,2488,2521,2526,2532
+packages/core/src/components/inline-code-block.tsx
+  s_cd3ee911dc3a75::t_de23dbc92b37eb 268-278,285-287,292
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ec4d22bbf86c07553cf902c806cc457ec686ba63",
+  "prompts": {},
+  "sessions": {
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

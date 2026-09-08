@@ -1,0 +1,29 @@
+packages/admin/src/components/MediaLibrary.tsx
+  s_97e3674bdac896::t_a901110b995fa6 379,381,383-384
+packages/admin/src/components/Settings.tsx
+  s_97e3674bdac896::t_b0784ec362b5ee 74
+packages/admin/src/components/settings/MediaUsageSettings.tsx
+  s_97e3674bdac896::t_08179a1246ae09 299,306,349,417,453-454,469,476,564,567,590
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_97e3674bdac896::t_1bd34f8df10db1 136,146-148,164,185-187,200,243
+packages/admin/tests/components/Settings.test.tsx
+  s_97e3674bdac896::t_2f2b50b068856e 104,110-112,120
+packages/admin/tests/components/settings/MediaUsageSettings.test.tsx
+  s_97e3674bdac896::t_84e1aed48314c1 85-88,99-103,143,155,159,200,230,238,257,267,330,340,345,380-382,463,469,567,628,648,723
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9e17069fafa075ce3551fba4403c451ee470a9ce",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

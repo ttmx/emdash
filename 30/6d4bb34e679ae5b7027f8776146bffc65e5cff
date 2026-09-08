@@ -1,0 +1,63 @@
+packages/core/tests/integration/content/draft-save-updated-at.test.ts
+  s_7117dd1efa5f69::t_b6c71bf17d96b9 20,92-93,95-96,103-108
+packages/core/tests/integration/content/publication-coordination.test.ts
+  s_7117dd1efa5f69::t_b210aef7a22974 1-249
+packages/core/tests/unit/database/repositories/byline.test.ts
+  s_7117dd1efa5f69::t_60cfc5218c1512 396-414
+packages/core/src/api/handlers/content.ts
+  s_256106e89e1349::t_8df40de03a7b2d 18,59-66,757,761,788,796-799,964,979,1033-1034,1193-1194,1236-1237,1297-1298,1412-1413,1457-1458,1616-1617,1688-1689,1895-1896,1899-1900,1904-1907
+packages/core/src/astro/routes/api/import/wordpress/rewrite-urls.ts
+  s_256106e89e1349::t_120265e02a6601 20,91,214
+packages/core/src/database/dialect-helpers.ts
+  s_256106e89e1349::t_f917853fbc1cf8 108-140
+packages/core/src/database/migrations/055_publication_coordination.ts
+  s_256106e89e1349::t_9d3758222feaae 1-68
+packages/core/src/database/migrations/runner.ts
+  s_256106e89e1349::t_357e1aa64ed7c8 60,116
+packages/core/src/database/repositories/content.ts
+  s_256106e89e1349::t_290eb63a767666 9-10,23-24,65-69,74-88,152-223,685-690,693-696,744,746-759,775-777,791-797,801-802,806,819-825,829-830,835,882-883,887,891,1159-1160,1163,1169-1175,1177,1179-1180,1182-1184,1207-1208,1211-1212,1217-1223,1225,1227-1228,1231-1233,1619-1620,1623-1630,1633,1643,1646-1654,1656,1658-1659,1661-1663,1687-1692,1695-1696,1713-1718,1720-1721,1723-1725,1737-1738,1741,1751-1756,1758-1759,1761-1763
+packages/core/src/database/repositories/revision.ts
+  s_256106e89e1349::t_285af2d829ce4e 138-142
+packages/core/src/database/repositories/types.ts
+  s_7117dd1efa5f69::t_7d254439b5c200 281-300
+packages/core/src/database/types.ts
+  s_7117dd1efa5f69::t_179c93501a4930 16-24,589
+packages/core/src/emdash-runtime.ts
+  s_7117dd1efa5f69::t_a02e076ce3302c 12,38,229,2849-2854,2869-2894,2896-2903,2906,2909-2920,3319-3333,3341-3346,3364-3369
+packages/core/src/loader.ts
+  s_7117dd1efa5f69::t_b99088e946541c 79-83
+packages/core/src/schema/registry.ts
+  s_7117dd1efa5f69::t_807fdb1633b562 929-933,967-972
+packages/core/src/schema/types.ts
+  s_7117dd1efa5f69::t_5df87bcddd822c 317-321
+packages/core/tests/integration/database/migrations.test.ts
+  s_256106e89e1349::t_faaa676b6f6a9e 144
+packages/core/tests/integration/plugins/capabilities.test.ts
+  s_256106e89e1349::t_c0c14d824b51a1 132-138
+packages/core/tests/integration/seed-portable-text-keys.test.ts
+  s_7117dd1efa5f69::t_ba5f6373c32aea 131-135
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "306d4bb34e679ae5b7027f8776146bffc65e5cff",
+  "prompts": {},
+  "sessions": {
+    "s_256106e89e1349": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd3ba-eb9e-7031-b825-fe0aa3250ba3",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_7117dd1efa5f69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd37a-1ed4-7122-8e42-110dfcc855c8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

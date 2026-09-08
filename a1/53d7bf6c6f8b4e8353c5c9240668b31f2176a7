@@ -1,0 +1,31 @@
+.changeset/bright-code-blocks.md
+  s_cd3ee911dc3a75::t_3b7c0e23e911b7 6
+docs/src/content/docs/guides/querying-content.mdx
+  s_6cf2eeb1ffa60c::t_46e5c44552760f 262,264,266-270,273-275,278,310
+docs/technical-specs/issue-2361-code-block-highlighting.md
+  s_cd3ee911dc3a75::t_1ed1ac435195d0 3,41,43,69,80,106,113,119-121,142,174,193,230,259,265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a153d7bf6c6f8b4e8353c5c9240668b31f2176a7",
+  "prompts": {},
+  "sessions": {
+    "s_6cf2eeb1ffa60c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a028d0-2aef-7fe3-9cc5-8638d2a0ec23",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+packages/admin/tests/components/ContentList.test.tsx
+  s_c6d2547d15b489::t_0d04780f045b98 414
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "76e69d755a2120027c0efc1f8433ce7aa208c932",
+  "prompts": {},
+  "sessions": {
+    "s_c6d2547d15b489": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01a74-cedf-7c83-a73c-6695cadab347",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

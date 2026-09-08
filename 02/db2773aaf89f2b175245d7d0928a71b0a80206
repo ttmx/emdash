@@ -1,0 +1,21 @@
+e2e/tests/admin-fixes.spec.ts
+  s_50fe09764cbc0c::t_9aa2e40002d3a5 99
+packages/admin/src/components/MediaLibrary.tsx
+  s_50fe09764cbc0c::t_ea4ab41ff2e894 569
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "02db2773aaf89f2b175245d7d0928a71b0a80206",
+  "prompts": {},
+  "sessions": {
+    "s_50fe09764cbc0c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01f40-9fe5-7fc2-a09f-1622fdee5896",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

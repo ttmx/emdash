@@ -1,0 +1,19 @@
+packages/core/tests/unit/content/portable-text-lists.test.ts
+  s_7117dd1efa5f69::t_52a724d653ffc9 111-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "adf6617f6baae6c98e5438addba74805d930b5af",
+  "prompts": {},
+  "sessions": {
+    "s_7117dd1efa5f69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd37a-1ed4-7122-8e42-110dfcc855c8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

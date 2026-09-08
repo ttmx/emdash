@@ -1,0 +1,19 @@
+packages/core/tests/unit/api/openapi.test.ts
+  s_97e3674bdac896::t_f0227dce143d91 124-143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "36b58d2df6fccbc97f0e7b77c6081db005be8490",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

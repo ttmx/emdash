@@ -1,0 +1,184 @@
+packages/admin/src/lib/api/client.ts
+  s_f8532f0b8288f2::t_12ee1d7505d0dc 25-36,71-72,77-78,80-85
+packages/admin/tests/lib/media-folders.test.ts
+  s_f8532f0b8288f2::t_e761f78e9a5894 1-89
+packages/admin/tests/lib/media-pagination.test.ts
+  s_f8532f0b8288f2::t_9d5de88fac4343 12-14,31-39
+packages/admin/tests/router.test.tsx
+  s_f8532f0b8288f2::t_3c975b41b73bb6 118-120,137-139,194-197,332-337,618-738,811-842
+  s_f8532f0b8288f2::t_9dd86aca26c4bf 121-128,140-147,198-223,338-346,739-766,768-798
+  s_f8532f0b8288f2::t_82514d20c06e79 129,148,224-229,767,799-810
+packages/core/tests/unit/api/media-folders-routes.test.ts
+  s_f8532f0b8288f2::t_a841f3dafffc6e 8,155-178
+packages/core/tests/unit/client/client.test.ts
+  s_f8532f0b8288f2::t_a6a3514370e15d 754-756,772-777,786,791,794,796-800
+docs/technical-specs/media-library-folders-pr2.md
+  s_202b6e3937f527::t_a01f360b58f747 1-94,104-217,219-230,237-419,428-501
+packages/admin/src/components/MediaLibrary.tsx
+  s_f8532f0b8288f2::t_fdb6077c2fdff4 1-9,12,28,30-31,33-41,70,72,113-122,198-213,249-251,296,382,388,392,408,416,428,442,506-523,530-534,681-701,705,707-715,717-719,751,764,766,787-790,792-795,798-805,809-813,815-817,820,822,825-827,961-965,966-984,987-991,994-998,1000-1011,1013-1017,1023,1039-1049,1174-1179,1182-1185,1332-1342,1350-1352,1355-1359,1362-1365,1372,1393-1394,1401,1407,1411-1417,1420-1424,1427-1430,1437,1448,1450-1453,1455-1462,1466-1495,1514-1530
+  s_f8532f0b8288f2::t_0405826aa6717b 47,123,214,376-378,1323,1328,1531-1539
+  s_202b6e3937f527::t_fdf89ec1a63f22 524,947-960,985,999,1012,1145-1150,1161-1173,1186-1202,1454,1496-1513
+  s_cd3ee911dc3a75::t_107b60136daa38 26,32,138-139,163-183,525-529,600-607,610-623,720-723,765,782-786,814,818-819,821,823-824,828-835,875-876,1344,1376,1388,1392,1404,1449,1544
+packages/admin/src/components/MediaFolderDialog.tsx
+  s_202b6e3937f527::t_7f27b654833e65 1-128,129-143,152-153,155-164,166-169,171-193
+  s_f8532f0b8288f2::t_95d10f134994a5 144-151,154,165,170
+packages/admin/src/components/RouterLinkButton.tsx
+  s_202b6e3937f527::t_8c9e49f638ff32 39
+packages/admin/src/router.tsx
+  s_f8532f0b8288f2::t_9ae6cf72407888 119-121,1396,1532-1588,1658-1667
+  s_202b6e3937f527::t_8fdd084035807c 831-832,1616-1624,1668
+  s_a0cbf957a4a1e6::t_8713daaf417fbe 88,1589-1615,1669
+packages/admin/tests/components/MediaFolderDialog.test.tsx
+  s_202b6e3937f527::t_c6b89d5f37e6fa 1-56,58-155
+  s_202b6e3937f527::t_122fb8c06cae98 57
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_202b6e3937f527::t_ccfe22b1d79cb0 1,44-62,65-68,121-125,168-171,223-244,253-270,476-487,489-492,501-507,566-580,585-597,608-609,617,619-661,687-741,753-760,763-764,1290,1302
+  s_97e3674bdac896::t_74d8297e66d0e4 245-252,581-584,598-607,610-616
+  s_202b6e3937f527::t_6aa85c2cfc806c 213-222,618,810,824,844,901,1030
+  s_202b6e3937f527::t_40203efed6d115 488,493-500,508-565,662-686
+  s_f8532f0b8288f2::t_bd5cb40a153bad 8,11-43,91-104,158-167,189,193-212,271-296,301-317,339-450,452-457,459,469-475,1113,1242-1277
+  s_f8532f0b8288f2::t_d3f28b297304b7 297-300,318-338,451,458-461,463-468,742-752,761-762
+e2e/tests/media-library.spec.ts
+  s_f8532f0b8288f2::t_8a6e8ed14e2f9f 73-80,576-577,579-580,583-584,586-604,664-669,699,702-711,723-750
+  s_f8532f0b8288f2::t_1a984615cef4a5 489-490,497-498,514-533,712-722
+  s_f8532f0b8288f2::t_564c6a869cf00a 199-285
+  s_f8532f0b8288f2::t_2558dc1e7d5932 97-102,394-440,460-483,486-488,491-496,499-513
+.changeset/media-library-folder-ui.md
+  s_202b6e3937f527::t_a98b09ab8ef258 1-5,7-8
+  s_f8532f0b8288f2::t_aa903bdcc4803e 6
+e2e/tests/accessibility.spec.ts
+  s_202b6e3937f527::t_54e9a68ee89a4c 203-241
+  s_202b6e3937f527::t_da1b79bccbadb3 244-318
+  s_93863a022d2c20::t_71a8cdae52812a 360-361
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_97e3674bdac896::t_6daea4f6d9c122 590-592,627,665
+  s_f8532f0b8288f2::t_fd7151fcf1ae81 340-342
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_97e3674bdac896::t_74887ed6af7c0a 355-357,359,370-372,498-500
+  s_f8532f0b8288f2::t_e1c244de630b7b 617-646
+docs/technical-specs/media-library-folders-visual-polish.md
+  s_202b6e3937f527::t_c1bf7a7d82b449 1-246,249,257-328,336-431
+e2e/fixture/emdash-env.d.ts
+  s_f8532f0b8288f2::t_7e767c939c3fda 42
+docs/src/content/docs/guides/media-library.mdx
+  s_f8532f0b8288f2::t_f694ffa6fc505a 24,167-169,173-174
+  s_cd3ee911dc3a75::t_bcbdc847a18d2e 13-14,171-172
+docs/src/content/docs/reference/rest-api.mdx
+  s_cd3ee911dc3a75::t_2d1c8358fb6231 368,371-386
+packages/admin/src/styles.css
+  s_f8532f0b8288f2::t_fa4d1acaf27802 82
+packages/admin/src/lib/api/media.ts
+  s_cd3ee911dc3a75::t_d50c21d15e7f95 41-42,434-438,440-442
+packages/core/src/api/handlers/media.ts
+  s_cd3ee911dc3a75::t_8ac1d24ce48a55 10,185,187-195
+packages/core/src/api/schemas/media.ts
+  s_cd3ee911dc3a75::t_48016b16595144 3-4,70-80,166-167
+packages/core/src/astro/routes/api/media/[id].ts
+  s_cd3ee911dc3a75::t_65b9a1b3d9da84 96-97
+packages/core/src/astro/types.ts
+  s_cd3ee911dc3a75::t_31ca62b1d84164 400-404,406-408
+packages/core/src/client/index.ts
+  s_cd3ee911dc3a75::t_9fce5c4e4ced03 196-197
+packages/core/src/database/types.ts
+  s_cd3ee911dc3a75::t_befcae268b5a64 70-71,698-699
+packages/core/src/emdash-runtime.ts
+  s_cd3ee911dc3a75::t_f49e9c7ad5f7f8 3524-3528,3530-3532
+packages/core/src/media/local-runtime.ts
+  s_ae64bef6a6a1c8::t_822b62769289a7 76-77,104-105,232-233,247-248
+packages/core/src/media/normalize.ts
+  s_cd3ee911dc3a75::t_b920f664ee0be5 12,142,150,175,183,242-246
+packages/core/src/media/types.ts
+  s_cd3ee911dc3a75::t_2eb1d5963a5654 9-10,90-92,272-274,289,297
+packages/core/tests/integration/database/media-focal-point.test.ts
+  s_cd3ee911dc3a75::t_6b3c4155bf20ec 1-61
+packages/core/tests/unit/api/media-focal-point.test.ts
+  s_2475d4feb449ab::t_dc48829a49aecd 1-59
+packages/core/src/database/migrations/072_media_focal_point.ts
+  s_4cdbe790b3997d::t_cdfc1e7352836f 1-21
+packages/core/src/database/repositories/media.ts
+  s_2475d4feb449ab::t_e58b2518479629 10,58-59,140-141,471-474,571,579-580
+packages/core/src/media/focal-point.ts
+  s_4cdbe790b3997d::t_8cdfa11a9a387e 1-36
+packages/core/tests/unit/media/focal-point-normalize.test.ts
+  s_2475d4feb449ab::t_eb1acf1fb81f36 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1ea878d089f18e80829f7709d715f0303accc9a1",
+  "prompts": {},
+  "sessions": {
+    "s_202b6e3937f527": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02131-bc26-71b2-bbac-02e6cb5fe95f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_4cdbe790b3997d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03097-c2d2-72d3-8dd0-f32fefa046e9",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_93863a022d2c20": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02389-3b2b-7643-83f5-e456206e395a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_a0cbf957a4a1e6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02358-7d13-7bb2-ac8c-1ed004512b24",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_ae64bef6a6a1c8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03082-2266-7391-94af-26629829a196",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

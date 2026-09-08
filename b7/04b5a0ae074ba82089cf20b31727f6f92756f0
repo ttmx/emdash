@@ -1,0 +1,43 @@
+packages/core/tests/integration/database/media-usage-projection-admission-runtime.test.ts
+  s_97e3674bdac896::t_9e91d58601c2d4 15,158,190
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_97e3674bdac896::t_367c227276fc7c 8,11,203-281,295,416,426-428,437,450-451,457
+packages/cloudflare/src/worker.ts
+  s_97e3674bdac896::t_5b015510f09897 18,148-151
+packages/cloudflare/tests/worker-scheduled.test.ts
+  s_8e30c3be547b84::t_96e6316d924beb 10-11,21,32,47,54,149,183,186,190-191,201-202,218,229,250
+packages/core/src/astro/middleware.ts
+  s_8e30c3be547b84::t_e6a0871eb2ac2b 46,313-318
+packages/core/src/emdash-runtime.ts
+  s_8e30c3be547b84::t_bed1b9a7e2ba11 45,53-54,56,60,559-560,801-804
+packages/core/src/media/usage/maintenance-engine.ts
+  s_8e30c3be547b84::t_49e7ff7f908ba3 4,26-31,87-105,135-142
+packages/core/tests/integration/database/media-usage-work-processor.test.ts
+  s_8e30c3be547b84::t_f91f14f4256769 16,289,302
+packages/core/tests/workerd/media-usage-maintenance-engine-d1.test.ts
+  s_97e3674bdac896::t_971d7ff39559d6 2,6,9-19,50-51,57-62,67,80,83,87-166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b704b5a0ae074ba82089cf20b31727f6f92756f0",
+  "prompts": {},
+  "sessions": {
+    "s_8e30c3be547b84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a00ad4-f52f-7090-baa3-5ecfed42931f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

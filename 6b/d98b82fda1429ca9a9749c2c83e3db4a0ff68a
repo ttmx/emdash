@@ -1,0 +1,45 @@
+packages/core/src/object-cache/index.ts
+  s_7117dd1efa5f69::t_94b19137665d16 528-531,535-543,549,557-559
+packages/core/src/taxonomies/index.ts
+  s_f44f80db446925::t_825e3c9d77c9ed 19,231-232,235-238,480,636
+scripts/query-counts.queries.sqlite.json
+  s_7117dd1efa5f69::t_6a0f508cbfd1b4 7-8,15-16,27,29-30,40,42-43,50-51,58-59,67-68,76-77,84,92,100-101,108-109,120-122,125,136-138,141,145,149,160,173,185,187-188,198,200-201
+packages/core/tests/integration/snapshot/snapshot.test.ts
+  s_256106e89e1349::t_d2bf32356bfc25 82,92
+packages/core/tests/unit/loader-scheduled-publishing.test.ts
+  s_256106e89e1349::t_5e389f06c49f53 5-8,18,48,50,57-112
+packages/core/tests/unit/taxonomies/term-counts.test.ts
+  s_256106e89e1349::t_bdca047c459737 3-4,124-125,128,133,137,142,147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6bd98b82fda1429ca9a9749c2c83e3db4a0ff68a",
+  "prompts": {},
+  "sessions": {
+    "s_256106e89e1349": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd3ba-eb9e-7031-b825-fe0aa3250ba3",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_7117dd1efa5f69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd37a-1ed4-7122-8e42-110dfcc855c8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_f44f80db446925": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd354-3ef4-7421-951b-517d241bd99c",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

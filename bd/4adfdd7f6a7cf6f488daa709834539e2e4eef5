@@ -1,0 +1,33 @@
+packages/admin/src/components/Settings.tsx
+  s_fc30e6f5144c91::t_5ffdf7c59ac735 20,46,52,58,68,74,84,93,99
+packages/admin/src/components/settings/GeneralSettings.tsx
+  s_8d2eb49104f369::t_070c6e34341678 8,10,16-30,37-41,48,53-56,59-63,66-67,118-120,123-129,131,135-146,148-166,168-169,171,173-174,177,179,181-182,186,188,190,192-193,195,200,204,207-209,213,221,241,244-245,247-251,253,258,262,265-268,271,279,299,302-304,306-310,312,314,318,320-321,323-324,326,328-329,332,334,336-337,340-345,355,363,365
+packages/admin/src/components/settings/SettingsLayout.tsx
+  s_8d2eb49104f369::t_3375ba5133969a 1-105
+packages/admin/tests/components/settings/GeneralSettings.test.tsx
+  s_8d2eb49104f369::t_36b3f70100d941 1-225
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bd4adfdd7f6a7cf6f488daa709834539e2e4eef5",
+  "prompts": {},
+  "sessions": {
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_fc30e6f5144c91": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0329f411cffeHqKuV5tth8MPgi",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+docs/src/content/docs/guides/media-library.mdx
+  s_97e3674bdac896::t_566bafaa39f0f2 25
+packages/admin/src/components/MediaLibrary.tsx
+  s_f7da1a00d7a35d::t_729def6e5da31e 29,184-185,187-189,313,328-330,470,494
+packages/admin/src/components/MediaUploadDialog.tsx
+  s_97e3674bdac896::t_c6b9dc6cb65f3a 21,412,420-428,431-432,436,445
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_97e3674bdac896::t_dbd543ad99e35a 128-143,145-147,149,166-173,223-227
+docs/technical-specs/media-library-direct-multi-file-upload.md
+  s_01f568d313ed91::t_1db481d56de23a 11-14,46,53-54,59-61,81-82,137,151,153-156,158-160,162,164,169,172-173,279-280,313-316,380,382,406-408,427-428,431,433,460,482-483,535-537
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c9e8c1e4a65e1edadc6c8860a984b8cf29f9fb09",
+  "prompts": {},
+  "sessions": {
+    "s_01f568d313ed91": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01700-b8ff-7cb2-92b3-97d1f8176b7d",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f7da1a00d7a35d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a015a7-d54d-7a90-9c40-5d48a814f2b7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

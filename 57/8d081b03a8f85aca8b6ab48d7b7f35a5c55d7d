@@ -1,0 +1,19 @@
+packages/admin/src/lib/api/media-usage-activation.ts
+  s_97e3674bdac896::t_e83bb6f252ea82 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "578d081b03a8f85aca8b6ab48d7b7f35a5c55d7d",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+packages/core/src/media/usage/deletion-cleanup.ts
+  s_97e3674bdac896::t_fe3f5b3498979d 1-654
+packages/core/tests/integration/database/media-usage-deletion-cleanup.test.ts
+  s_97e3674bdac896::t_255e93ac8e8e92 1-368
+packages/core/src/database/migrations/058_media_usage_deletion_cleanup_indexes.ts
+  s_8201988bce86e7::t_31540f05ad61b7 1-51
+packages/core/src/database/migrations/runner.ts
+  s_8201988bce86e7::t_9223416d549e05 63,122
+packages/core/src/emdash-runtime.ts
+  s_8201988bce86e7::t_69a6748d133159 49,517-527,714,1646
+packages/core/tests/integration/database/migrations.test.ts
+  s_8201988bce86e7::t_721dad8581ff3b 150
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_8201988bce86e7::t_4831d563d28d4e 23,34,41,52,172-204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "49d27190377b839af8c499ebe5d60baa918086c5",
+  "prompts": {},
+  "sessions": {
+    "s_8201988bce86e7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdc63-eac1-74a1-8eee-3c610f7b20bd",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

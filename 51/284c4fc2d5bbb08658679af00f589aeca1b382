@@ -1,0 +1,19 @@
+packages/admin/src/components/settings/ApiTokenSettings.tsx
+  s_8d2eb49104f369::t_71d6602d7739de 7,124,242-243,254,257-274,278,281-287,291,294-297,300-304,339-340,343,347-393
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "51284c4fc2d5bbb08658679af00f589aeca1b382",
+  "prompts": {},
+  "sessions": {
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

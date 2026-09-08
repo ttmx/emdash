@@ -1,0 +1,35 @@
+packages/core/src/database/repositories/media-usage.ts
+  s_97e3674bdac896::t_0c160d51084bb3 230-253,965-969,974-976,1415-1643,1658-1664,1668,1670-1683,1687-1692
+packages/core/src/media/usage/content-repair.ts
+  s_97e3674bdac896::t_bf65659e7d5af6 4,94-98,108,120,123,126-130,135-143,174,177-179,181,184,201,207,213,219-223,281,283,285-290,299-300,306-337,340,343,357,360-365,374,381,392,406,424,435-436,447,451,463,465,471,553,555,560,577,587-599,654,658,662-696,714,729-733,735,739-742,744,748,751,754,757-766
+.opencode/memory/active/media-usage-index-used-in/implementation/STEP_4.md
+  s_97e3674bdac896::t_30ef8b1115a353 1-67
+packages/core/src/database/repositories/media-usage-work.ts
+  s_97e3674bdac896::t_772272b3137dcb 11,156-169,273-279
+packages/core/src/media/usage/content-fields.ts
+  s_97e3674bdac896::t_bc3c4703a9c634 38,42,46-48
+packages/core/src/media/usage/work-processor.ts
+  s_97e3674bdac896::t_72e8b8ac31fc26 7,148-154,156,170-179,181
+packages/core/tests/integration/database/media-usage-content-repair.test.ts
+  s_97e3674bdac896::t_f023e9a56e7d63 7,128-257,1537-1619
+packages/core/tests/integration/database/media-usage-repository.test.ts
+  s_97e3674bdac896::t_c567d090d4f80a 1306-1356,1470-1488
+packages/core/tests/integration/database/media-usage-work-processor.test.ts
+  s_97e3674bdac896::t_539a24975ffcdd 43-45,62-131,146-155,223-225,244-250,396-403
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9b8a67bd52dd2b288ae4061756a9fc491b2be222",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

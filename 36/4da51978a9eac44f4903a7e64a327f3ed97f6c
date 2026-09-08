@@ -1,0 +1,35 @@
+packages/admin/src/lib/api/media.ts
+  s_3e8fc308d8a272::t_fbcb2e060a2424 18-25,89-90,119-120,124-127,133,144,147,151,171,186,192,204-208,216,225-229,234,236-246,248-250,253,256-261,268,270,282,297-298,307,311,314,317-325,442,444,452
+packages/admin/src/components/MediaLibrary.tsx
+  s_85d854709b1736::t_437175a64f0b39 19,57
+packages/admin/src/lib/api/index.ts
+  s_85d854709b1736::t_a3d2638806dc93 61,65
+packages/admin/src/router.tsx
+  s_85d854709b1736::t_f90ca5cedd103a 117,1393-1394,1414-1415
+packages/admin/tests/lib/media-upload.test.ts
+  s_85d854709b1736::t_4d7dfe435880d6 3,10-25,27,67,72,217-347
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "364da51978a9eac44f4903a7e64a327f3ed97f6c",
+  "prompts": {},
+  "sessions": {
+    "s_3e8fc308d8a272": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a014f4-f829-7c42-99cd-3bec947abf80",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_85d854709b1736": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0157d-ded0-7883-8a1a-3da30c41dd78",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

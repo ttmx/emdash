@@ -1,0 +1,47 @@
+packages/cloudflare/tests/do-config.test.ts
+  s_97e3674bdac896::t_c530bbc0779ba7 10,19
+packages/core/src/astro/integration/vite-config.ts
+  s_97e3674bdac896::t_21898af4371123 249-250
+packages/core/src/database/migrations/runner.ts
+  s_81e46038b58f17::t_0524d913402b09 69,134
+packages/core/src/database/types.ts
+  s_97e3674bdac896::t_97489bb5a1d631 238-255,625
+packages/core/src/db/adapters.ts
+  s_97e3674bdac896::t_71282bcadf20b8 29-54,94-95
+packages/core/src/db/index.ts
+  s_97e3674bdac896::t_9a80723fc10d92 29-31
+packages/core/src/index.ts
+  s_97e3674bdac896::t_b24cf6e18db334 560-562
+packages/core/src/virtual-modules.d.ts
+  s_97e3674bdac896::t_4b6acc4784fe65 38,86
+packages/core/tests/integration/database/media-usage-collection-deletion-foundation.test.ts
+  s_81e46038b58f17::t_4cd84e7afa9644 1-176
+packages/core/tests/integration/database/media-usage-collection-deletion-migration.test.ts
+  s_81e46038b58f17::t_18a996d6061dc8 1-73
+packages/core/tests/unit/astro/integration/virtual-modules.test.ts
+  s_97e3674bdac896::t_ab422ea27283d1 47,59,74,81-83,94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "822be307e84e42745fb55c56942aa9e72063e957",
+  "prompts": {},
+  "sessions": {
+    "s_81e46038b58f17": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fec52-49c2-7e21-9130-aee6df703d39",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

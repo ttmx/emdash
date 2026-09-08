@@ -1,0 +1,39 @@
+pnpm-lock.yaml
+  s_cd3ee911dc3a75::t_fad300294f5085 1743-1745,1809-1811,1824-1826
+.changeset/bright-code-blocks.md
+  s_8c9ce915612104::t_5853c6f2bd2554 1-6
+e2e/tests/code-block-highlighting.spec.ts
+  s_8c9ce915612104::t_de6a6a9856b50f 3,21-91
+packages/core/package.json
+  s_8c9ce915612104::t_89d3a471151091 245,266-267
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_cd3ee911dc3a75::t_e0685de7bbe14b 530,533,2287-2374
+packages/core/src/components/inline-code-block.tsx
+  s_8c9ce915612104::t_2dea74908eefca 5-7,14,17-18,21-38,273,290,353
+packages/core/tests/unit/components/inline-portable-text-code-block.test.ts
+  s_cd3ee911dc3a75::t_b4a58d7645fafc 1-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f2ed5c14e9b6f471734a67f1ac8124a4c74730bc",
+  "prompts": {},
+  "sessions": {
+    "s_8c9ce915612104": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024d1-7411-7020-83d3-10737a6c92ae",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

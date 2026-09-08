@@ -1,0 +1,29 @@
+.changeset/calm-lua-zig-code-blocks.md
+  s_2475d4feb449ab::t_544a14e8a9e4c1 2-3
+docs/technical-specs/issue-2361-code-block-highlighting.md
+  s_cd3ee911dc3a75::t_b55274478e0a5e 3,24,37,41-44,55,75,239,306
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "48df5c84c4155c7796ff7c3e55b08ba7daaee4e6",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

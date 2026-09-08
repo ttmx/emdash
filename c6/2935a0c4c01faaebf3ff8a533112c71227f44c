@@ -1,0 +1,67 @@
+.changeset/fast-media-usage-backfill.md
+  s_8e30c3be547b84::t_b6a7b6b08a7c79 1-6
+demos/cloudflare/src/worker.ts
+  s_97e3674bdac896::t_61c394adddb5bc 10-15,19-20,23-25
+demos/cloudflare/worker-configuration.d.ts
+  s_8e30c3be547b84::t_242203aa7054ac 11
+demos/cloudflare/wrangler.jsonc
+  s_8e30c3be547b84::t_aa1f6815cead54 37-54
+docs/src/content/docs/deployment/cloudflare.mdx
+  s_8e30c3be547b84::t_6047b7896fc06e 83,85,91-92,95-97,100,107-123,127-137,140
+docs/src/content/docs/deployment/nodejs.mdx
+  s_8e30c3be547b84::t_af4876e0477dea 61-64
+packages/core/tests/workerd/media-usage-maintenance-engine-d1.test.ts
+  s_8e30c3be547b84::t_5c23a837312a6c 1-159
+templates/blog-cloudflare/src/worker.ts
+  s_8e30c3be547b84::t_f32e3325ce4eba 1-6,10-11,14-16
+templates/blog-cloudflare/tsconfig.json
+  s_97e3674bdac896::t_d38617c5aedb2f 6
+templates/blog-cloudflare/worker-configuration.d.ts
+  s_8e30c3be547b84::t_33aae3eac37bfe 8
+templates/blog-cloudflare/wrangler.jsonc
+  s_8e30c3be547b84::t_f6e1e5701837a0 25-41
+templates/marketing-cloudflare/src/worker.ts
+  s_8e30c3be547b84::t_80dd50fe472465 1-6,10-11,14-16
+templates/marketing-cloudflare/worker-configuration.d.ts
+  s_8e30c3be547b84::t_d22a9cd722ee48 8
+templates/marketing-cloudflare/wrangler.jsonc
+  s_8e30c3be547b84::t_71e1e66673e585 25-41
+templates/portfolio-cloudflare/src/worker.ts
+  s_8e30c3be547b84::t_17a0f5b31b6c49 1-6,10-11,14-16
+templates/portfolio-cloudflare/worker-configuration.d.ts
+  s_8e30c3be547b84::t_55ee2db8bfaf16 8
+templates/portfolio-cloudflare/wrangler.jsonc
+  s_97e3674bdac896::t_b97d0ea4938695 25-41
+templates/starter-cloudflare/src/worker.ts
+  s_97e3674bdac896::t_f6586dc0ecf377 1-6,10-11,14-16
+templates/starter-cloudflare/tsconfig.json
+  s_97e3674bdac896::t_585156879d2a69 6
+templates/starter-cloudflare/worker-configuration.d.ts
+  s_8e30c3be547b84::t_920253b800634a 8
+templates/starter-cloudflare/wrangler.jsonc
+  s_97e3674bdac896::t_e83c06cf46ecac 25-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c62935a0c4c01faaebf3ff8a533112c71227f44c",
+  "prompts": {},
+  "sessions": {
+    "s_8e30c3be547b84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a00ad4-f52f-7090-baa3-5ecfed42931f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

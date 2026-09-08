@@ -1,0 +1,29 @@
+packages/core/tests/unit/components/inline-portable-text-code-block.test.ts
+  s_cd3ee911dc3a75::t_b76cac7d9ca78c 12,176-255
+packages/admin/tests/editor/PortableTextEditor.test.tsx
+  s_3e537ebcaa3d29::t_1c002a7d457490 1350-1387
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2bf063b2a717f10ea906bbbff11d13506ef09e49",
+  "prompts": {},
+  "sessions": {
+    "s_3e537ebcaa3d29": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02981-027d-7ca2-84d0-0ecb8e568a2a",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

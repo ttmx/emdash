@@ -1,0 +1,31 @@
+.changeset/code-block-tab-indentation.md
+  s_cd3ee911dc3a75::t_08cfcc1581505f 1-6
+packages/core/src/components/inline-code-block.tsx
+  s_cd3ee911dc3a75::t_328a58aecdb476 340-353,357
+packages/core/tests/unit/components/inline-code-block.test.ts
+  s_45674ba454ddc8::t_dd6a75e2e09321 1-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ea36fefe7d16d3c4464fd9da94b1d1a121450fc6",
+  "prompts": {},
+  "sessions": {
+    "s_45674ba454ddc8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024e6-526f-7ac2-ba5a-8597e957ca37",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

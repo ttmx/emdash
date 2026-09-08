@@ -1,0 +1,37 @@
+packages/core/src/emdash-runtime.ts
+  s_97e3674bdac896::t_a036f47e9f8142 45,544-551
+packages/core/src/media/usage/collection-deletion-processor.ts
+  s_97e3674bdac896::t_709a278ae9d8a5 1-345
+packages/core/tests/workerd/media-usage-collection-deletion-d1.test.ts
+  s_97e3674bdac896::t_ccde33e96c86e8 9,149-186
+packages/core/src/media/usage/collection-deletion.ts
+  s_97e3674bdac896::t_b321356389426d 131-166,175-180,199-200,223-248,293,304-307,309-312,344-350,352-354,356,393-398,411-416,627-630
+packages/core/tests/integration/database/media-usage-collection-deletion-processor.test.ts
+  s_97e3674bdac896::t_e4c7f146c28487 1-331
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_81e46038b58f17::t_623382c9ecf3fb 51-71,189-197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a576d1039a92f993f420421cdf955c422ffe09d8",
+  "prompts": {},
+  "sessions": {
+    "s_81e46038b58f17": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fec52-49c2-7e21-9130-aee6df703d39",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

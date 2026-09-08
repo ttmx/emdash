@@ -1,0 +1,19 @@
+packages/admin/tests/lib/media-api.test.ts
+  s_97e3674bdac896::t_c079d07471d247 5-9,45,69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c6b9ca849a6a62b1a4adc2e492fed55b78f72f19",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

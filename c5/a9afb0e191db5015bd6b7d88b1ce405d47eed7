@@ -1,0 +1,47 @@
+docs/technical-specs/issue-2361-lua-zig-language-suggestions.md
+  s_2475d4feb449ab::t_cafb85796892a8 1-166
+packages/admin/tests/editor/CodeBlockNode.test.ts
+  s_ae64bef6a6a1c8::t_9ba9c63ee87b52 86
+packages/admin/tests/editor/codeBlockLanguages.test.ts
+  s_2475d4feb449ab::t_d4b2b7355e6a2b 33-41
+packages/core/tests/unit/components/inline-portable-text-code-block.test.ts
+  s_2475d4feb449ab::t_d7a55014e3676e 90,114-141
+.changeset/calm-lua-zig-code-blocks.md
+  s_6cf2eeb1ffa60c::t_05af5d5ee3834e 1-6
+packages/admin/src/components/editor/codeBlockLanguages.ts
+  s_6cf2eeb1ffa60c::t_85dd0444f85ccb 9-10,43,60
+packages/core/src/components/inline-code-block.tsx
+  s_6cf2eeb1ffa60c::t_33231998101abc 63,80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c5a9afb0e191db5015bd6b7d88b1ce405d47eed7",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_6cf2eeb1ffa60c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a028d0-2aef-7fe3-9cc5-8638d2a0ec23",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_ae64bef6a6a1c8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03082-2266-7391-94af-26629829a196",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

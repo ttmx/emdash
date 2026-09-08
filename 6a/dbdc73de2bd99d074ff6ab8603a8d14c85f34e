@@ -1,0 +1,48 @@
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_8e30c3be547b84::t_459442c5dffb9f 17-34,88-118
+docs/src/content/docs/deployment/cloudflare.mdx
+  s_8e30c3be547b84::t_e768665b5464f9 113-119
+packages/admin/tests/components/settings/MediaUsageSettings.test.tsx
+  s_8e30c3be547b84::t_b2b4856f067d0b 197
+  s_8e30c3be547b84::t_ac45d288e20775 10,22,103-107,175,214,269,274-296,298-309
+packages/admin/src/lib/api/media-usage-activation.ts
+  s_8e30c3be547b84::t_1ece63a0e923d9 27-32,61-68,176-193
+packages/admin/src/components/MediaLibrary.tsx
+  s_8e30c3be547b84::t_bafea8fa010911 1,25-29,41,89-99,388-401
+docs/src/content/docs/guides/media-library.mdx
+  s_97e3674bdac896::t_0e8375385aaf5e 17-30
+.changeset/media-usage-activation-ui.md
+  s_97e3674bdac896::t_63e4ae07a85666 1-6
+packages/admin/tests/lib/media-usage-activation-api.test.ts
+  s_8e30c3be547b84::t_cee2a10871f808 7,11,63-80
+docs/src/content/docs/deployment/nodejs.mdx
+  s_8e30c3be547b84::t_4c2ac0533e8c91 66-72
+packages/admin/src/components/settings/MediaUsageSettings.tsx
+  s_97e3674bdac896::t_df3eac34d932cc 12,14,23,49-57,89-91,95,241-254,271-287,315,324-325,329-330,336-385,395,397,399-400,518
+docs/src/content/docs/reference/rest-api.mdx
+  s_97e3674bdac896::t_e96139e6639458 374-376,435-444
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6adbdc73de2bd99d074ff6ab8603a8d14c85f34e",
+  "prompts": {},
+  "sessions": {
+    "s_8e30c3be547b84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a00ad4-f52f-7090-baa3-5ecfed42931f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

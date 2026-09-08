@@ -1,0 +1,37 @@
+packages/core/src/database/migrations/066_media_usage_reconciliation.ts
+  s_97e3674bdac896::t_b8223c20f8ad12 1-115
+packages/core/src/database/migrations/runner.ts
+  s_97e3674bdac896::t_da967b2ac0b9cb 71,138
+packages/core/src/database/types.ts
+  s_97e3674bdac896::t_025a17f30cfd39 219,257-277,648
+packages/core/src/media/usage/reconciliation.ts
+  s_81e46038b58f17::t_c10067570d03f2 1-439
+packages/core/tests/integration/database/media-usage-incremental-work-migration.test.ts
+  s_81e46038b58f17::t_c0b8e4a97090b8 52-54,70-72,218-220
+packages/core/tests/integration/database/media-usage-reconciliation-foundation.test.ts
+  s_81e46038b58f17::t_54cd88c8044380 1-291
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e2a18b64cb1dbeab33e981de1e23f1efba9403bf",
+  "prompts": {},
+  "sessions": {
+    "s_81e46038b58f17": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fec52-49c2-7e21-9130-aee6df703d39",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

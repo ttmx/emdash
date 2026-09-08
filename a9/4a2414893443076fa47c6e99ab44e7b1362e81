@@ -1,0 +1,47 @@
+packages/admin/src/components/settings/SocialSettings.tsx
+  s_db9d1563e8e15a::t_ffc222773ea090 106
+packages/admin/tests/components/Settings.test.tsx
+  s_db9d1563e8e15a::t_b4492a88588dd6 69-71,103-105,116
+packages/admin/tests/components/settings/AllowedDomainsSettings.test.tsx
+  s_db9d1563e8e15a::t_5ddae54a9bb431 92
+packages/admin/tests/components/settings/BackupSettings.test.tsx
+  s_db9d1563e8e15a::t_867f72315f0cab 126,128-130,176
+packages/admin/src/components/settings/ApiTokenSettings.tsx
+  s_97e3674bdac896::t_c426d060e667af 211,497,511
+packages/admin/src/components/settings/GeneralSettings.tsx
+  s_97e3674bdac896::t_90ce30b1911feb 135
+packages/admin/src/components/settings/SeoSettings.tsx
+  s_8d2eb49104f369::t_d37f2c2047d16d 134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a94a2414893443076fa47c6e99ab44e7b1362e81",
+  "prompts": {},
+  "sessions": {
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_db9d1563e8e15a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0479495ceffe8xHZV3wAQZpEMC",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

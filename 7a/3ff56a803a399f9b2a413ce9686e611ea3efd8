@@ -1,0 +1,19 @@
+packages/cloudflare/tests/worker-scheduled.test.ts
+  s_97e3674bdac896::t_e17f171a71dc6c 25-28,30-34,59-86,94-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7a3ff56a803a399f9b2a413ce9686e611ea3efd8",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

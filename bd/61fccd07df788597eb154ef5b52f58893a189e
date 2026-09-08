@@ -1,0 +1,90 @@
+e2e/global-setup.ts
+  s_45674ba454ddc8::t_5bf2a00ed4bc40 260-284
+e2e/tests/code-block-highlighting.spec.ts
+  s_cd3ee911dc3a75::t_f8ef15d077155b 1-2,4-19,218
+  s_8c9ce915612104::t_de6a6a9856b50f 3,145-192,194-197,201-218
+  s_8c9ce915612104::t_d82db0f44af66f 20-31,193,198-200
+packages/admin/package.json
+  s_45674ba454ddc8::t_31e842f3e226b0 58,84-85
+packages/admin/src/components/PortableTextEditor.tsx
+  s_45674ba454ddc8::t_a4e288cb8eb625 1031-1034,1037
+packages/admin/src/components/editor/CodeBlockNode.tsx
+  s_45674ba454ddc8::t_2ba76e3a29e605 4,22,25-26,46-61,292
+  s_cd3ee911dc3a75::t_b8c3416290fc59 35-45
+packages/admin/src/styles.css
+  s_cd3ee911dc3a75::t_0a9feac3dddd9d 246,248-253,254,255-257,259-261,263-264,266-268,269-305
+  s_8c9ce915612104::t_2a5fbd1a723da2 247,262,265
+pnpm-lock.yaml
+  s_cd3ee911dc3a75::t_e9a1d4c63d63ff 147-149,249-251,261-263,1308-1310,1386-1391,7693-7701,9663-9666,10178-10180,18374-18381,21184-21185,21659-21664
+  s_cd3ee911dc3a75::t_fad300294f5085 1850-1852,1913-1915,1928-1930
+packages/admin/tests/editor/CodeBlockNode.test.ts
+  s_8c9ce915612104::t_67fb6023da7921 48,51-52,54,68,108,149-200
+packages/admin/tests/editor/PortableTextEditor.code-block.test.ts
+  s_cd3ee911dc3a75::t_127332330f00f7 1-40
+pnpm-workspace.yaml
+  s_8c9ce915612104::t_d8e579250badfd 123,157,161
+.changeset/bright-code-blocks.md
+  s_8c9ce915612104::t_5853c6f2bd2554 1-5
+  s_cd3ee911dc3a75::t_3b7c0e23e911b7 6
+packages/core/package.json
+  s_8c9ce915612104::t_89d3a471151091 245,265-266
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_cd3ee911dc3a75::t_e0685de7bbe14b 530,533,2287,2289-2308,2309-2354,2356-2357,2359-2373
+  s_cd3ee911dc3a75::t_f081ea8dd346b7 2288,2355,2358
+packages/core/src/components/inline-code-block.tsx
+  s_8c9ce915612104::t_2dea74908eefca 5-7,14,17-18,32-47,282,299,362
+  s_6cf2eeb1ffa60c::t_0f1cf77cec93a4 21-31
+packages/core/tests/unit/components/inline-portable-text-code-block.test.ts
+  s_cd3ee911dc3a75::t_b4a58d7645fafc 1-67
+docs/src/content/docs/guides/querying-content.mdx
+  s_cd3ee911dc3a75::t_53e9b852732177 282,296,299
+  s_6cf2eeb1ffa60c::t_46e5c44552760f 262,264,266-270,273-275,278,310
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bd61fccd07df788597eb154ef5b52f58893a189e",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_45674ba454ddc8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024e6-526f-7ac2-ba5a-8597e957ca37",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_6cf2eeb1ffa60c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a028d0-2aef-7fe3-9cc5-8638d2a0ec23",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_8c9ce915612104": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024d1-7411-7020-83d3-10737a6c92ae",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

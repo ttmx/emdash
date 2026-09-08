@@ -1,0 +1,47 @@
+.changeset/steady-cats-retry.md
+  s_97e3674bdac896::t_99a17d487eb392 5
+docs/src/content/docs/guides/media-library.mdx
+  s_8daf3c2a3b366d::t_1380105c8470c4 257-264,293,296-300
+docs/src/content/docs/reference/rest-api.mdx
+  s_97e3674bdac896::t_fdeed0e9501377 198,382,404,427-431
+packages/core/src/api/media-usage-write-fence.ts
+  s_97e3674bdac896::t_c1f565be93ab4b 3,41
+packages/core/src/api/openapi/document.ts
+  s_97e3674bdac896::t_0edb9f1caaaf8a 803,823
+packages/core/src/media/usage/activation.ts
+  s_97e3674bdac896::t_ce3526468c9a2b 4,307-308,404-405,422,425
+packages/core/src/media/usage/content-refresh.ts
+  s_97e3674bdac896::t_00814a536c5b8d 3,441-446
+packages/core/src/media/usage/work-processor.ts
+  s_97e3674bdac896::t_f28ffb6d5190b2 169
+packages/core/tests/integration/database/media-usage-activation.test.ts
+  s_97e3674bdac896::t_313e50f7d3b18a 4,7,11,47-76
+packages/core/tests/integration/database/media-usage-content-repair.test.ts
+  s_97e3674bdac896::t_2c24eb69b3a2b9 160-169
+packages/core/tests/integration/database/media-usage-work-processor.test.ts
+  s_97e3674bdac896::t_cdd2ea4a8f7e47 320
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b1c0032bcfef01bc939cc219226b4d1cf7a8ccea",
+  "prompts": {},
+  "sessions": {
+    "s_8daf3c2a3b366d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fec47-f4ae-7a02-8ac3-4f831ae01cf7",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

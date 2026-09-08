@@ -1,0 +1,25 @@
+packages/admin/src/components/ContentList.tsx
+  s_0f09f26b06bbd0::t_864f3a32e5d65a 39
+packages/admin/src/components/ContentSettingsPanel.tsx
+  s_0f09f26b06bbd0::t_fc05e59d825b1d 38,465-466
+packages/admin/src/components/ContentStatusBadge.tsx
+  s_0f09f26b06bbd0::t_a40cd9021a3d65 41-44
+packages/admin/tests/components/ContentSettingsPanel.test.tsx
+  s_0f09f26b06bbd0::t_29ad4b8e46e408 156-180
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ad632a92b480f715e79d420223e6c1d2b2738fd4",
+  "prompts": {},
+  "sessions": {
+    "s_0f09f26b06bbd0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fcec9-8191-7381-aa6d-db9c29b859e1",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

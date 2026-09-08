@@ -1,0 +1,23 @@
+.changeset/clear-media-usage-tabs.md
+  s_175ffb1df876da::t_e75be6718c8bb0 1-5
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_175ffb1df876da::t_a37a68129be779 64,116,204,496,500,503-509,513-524,531-535,537,539-545,551,672,919-928
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_175ffb1df876da::t_508d1a3887708e 27-28,225,227-235,237-270,337-338,341-343
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2dc21b0f7ba1fa78a70f7cf6a3e874fd407eea21",
+  "prompts": {},
+  "sessions": {
+    "s_175ffb1df876da": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a042a2-5ba0-76c2-8611-a9b63dc3a8e2",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+packages/create-emdash/src/flags.ts
+  s_d29e548ac2fd7f::t_b82b7dbbb04f22 21-26,109-110,233-238,277-279
+packages/create-emdash/src/index.ts
+  s_d29e548ac2fd7f::t_e357b6ededdf35 34-39,308-327,366,414,439-448
+packages/create-emdash/src/utils.ts
+  s_d29e548ac2fd7f::t_7eda8b517f295a 89-140
+packages/create-emdash/tests/flags.test.ts
+  s_d29e548ac2fd7f::t_ac7681384331f5 221-240
+templates/marketing-cloudflare/wrangler.jsonc
+  s_1215417103765c::t_e0db194383ce59 19-20
+templates/portfolio-cloudflare/wrangler.jsonc
+  s_1215417103765c::t_a5bcceed1b67e2 19-20
+templates/starter-cloudflare/wrangler.jsonc
+  s_1215417103765c::t_953d8eafb38559 19-20
+.changeset/quiet-sandboxes-listen.md
+  s_d29e548ac2fd7f::t_a20b6ba834d590 1-7
+docs/src/content/docs/plugins/installing.mdx
+  s_d29e548ac2fd7f::t_6e318c21e88198 22-24,27-32,35-43
+packages/cloudflare/package.json
+  s_d29e548ac2fd7f::t_2faae9297d881a 121-122,150-151
+packages/cloudflare/src/index.ts
+  s_d29e548ac2fd7f::t_d1f35c4491ec7c 42,504-506,513-525
+packages/cloudflare/tests/sandbox-config.test.ts
+  s_d29e548ac2fd7f::t_e27cab33cc28df 1-45
+packages/core/tests/unit/astro/integration/marketplace-sandbox.test.ts
+  s_d29e548ac2fd7f::t_4650a456a35410 1-14
+packages/create-emdash/tests/utils.test.ts
+  s_d29e548ac2fd7f::t_d1e070532175c2 13,307-375
+pnpm-lock.yaml
+  s_d29e548ac2fd7f::t_e60beb43478e97 1642-1644
+templates/blog-cloudflare/wrangler.jsonc
+  s_d29e548ac2fd7f::t_d0f0ca42a0b42b 19-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dc78839fdcecf39d65b0cc57156e4d444ff416fd",
+  "prompts": {},
+  "sessions": {
+    "s_1215417103765c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff69c-ffa4-79a2-9aca-778962d90b97",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Matt TK Taylor <matttaylor@cloudflare.com>"
+    },
+    "s_d29e548ac2fd7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff695-8c36-7841-983f-c48edc3b251c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Matt TK Taylor <matttaylor@cloudflare.com>"
+    }
+  }
+}

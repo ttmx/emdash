@@ -1,0 +1,49 @@
+.changeset/tidy-berries-activate.md
+  s_39d34136f9a8db::t_194cda95c3618b 1-5
+packages/core/src/media/usage/activation.ts
+  s_97e3674bdac896::t_5a7be07811618a 1-427
+packages/core/src/media/usage/capture-triggers.ts
+  s_39d34136f9a8db::t_540c22658be2db 24,34-44,46-48,56-63,70-83
+packages/core/tests/integration/database/media-usage-activation.test.ts
+  s_97e3674bdac896::t_e3aea7deee7f1d 1-308
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "301abe03622eba6585157a7cc339e802c04e8481",
+  "prompts": {},
+  "sessions": {
+    "s_39d34136f9a8db": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdb8d-83a2-7c23-b509-cefd9639ca80",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_8201988bce86e7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdc63-eac1-74a1-8eee-3c610f7b20bd",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

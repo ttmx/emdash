@@ -1,0 +1,21 @@
+packages/core/src/database/migrations/072_media_focal_point.ts
+  s_2475d4feb449ab::t_bbc577b48201a4 5-6,8-13,24-57
+packages/core/tests/unit/database/migrations/072_media_focal_point.test.ts
+  s_2475d4feb449ab::t_797271d77d3c16 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ec2d5482b5e2cce793dda051613157c809332a83",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

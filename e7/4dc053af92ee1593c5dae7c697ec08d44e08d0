@@ -1,0 +1,31 @@
+e2e/tests/code-block-highlighting.spec.ts
+  s_cd3ee911dc3a75::t_18f189f9dd7012 75,260
+packages/admin/src/styles.css
+  s_6cf2eeb1ffa60c::t_13d9b7a07d5551 257
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_cd3ee911dc3a75::t_ca67021b8aaa2d 2312
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e74dc053af92ee1593c5dae7c697ec08d44e08d0",
+  "prompts": {},
+  "sessions": {
+    "s_6cf2eeb1ffa60c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a028d0-2aef-7fe3-9cc5-8638d2a0ec23",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

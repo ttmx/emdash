@@ -1,0 +1,23 @@
+packages/admin/src/components/settings/MediaUsageSettings.tsx
+  s_97e3674bdac896::t_fca451af570d15 413-414,443
+packages/admin/src/locales/en/messages.po
+  s_97e3674bdac896::t_55cb712c782e78 1943-1948
+packages/admin/tests/lib/locales.test.ts
+  s_97e3674bdac896::t_79a0e611f8805f 1-2,27-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5efcb21a81a74a5977c0d603ac09e4622cd147b9",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

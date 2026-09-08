@@ -1,0 +1,37 @@
+packages/create-emdash/src/flags.ts
+  s_24fc2aa0cf5a00::t_2742a5d1f9ba52 21-26,109-110,233-241,280-282
+packages/create-emdash/src/index.ts
+  s_24fc2aa0cf5a00::t_4e889b7d9c63f6 34-39,308-329,366,417-423,447-460
+packages/create-emdash/src/utils.ts
+  s_24fc2aa0cf5a00::t_54d86774c91f52 89-162
+packages/create-emdash/tests/flags.test.ts
+  s_24fc2aa0cf5a00::t_baa77da6f267f6 221-238
+packages/create-emdash/tests/utils.test.ts
+  s_24fc2aa0cf5a00::t_8bfd964bf0285b 13,307-453
+templates/blog-cloudflare/wrangler.jsonc
+  s_24fc2aa0cf5a00::t_284ea1b52d1963 19-20
+templates/marketing-cloudflare/wrangler.jsonc
+  s_24fc2aa0cf5a00::t_4e7667658884f5 19-20
+templates/portfolio-cloudflare/wrangler.jsonc
+  s_24fc2aa0cf5a00::t_a3aad3aa0da2dd 19-20
+templates/starter-cloudflare/wrangler.jsonc
+  s_24fc2aa0cf5a00::t_753db749f73c7d 19-20
+.changeset/create-emdash-free-tier-dynamic-plugins.md
+  s_24fc2aa0cf5a00::t_72e4977167da9b 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ee39810fac520bad361d7a4bd02e7dc43282e70f",
+  "prompts": {},
+  "sessions": {
+    "s_24fc2aa0cf5a00": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "848b2c6c-570c-4251-abc6-7c716057e74c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Matt TK Taylor <matttaylor@cloudflare.com>"
+    }
+  }
+}

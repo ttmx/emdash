@@ -1,0 +1,33 @@
+.changeset/controlled-media-usage-activation.md
+  s_d5c3ee81273455::t_8054b11800c2eb 5
+docs/src/content/docs/deployment/cloudflare.mdx
+  s_d5c3ee81273455::t_835a691c27b7fa 75,77,107-109,112,114-117
+docs/src/content/docs/deployment/nodejs.mdx
+  s_d5c3ee81273455::t_4f52bcd15628ae 56-69
+docs/src/content/docs/reference/rest-api.mdx
+  s_d45998f6731739::t_659746f6ff5917 262,367-374,380-388,401-408,410,412-418,420-427,429-430,432,471,496,524
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8b918b2538ff676e060402f3d225f65e4b23b3b4",
+  "prompts": {},
+  "sessions": {
+    "s_d45998f6731739": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff629-861b-7db2-808a-08018fb528e7",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_d5c3ee81273455": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fffcf-9dd8-7650-aa95-e774604eca64",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+.changeset/calm-files-reconcile.md
+  s_81e46038b58f17::t_e7d4b22d0e6955 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8c8c0e0cca9740308c15e722075a54b52e88eca0",
+  "prompts": {},
+  "sessions": {
+    "s_81e46038b58f17": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fec52-49c2-7e21-9130-aee6df703d39",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

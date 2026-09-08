@@ -1,0 +1,19 @@
+packages/admin/src/components/ContentList.tsx
+  s_0f09f26b06bbd0::t_87f6198fd81fc2 768
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "314f656a0101604a1ca34114a07c41fcf2487628",
+  "prompts": {},
+  "sessions": {
+    "s_0f09f26b06bbd0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fcec9-8191-7381-aa6d-db9c29b859e1",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

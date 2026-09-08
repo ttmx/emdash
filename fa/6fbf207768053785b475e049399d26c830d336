@@ -1,0 +1,27 @@
+packages/core/src/media/usage/reconciliation-processor.ts
+  s_97e3674bdac896::t_e46363fb7efc22 43-46,61,63-71,143,146-147,174-182,232,247-254,261-264,310,339,351-357
+packages/core/tests/integration/database/media-usage-reconciliation-finalization.test.ts
+  s_97e3674bdac896::t_77fedbb065da4c 137,139-152
+packages/core/src/media/usage/maintenance-engine.ts
+  s_97e3674bdac896::t_7e07b7c59c21f1 50-55,59-72,79,86,103,105-114,189-193,197,210,213-220,230-232
+packages/core/src/media/usage/work-processor.ts
+  s_97e3674bdac896::t_4f7cef3a706d71 57-61,110,125,130-132
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_97e3674bdac896::t_43ab0d360606c4 4-13,20-23,343-379,804-816
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fa6fbf207768053785b475e049399d26c830d336",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

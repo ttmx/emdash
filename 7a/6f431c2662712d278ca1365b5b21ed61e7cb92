@@ -1,0 +1,35 @@
+e2e/tests/code-block-highlighting.spec.ts
+  s_cd3ee911dc3a75::t_51002049ba384b 44-45,77-78,90-92,122,124,185-305,347-377
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_cd3ee911dc3a75::t_275b4444b6533a 2287-2289,2308,2311-2312,2319,2323,2326,2330,2334,2337,2341-2361,2364-2369,2371-2377,2380-2390,2392,2394-2395,2397-2497,2500,2520-2535
+packages/core/src/components/inline-code-block.tsx
+  s_cd3ee911dc3a75::t_4c1aa670bf58c1 6,119-121,123-128,130,138,143,148,151-171,175,180,185,187,189-192,195-215,218-221,224-226,228,230,232-237,239-282,285-306,310-316,321-326,333-361,363-368,380-381,384-420,426-430,437-441,443-452,454-463,465-487,489
+packages/core/tests/unit/components/inline-portable-text-code-block.test.ts
+  s_cd3ee911dc3a75::t_613fcfefdeb4c2 4,6-7,19-20,23,30-31,35-40,80-190
+.changeset/gentle-code-block-controls.md
+  s_6cf2eeb1ffa60c::t_dedf76fbaf5011 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7a6f431c2662712d278ca1365b5b21ed61e7cb92",
+  "prompts": {},
+  "sessions": {
+    "s_6cf2eeb1ffa60c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a028d0-2aef-7fe3-9cc5-8638d2a0ec23",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

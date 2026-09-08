@@ -1,0 +1,31 @@
+.changeset/align-editor-sidebar-handles.md
+  s_45a3f5eeacd6c0::t_153387f0837d8b 1-5
+e2e/tests/content-crud.spec.ts
+  s_97e3674bdac896::t_dec52ac42600a3 93-117
+packages/admin/src/components/SortableContentSettingsSections.tsx
+  s_97e3674bdac896::t_efd532b120d486 212
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "87527fc74a4d473a8073fb622f033077ae59c4ba",
+  "prompts": {},
+  "sessions": {
+    "s_45a3f5eeacd6c0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff639-0431-7c71-9858-9ef16cd8f167",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

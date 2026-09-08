@@ -1,0 +1,53 @@
+packages/core/src/media/usage/reconciliation.ts
+  s_97e3674bdac896::t_47c56c46b06317 490-495,1083-1091
+packages/core/tests/integration/database/media-usage-read-repository.test.ts
+  s_f8532f0b8288f2::t_6d30e41d57dd6b 463
+packages/core/tests/integration/database/media-usage-runtime-refresh.test.ts
+  s_f8532f0b8288f2::t_67df1aa630d492 9-12,758-789,953-960
+docs/src/content/docs/reference/rest-api.mdx
+  s_97e3674bdac896::t_0b9771b97a2de8 410,412,432-433,462
+packages/admin/src/components/MediaLibrary.tsx
+  s_e63e8a15acda36::t_ea428302ba4b32 115-117
+packages/admin/src/lib/api/media-usage-activation.ts
+  s_e63e8a15acda36::t_6e413aaa8bd2bd 205,208
+packages/admin/tests/lib/media-usage-activation-api.test.ts
+  s_97e3674bdac896::t_d9a4a87e73d2da 76-77
+packages/core/src/database/repositories/media-usage-work.ts
+  s_97e3674bdac896::t_25dd35f1262d25 311,314-315
+packages/core/src/database/repositories/media-usage.ts
+  s_97e3674bdac896::t_e177ff494cd452 1330,1372-1375,1403-1406,1423,1430,1438
+packages/core/src/emdash-runtime.ts
+  s_97e3674bdac896::t_d8ebfeb869b69f 3604,3611
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3178c189fa511caedebd51ce06896173b2f2d65f",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_e63e8a15acda36": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03515-66b3-7be3-a71b-048b0bfc623c",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

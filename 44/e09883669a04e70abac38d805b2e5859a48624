@@ -1,0 +1,19 @@
+.changeset/direct-media-batches.md
+  s_6d0f8013b13b34::t_2736393d0388f9 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "44e09883669a04e70abac38d805b2e5859a48624",
+  "prompts": {},
+  "sessions": {
+    "s_6d0f8013b13b34": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01a75-e5c4-7811-8c4c-da439ba8fad3",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

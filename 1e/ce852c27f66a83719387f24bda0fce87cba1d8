@@ -1,0 +1,21 @@
+docs/src/content/docs/guides/media-library.mdx
+  s_3e8fc308d8a272::t_2b546241201000 39,48-49
+docs/src/content/docs/reference/rest-api.mdx
+  s_3e8fc308d8a272::t_44e54c1feb9cc3 381-384,408-409,474-484
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1ece852c27f66a83719387f24bda0fce87cba1d8",
+  "prompts": {},
+  "sessions": {
+    "s_3e8fc308d8a272": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a014f4-f829-7c42-99cd-3bec947abf80",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

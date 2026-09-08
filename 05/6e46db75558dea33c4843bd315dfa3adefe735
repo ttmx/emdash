@@ -1,0 +1,39 @@
+packages/admin/src/components/MediaLibrary.tsx
+  s_f8532f0b8288f2::t_fdb6077c2fdff4 1-11,13-23,49,51,92-101,130-145,178-180,221,305,311,315,331,339,351,365,406-429,454-487,491,504-514,516-554,668-733,739,755-765,865-874,993-1003,1008-1130
+packages/admin/src/components/MediaFolderDialog.tsx
+  s_202b6e3937f527::t_7f27b654833e65 1-191
+packages/admin/src/components/RouterLinkButton.tsx
+  s_202b6e3937f527::t_8c9e49f638ff32 39
+packages/admin/src/router.tsx
+  s_f8532f0b8288f2::t_9ae6cf72407888 118-120,1394,1530-1586,1620-1629
+packages/admin/tests/components/MediaFolderDialog.test.tsx
+  s_202b6e3937f527::t_c6b89d5f37e6fa 1-154
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_202b6e3937f527::t_ccfe22b1d79cb0 1,7,11-34,73-77,110-113,134-345,835,847
+packages/admin/tests/router.test.tsx
+  s_f8532f0b8288f2::t_9dd86aca26c4bf 121-128,138-145,178-203,308-316,524-585
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "056e46db75558dea33c4843bd315dfa3adefe735",
+  "prompts": {},
+  "sessions": {
+    "s_202b6e3937f527": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02131-bc26-71b2-bbac-02e6cb5fe95f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

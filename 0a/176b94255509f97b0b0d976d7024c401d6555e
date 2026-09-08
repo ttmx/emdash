@@ -1,0 +1,19 @@
+.changeset/calm-workers-start.md
+  s_eb694def01646c::t_ace0c66723128c 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0a176b94255509f97b0b0d976d7024c401d6555e",
+  "prompts": {},
+  "sessions": {
+    "s_eb694def01646c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0572e-9221-7441-9be1-5b6e55e12002",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

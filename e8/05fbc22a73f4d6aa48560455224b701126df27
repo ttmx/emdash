@@ -1,0 +1,21 @@
+packages/admin/src/components/MediaLibrary.tsx
+  s_f09cca8e7df10c::t_8647e1f311c72d 439,480
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_f09cca8e7df10c::t_e41f3738e2ce84 310
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e805fbc22a73f4d6aa48560455224b701126df27",
+  "prompts": {},
+  "sessions": {
+    "s_f09cca8e7df10c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e8d-ced5-77d2-a252-23390aa2f1c4",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

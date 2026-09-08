@@ -1,0 +1,19 @@
+packages/core/src/media/usage/collection-deletion-processor.ts
+  s_81e46038b58f17::t_f1e107fa77781b 133,194,209,230
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "808d03e5b7d5e351136e7fd4e06006b9c054484d",
+  "prompts": {},
+  "sessions": {
+    "s_81e46038b58f17": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fec52-49c2-7e21-9130-aee6df703d39",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

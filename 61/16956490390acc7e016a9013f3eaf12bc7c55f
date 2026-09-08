@@ -1,0 +1,21 @@
+packages/admin/src/components/TaxonomySidebar.tsx
+  s_81559e1657885a::t_aa0e6b790886f6 186,188,194-195,197,243-248,252,261-267,276-279,346-347,351-356,358,409-411,416,418,436-438,452-454,545-548,550
+packages/admin/tests/components/TaxonomySidebar.test.tsx
+  s_81559e1657885a::t_a67a227fc169f7 93-95,101-103,109-110,112-113,125-130,144-155,157-165,187-188,192-197,340-385
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6116956490390acc7e016a9013f3eaf12bc7c55f",
+  "prompts": {},
+  "sessions": {
+    "s_81559e1657885a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a007ed-37b8-70d3-9e6a-0ecdbabc0900",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

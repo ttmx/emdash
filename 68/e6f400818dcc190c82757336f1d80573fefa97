@@ -1,0 +1,81 @@
+packages/admin/src/components/FocalPointEditor.tsx
+  s_2475d4feb449ab::t_680236305d412a 1-164
+packages/admin/src/components/MediaLibrary.tsx
+  s_ae64bef6a6a1c8::t_29f849d6d89084 24,704,798
+packages/admin/src/components/MediaPickerModal.tsx
+  s_ae64bef6a6a1c8::t_0ecad1ef4e4159 33,875
+packages/admin/src/lib/api/media.ts
+  s_2475d4feb449ab::t_279bfc16c492d3 343-352
+packages/admin/tests/components/GalleryFocalPoint.test.ts
+  s_ae64bef6a6a1c8::t_da7f6171e89ef7 1-20
+packages/admin/tests/components/ImageFieldRenderer.test.tsx
+  s_ae64bef6a6a1c8::t_26bbf1b360d7cd 23-24,43-44,73,129-130
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_ae64bef6a6a1c8::t_2b317bb0655a9f 101-109,114
+packages/admin/tests/components/MediaPickerModal.test.tsx
+  s_2475d4feb449ab::t_d7657fa78ec73d 31-32,88-92
+packages/core/src/components/EmDashImage.astro
+  s_cd3ee911dc3a75::t_ef29fbefa175d1 31,182,191-196,208,226
+packages/core/src/components/Gallery.astro
+  s_cd3ee911dc3a75::t_70edddcf9cb649 16,35-36,78,152,169,181
+.changeset/media-focal-point.md
+  s_2475d4feb449ab::t_875c88806aebfa 1-6
+docs/src/content/docs/guides/media-library.mdx
+  s_2475d4feb449ab::t_eec5591d698920 210-223,534-535
+packages/admin/src/components/ImageFieldRenderer.tsx
+  s_2475d4feb449ab::t_2d49752bf31a33 17,37-38,102-103,127-128,145,235
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_2475d4feb449ab::t_851ca423edc6fe 14-20,22-27,30,76-80,83,96-98,136-139,141-142,152,191-198,275-307,426-455
+packages/admin/src/components/PortableTextEditor.tsx
+  s_2475d4feb449ab::t_6fc9bb6ef2fb5a 251-252
+packages/admin/src/components/editor/GalleryDetailPanel.tsx
+  s_2475d4feb449ab::t_29da79fb32d4fa 20,52-53,153-154,311
+packages/admin/src/components/editor/GalleryNode.tsx
+  s_2475d4feb449ab::t_31915886c41484 18,36-37,187
+packages/admin/src/lib/media-utils.ts
+  s_2475d4feb449ab::t_b2de64aa393784 3-29
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_2475d4feb449ab::t_7841af7d723510 4,10-12,148-290,296,440,444
+packages/core/src/content/converters/gallery.ts
+  s_2475d4feb449ab::t_f9567879a90a75 49-50
+packages/core/src/content/converters/types.ts
+  s_2475d4feb449ab::t_5294749a05977f 94-95
+packages/core/src/media/focal-point.ts
+  s_2475d4feb449ab::t_0e9f3ac75a3f63 11-14,16,30-37
+packages/core/tests/repro/focal-point-render.render.test.ts
+  s_2475d4feb449ab::t_5ea560917e6c82 1-87
+packages/core/tests/unit/converters/gallery-round-trip.test.ts
+  s_2475d4feb449ab::t_72e6cc9e0615f7 19-20,60-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "68e6f400818dcc190c82757336f1d80573fefa97",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_ae64bef6a6a1c8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03082-2266-7391-94af-26629829a196",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

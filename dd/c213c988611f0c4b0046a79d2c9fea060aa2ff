@@ -1,0 +1,31 @@
+packages/admin/src/components/editor/ordered-list.ts
+  s_f44f80db446925::t_5e066bba4933a5 75-78
+packages/core/src/components/ordered-list.ts
+  s_f44f80db446925::t_8240c7a217f438 65-68
+packages/core/tests/unit/components/ordered-list.test.ts
+  s_ba5b69c70266ab::t_456abc233ab350 93-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ddc213c988611f0c4b0046a79d2c9fea060aa2ff",
+  "prompts": {},
+  "sessions": {
+    "s_ba5b69c70266ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd36d-1bcd-79d1-ab90-63ade35e2a95",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_f44f80db446925": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd354-3ef4-7421-951b-517d241bd99c",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+packages/admin/src/components/ContentList.tsx
+  s_39d34136f9a8db::t_74b189018f784d 9,74-75,149-173,195,230-241,262-268,372-379,551-556,571,577,584,591,600-618,681,693,706-711,720-725,741-743,1035-1036,1049,1056-1060
+packages/admin/src/router.tsx
+  s_c0589149ac8913::t_cbef2969b6234c 11-17,384-433,616-617
+packages/admin/tests/components/ContentList.test.tsx
+  s_39d34136f9a8db::t_2bbd52118f6a1d 73-78,614-676,678-701
+packages/admin/tests/router.test.tsx
+  s_97e3674bdac896::t_421808d89fea69 28,164-197,297-507
+.changeset/steady-tables-sort.md
+  s_39d34136f9a8db::t_0b710b3e4cdea0 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fdf8bba8a15882d3d40027a95c3f771d4a37c6d8",
+  "prompts": {},
+  "sessions": {
+    "s_39d34136f9a8db": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdb8d-83a2-7c23-b509-cefd9639ca80",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_c0589149ac8913": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdc5f-4135-73a0-b92c-5bf47591eb2e",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

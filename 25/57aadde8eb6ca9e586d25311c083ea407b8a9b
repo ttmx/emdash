@@ -1,0 +1,19 @@
+.changeset/calm-images-select.md
+  s_10976c9eb3dc16::t_a6ba2a8de27e4c 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2557aadde8eb6ca9e586d25311c083ea407b8a9b",
+  "prompts": {},
+  "sessions": {
+    "s_10976c9eb3dc16": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a007ee-8d3d-76c2-8e2d-510e52c19922",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

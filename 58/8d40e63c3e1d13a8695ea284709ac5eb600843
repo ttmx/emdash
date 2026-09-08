@@ -1,0 +1,23 @@
+e2e/tests/visual-regression.spec.ts
+  s_9cc92e71afbae8::t_c80798d8e09a8b 60-67,84-107,179
+packages/admin/src/components/BylineFilter.tsx
+  s_9cc92e71afbae8::t_9a3f8906b74954 117
+packages/admin/src/components/ContentList.tsx
+  s_9cc92e71afbae8::t_549fd4c06a8479 888,932,1030
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "588d40e63c3e1d13a8695ea284709ac5eb600843",
+  "prompts": {},
+  "sessions": {
+    "s_9cc92e71afbae8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01956-889d-7d42-9c42-37a4fce91e91",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

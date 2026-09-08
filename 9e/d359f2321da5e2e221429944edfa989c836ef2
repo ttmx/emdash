@@ -1,0 +1,21 @@
+packages/admin/tests/editor/PortableTextEditor.test.tsx
+  s_6cf2eeb1ffa60c::t_cb2a9a6b732e0d 1311,1323-1324,1350-1355
+packages/core/tests/unit/components/inline-portable-text-code-block.test.ts
+  s_6cf2eeb1ffa60c::t_2fe327c4f11397 141,155-156,184-185,191,205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9ed359f2321da5e2e221429944edfa989c836ef2",
+  "prompts": {},
+  "sessions": {
+    "s_6cf2eeb1ffa60c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a028d0-2aef-7fe3-9cc5-8638d2a0ec23",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

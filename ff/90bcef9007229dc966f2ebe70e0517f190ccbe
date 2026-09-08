@@ -1,0 +1,67 @@
+demos/cloudflare/src/worker.ts
+  s_97e3674bdac896::t_51755f54a83a8f 10,17
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_97e3674bdac896::t_bfefd95dcc3046 4,12,15,18,31,51,67,93,136,146,188,244,292,318,345
+packages/core/tests/unit/plugins/node-cron-scheduler.test.ts
+  s_97e3674bdac896::t_cab289ffd2ca01 9,32-35,38,41-42,45,48-51,54,57-58,61-65,68,71,74-75,78,82-87,90,92-96,99-102
+templates/blog-cloudflare/src/worker.ts
+  s_97e3674bdac896::t_4abeb2fd769a4d 1,8
+templates/marketing-cloudflare/src/worker.ts
+  s_97e3674bdac896::t_e54a5e525f779e 1,8
+templates/portfolio-cloudflare/src/worker.ts
+  s_97e3674bdac896::t_92fdcb3468484e 1,8
+templates/starter-cloudflare/src/worker.ts
+  s_97e3674bdac896::t_27c9fd1e3d31eb 1,8
+.changeset/media-usage-activation-ui.md
+  s_97e3674bdac896::t_201879e20e19f9 7
+.changeset/remove-media-usage-scheduled-recovery.md
+  s_97e3674bdac896::t_31230b8d9faa37 6,10,12-14
+docs/src/content/docs/deployment/cloudflare.mdx
+  s_97e3674bdac896::t_72736a304a8272 100,102,115,118,135-136,138
+docs/src/content/docs/deployment/nodejs.mdx
+  s_97e3674bdac896::t_3d08c02cda522b 58,66-67,69
+docs/src/content/docs/guides/media-library.mdx
+  s_97e3674bdac896::t_f3bf9356497750 21
+docs/src/content/docs/reference/rest-api.mdx
+  s_97e3674bdac896::t_f7378fb18c071f 373,397,401,403,407-412,415,423,437-475,541
+packages/cloudflare/src/worker.ts
+  s_97e3674bdac896::t_4402482c0a6100 16
+packages/cloudflare/tests/worker-scheduled.test.ts
+  s_97e3674bdac896::t_5c38369d64fed7 3-5,12,15,48
+packages/core/src/astro/routes/api/admin/media-usage/activation.ts
+  s_97e3674bdac896::t_1b28f7c0aefc72 41
+packages/core/src/emdash-runtime.ts
+  s_97e3674bdac896::t_74a5ed5b9084fc 223
+packages/core/src/media/usage/maintenance-engine.ts
+  s_97e3674bdac896::t_d38470c0cfbfee 41-45,69
+packages/core/src/plugins/index.ts
+  s_97e3674bdac896::t_e4e69318cb7731 69
+packages/core/src/plugins/scheduler/node.ts
+  s_97e3674bdac896::t_92c62cd825f128 13
+packages/core/tests/unit/api/media-usage-activation-route.test.ts
+  s_97e3674bdac896::t_3c00b2d6d8387f 3,172,289
+templates/blog-cloudflare/wrangler.jsonc
+  s_97e3674bdac896::t_6d323bfad2a576 25
+templates/marketing-cloudflare/wrangler.jsonc
+  s_97e3674bdac896::t_ed3af3943e64f1 25
+templates/portfolio-cloudflare/wrangler.jsonc
+  s_97e3674bdac896::t_b0c0db916081a7 25
+templates/starter-cloudflare/wrangler.jsonc
+  s_97e3674bdac896::t_6b6576dfef80cb 25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ff90bcef9007229dc966f2ebe70e0517f190ccbe",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

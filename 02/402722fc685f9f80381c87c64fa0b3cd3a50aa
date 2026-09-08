@@ -1,0 +1,19 @@
+docs/src/content/docs/deployment/database.mdx
+  s_27dcc028b2d0b7::t_24469019cbc997 229
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "02402722fc685f9f80381c87c64fa0b3cd3a50aa",
+  "prompts": {},
+  "sessions": {
+    "s_27dcc028b2d0b7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_00db102c6ffe4PPWWiLa4PBhQE",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "scottbuscemi <sbuscemi@cloudflare.com>"
+    }
+  }
+}

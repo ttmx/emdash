@@ -1,0 +1,39 @@
+packages/cloudflare/src/db/playground.ts
+  s_3291003d59bc7f::t_7bc36b430834ec 17-19,25-28,55-63
+packages/cloudflare/src/db/playground-assets-storage.ts
+  s_3291003d59bc7f::t_ba4c0ede3bdd23 1-161
+packages/cloudflare/tests/db/playground-initializer.test.ts
+  s_3291003d59bc7f::t_dcc2e2f8f91201 1-174
+packages/cloudflare/tests/db/playground-assets-storage.test.ts
+  s_3291003d59bc7f::t_0c82cae5d8d3ca 1-54
+demos/playground/seed/media-sources.md
+  s_3291003d59bc7f::t_8d8e46eb0b4d4d 1-11
+packages/cloudflare/tests/db/do-playground-routes.test.ts
+  s_3291003d59bc7f::t_e94f3c8c1c2a93 43-66
+demos/playground/astro.config.mjs
+  s_3291003d59bc7f::t_67eec2b6e61227 19-23
+packages/cloudflare/src/db/do-playground-routes.ts
+  s_3291003d59bc7f::t_2f9a8dad3e9189 44-49,58-59,62,66-75,77-78
+.changeset/friendly-playgrounds-smile.md
+  s_3291003d59bc7f::t_5a238397d1c0de 1-5
+demos/playground/seed/seed.json
+  s_3291003d59bc7f::t_1f05f85a797e22 279-286,363-370,434-441,504-511,574-581,644-651,714-721
+packages/cloudflare/src/db/playground-middleware.ts
+  s_3291003d59bc7f::t_490c0ae74ab9f5 18-19,28,31,53-86,223,249,263-273
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dd1eea1df6374dfa3453ed13ef8c7053ba055b13",
+  "prompts": {},
+  "sessions": {
+    "s_3291003d59bc7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0541d-c568-7fb0-96e1-c146f3278641",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

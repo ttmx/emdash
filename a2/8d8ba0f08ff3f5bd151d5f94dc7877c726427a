@@ -1,0 +1,29 @@
+packages/admin/src/components/BylineFilter.tsx
+  s_97e3674bdac896::t_f8cef47028cccb 117,119,127,135-140,143,150,155,162,172,176,178
+packages/admin/tests/components/BylineFilter.test.tsx
+  s_f7da1a00d7a35d::t_61ebc4a9c7aee4 1-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a28d8ba0f08ff3f5bd151d5f94dc7877c726427a",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f7da1a00d7a35d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a015a7-d54d-7a90-9c40-5d48a814f2b7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

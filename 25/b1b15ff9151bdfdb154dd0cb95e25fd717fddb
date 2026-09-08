@@ -1,0 +1,147 @@
+packages/core/src/api/handlers/media-usage.ts
+  s_97e3674bdac896::t_3fc029f3bddc61 77-80,216
+packages/core/src/api/schemas/media-usage.ts
+  s_97e3674bdac896::t_fa24529a2887c7 170-183
+packages/core/src/media/usage/content-refresh.ts
+  s_97e3674bdac896::t_ccfcbf658a826d 7,477-503
+packages/core/src/plugins/sandbox/types.ts
+  s_97e3674bdac896::t_4c6ab737568c8b 72-73,145-214
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_97e3674bdac896::t_189bb1e52c6f97 177-178,186-189
+packages/core/tests/integration/runtime/plugin-cron-route.test.ts
+  s_97e3674bdac896::t_09faf72a464775 7,10,20,22-31,72-105
+packages/core/tests/unit/astro/media-usage-write-fence.test.ts
+  s_97e3674bdac896::t_8dd226af1d5f9b 1-90
+packages/workerd/test/workerd-integration.test.ts
+  s_97e3674bdac896::t_f40823e681bfb6 12,110-120,311-350
+packages/cloudflare/src/sandbox/bridge.ts
+  s_97e3674bdac896::t_3a6af454e35dff 13-18,26,223-241,577,650,709
+packages/cloudflare/src/sandbox/runner.ts
+  s_97e3674bdac896::t_78593fbb41eb80 16-17,361,364-367
+packages/cloudflare/src/sandbox/wrapper.ts
+  s_8201988bce86e7::t_3809e1366b929c 63-83,262-273
+packages/cloudflare/tests/sandbox/bridge-content-write-fence.test.ts
+  s_97e3674bdac896::t_d9dbfdccb0d09b 1-120
+packages/cloudflare/tests/sandbox/runner-route-error.test.ts
+  s_97e3674bdac896::t_24ec6100bb3ab4 1-76
+packages/core/package.json
+  s_97e3674bdac896::t_8a17d3faa2cb88 40-43
+packages/core/src/api/media-usage-write-fence.ts
+  s_97e3674bdac896::t_64450a86d5de12 1-64
+packages/core/src/astro/integration/index.ts
+  s_97e3674bdac896::t_fd6e419bb26d22 582-586
+packages/core/src/astro/middleware/media-usage-write-fence.ts
+  s_8201988bce86e7::t_35ff9dbc9edf5c 1-30
+packages/core/src/astro/routes/api/admin/plugins/[id]/disable.ts
+  s_8201988bce86e7::t_871535d2f57d50 12,28-30
+packages/core/src/astro/routes/api/admin/plugins/[id]/enable.ts
+  s_8201988bce86e7::t_927e5be8c5052b 12,28-30
+packages/core/src/astro/routes/api/admin/plugins/[id]/uninstall.ts
+  s_97e3674bdac896::t_8ea9338c3b6fdb 13,33-35
+packages/core/src/astro/routes/api/admin/plugins/[id]/update.ts
+  s_97e3674bdac896::t_25a44345038dcd 13,36-38
+packages/core/src/astro/routes/api/admin/plugins/marketplace/[id]/install.ts
+  s_97e3674bdac896::t_6068d954f45078 13,35-37
+packages/core/src/astro/routes/api/admin/plugins/registry/[id]/uninstall.ts
+  s_97e3674bdac896::t_7ae4befa65c5a9 16,36-38
+packages/core/src/astro/routes/api/admin/plugins/registry/[id]/update.ts
+  s_97e3674bdac896::t_2b43abe2422e34 19,55-57
+packages/core/src/astro/routes/api/admin/plugins/registry/install.ts
+  s_97e3674bdac896::t_59813cf3372a65 22,75-77
+packages/core/src/database/repositories/media-usage-work.ts
+  s_8201988bce86e7::t_5f72d2698bd53b 611-614
+packages/core/src/database/repositories/media-usage.ts
+  s_8201988bce86e7::t_6a7b5e6962b431 72,78-98,335,658,696,705-706,721-725,758,766-767,774,1398-1434,1813
+packages/core/src/emdash-runtime.ts
+  s_8201988bce86e7::t_0e834db0a73766 16,56,378,590,663-669,672,710,1483,1638-1643,1962,2075,3941,3964-3974
+packages/core/src/index.ts
+  s_97e3674bdac896::t_572a34fe018e59 233-236,306-308
+packages/core/src/media/usage/activation.ts
+  s_8201988bce86e7::t_601e591159d8a0 6,31-212,305-315
+packages/core/src/media/usage/deletion-cleanup.ts
+  s_8201988bce86e7::t_9c44be1190bfa1 631-634
+packages/core/src/plugins/context.ts
+  s_97e3674bdac896::t_aed71bc8ff10ab 370-373,380,430,491,999,1054,1074,1107
+packages/core/src/plugins/index.ts
+  s_8201988bce86e7::t_08b24c39746b12 76-79,92-94
+packages/core/src/plugins/routes.ts
+  s_97e3674bdac896::t_cb2344ca814893 11,182-188
+packages/core/src/plugins/sandbox/index.ts
+  s_8201988bce86e7::t_e0ca188c3cff11 7-13,25-27
+packages/core/src/schema/registry.ts
+  s_8201988bce86e7::t_95eb6ea40ef695 9-15,18,103-163,296-302,306,322-339,341-363,411-424,432,452-496,498-514,531-570,771-774,836-838,845-857,904-907,979-981,988-1000,1054-1057,1078-1080,1087-1098,1134,1156,1176-1177,1180,1185,1191,1196,1201,1206,1211,1216,1222,1227,1232,1237,1246,1251,1577-1583,1588,1593-1631
+packages/core/tests/integration/astro/admin-plugins-sandboxed.test.ts
+  s_97e3674bdac896::t_c1e4094aa79184 18,21-25,47,144-199
+packages/core/tests/integration/database/media-usage-activation.test.ts
+  s_8201988bce86e7::t_1fd2b469c15944 9-12,65-448
+packages/core/tests/integration/database/media-usage-read-repository.test.ts
+  s_97e3674bdac896::t_5325a36f9e505f 188-290,338-349
+packages/core/tests/integration/database/media-usage-runtime-refresh.test.ts
+  s_35b72100d6f72b::t_20ccd4251c2034 355
+packages/core/tests/integration/database/media-usage-stale-bypass.test.ts
+  s_5b7fed57e363b7::t_205f039ded0335 7,142-219,371-428
+packages/core/tests/integration/database/media-usage-work-processor.test.ts
+  s_8201988bce86e7::t_6c135f31ead4a6 24,460-464,469,508-516
+packages/core/tests/integration/runtime/plugin-route-site-info.test.ts
+  s_8201988bce86e7::t_5b2ccdcdc8ffb4 8,10-11,47,67,72-79,81-90,92-95
+packages/core/tests/unit/api/media-usage-summary.test.ts
+  s_97e3674bdac896::t_e7c482ed2db3ca 104,110,251-281
+packages/core/tests/unit/scheduled-publish.test.ts
+  s_8201988bce86e7::t_6c0f5bf79f76b2 256-282
+packages/core/tsdown.config.ts
+  s_97e3674bdac896::t_ada6fae204c933 81
+packages/workerd/src/sandbox/backing-service.ts
+  s_97e3674bdac896::t_a2b5ae30cc5708 74
+packages/workerd/src/sandbox/bridge-handler.ts
+  s_8201988bce86e7::t_3c9255b363edb1 17-22,105,138-144,183,187,196,200,208,216
+packages/workerd/src/sandbox/dev-runner.ts
+  s_8201988bce86e7::t_afec66adc42c2f 26,178,303-311
+packages/workerd/src/sandbox/runner.ts
+  s_97e3674bdac896::t_db6a87efe25ee2 40-44,876-880,997-1005
+packages/workerd/src/sandbox/wrapper.ts
+  s_97e3674bdac896::t_656ee33283f307 60-90,106-117,470-471
+packages/workerd/test/bridge-handler.test.ts
+  s_97e3674bdac896::t_773cdad7e74640 14,83,93,605-639
+packages/workerd/test/dev-runner-route-error.test.ts
+  s_8201988bce86e7::t_421b5d14be7c37 1-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "25b1b15ff9151bdfdb154dd0cb95e25fd717fddb",
+  "prompts": {},
+  "sessions": {
+    "s_35b72100d6f72b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fe409-c298-7952-a11e-ea3021dbe994",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_5b7fed57e363b7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fe3b9-921f-7210-8368-a4149a8d2be1",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_8201988bce86e7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdc63-eac1-74a1-8eee-3c610f7b20bd",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

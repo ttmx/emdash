@@ -1,0 +1,31 @@
+packages/admin/src/components/editor/CodeBlockNode.tsx
+  s_cd3ee911dc3a75::t_c53042e7c0b364 27,29,61-90,93-94,169-184,187,190-193,198,203-253
+packages/admin/tests/editor/PortableTextEditor.test.tsx
+  s_cd3ee911dc3a75::t_2766db7895a2cf 1275-1402
+packages/admin/src/styles.css
+  s_6cf2eeb1ffa60c::t_3209015bec033e 257,273,306-331
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b2bf8641ae78c2a47bb793340df06b192c42fa9f",
+  "prompts": {},
+  "sessions": {
+    "s_6cf2eeb1ffa60c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a028d0-2aef-7fe3-9cc5-8638d2a0ec23",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

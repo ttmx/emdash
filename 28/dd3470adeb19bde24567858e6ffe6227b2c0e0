@@ -1,0 +1,51 @@
+packages/core/src/database/json-recordset.ts
+  s_97e3674bdac896::t_1206e1cfe77215 1-16
+packages/core/src/database/repositories/media-usage-work.ts
+  s_97e3674bdac896::t_17faa41e9c5a70 11,18,82,88-91,93,528-636,734-959,974-1018,1082-1088,1111-1135
+packages/core/src/database/repositories/media-usage.ts
+  s_97e3674bdac896::t_9eeebc3eba40bf 25,45-62,79-111,232-240,618-627,699-1067,2292,2314-2401,2465-2529,2956-3158
+packages/core/src/media/usage/content-refresh.ts
+  s_97e3674bdac896::t_9378ae7a6a8b25 5,7,13-16,20,22,77-79,270-459,513-522,554,596,634-637
+packages/core/src/media/usage/content-snapshots.ts
+  s_97e3674bdac896::t_79c48b9b64767a 3,67-70,78-95,101,104,108-124,126-135,187,264,267,270,274-277,279,284,289-293,296,298-335
+packages/core/src/media/usage/work-processor.ts
+  s_97e3674bdac896::t_54f9e0b07ee584 3,9,12-14,19-22,65,69-102,126,128-133,135-158,160-170,183-195,198-216,218-221,223,225,227-240,242-246,248-257,259-304,346-417
+packages/core/tests/integration/database/media-usage-reconciliation-scan.test.ts
+  s_97e3674bdac896::t_09406c4526fcdb 61,69,92
+packages/core/tests/integration/database/media-usage-work-processor.test.ts
+  s_97e3674bdac896::t_17c7c326211d8e 11,13,136,145-147,149,151,153-192,194-205,207-274,276-337,506,549,551-554,556,562-563,653-692
+packages/core/src/database/transaction.ts
+  s_97e3674bdac896::t_c0d8613969fbc0 32
+packages/core/src/media/usage/reconciliation-processor.ts
+  s_97e3674bdac896::t_6f5014c51ef5e6 18-19,175-178,221-229,284
+packages/core/src/media/usage/reconciliation.ts
+  s_97e3674bdac896::t_737df95bc2ed62 150-151
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_97e3674bdac896::t_553725b7eb1150 68,79,310,317,336
+packages/core/tests/workerd/media-usage-maintenance-engine-d1.test.ts
+  s_08e9d7fd52f192::t_a6631f0be79752 175,207
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "28dd3470adeb19bde24567858e6ffe6227b2c0e0",
+  "prompts": {},
+  "sessions": {
+    "s_08e9d7fd52f192": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01c87-5d2d-7863-8129-986ef8a1762b",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

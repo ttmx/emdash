@@ -1,0 +1,45 @@
+.changeset/calm-mice-admit.md
+  s_f3e904390a12d5::t_270c752ee0b03e 1-5
+packages/core/tests/integration/database/media-usage-projection-admission-measurement.test.ts
+  s_f3e904390a12d5::t_7f78ae52f00329 86-87,105-106,128-130,136,156-159,165,209-210,216,287-295
+packages/core/tests/integration/database/media-usage-projection-admission-runtime.test.ts
+  s_97e3674bdac896::t_782cb6712d91fb 1-349
+packages/core/src/media/usage/content-refresh.ts
+  s_97e3674bdac896::t_ad3aafa37cc3d9 62,68,252,257,296-297,310-312,314,316-322,346-357,360-366,395-401,403-404,425,429-430,438-449,731,736
+packages/core/src/media/usage/work-processor.ts
+  s_97e3674bdac896::t_981fbbcb617823 169-172,246
+packages/core/vitest.config.ts
+  s_81e46038b58f17::t_fe7cf64f4ff797 49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a0656e0a64d8a626dbf919b341caac8e85ffa4cb",
+  "prompts": {},
+  "sessions": {
+    "s_81e46038b58f17": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fec52-49c2-7e21-9130-aee6df703d39",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f3e904390a12d5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff0e9-3cc2-78e1-bfac-75c3881dfe55",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

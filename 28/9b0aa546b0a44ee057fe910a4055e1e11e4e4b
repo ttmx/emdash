@@ -1,0 +1,29 @@
+packages/admin/src/components/ContentSettingsPanel.tsx
+  s_97e3674bdac896::t_ec8bb66dc64c8e 799-800
+.changeset/match-content-editor-trash-surface.md
+  s_93863a022d2c20::t_7a785156e7748b 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "289b0aa546b0a44ee057fe910a4055e1e11e4e4b",
+  "prompts": {},
+  "sessions": {
+    "s_93863a022d2c20": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02389-3b2b-7643-83f5-e456206e395a",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+packages/core/tests/unit/loader-scheduled-publishing.test.ts
+  s_7117dd1efa5f69::t_e0224cc691f232 4,11,131-219
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c71990310961672f1281b72db713dc56232e2176",
+  "prompts": {},
+  "sessions": {
+    "s_7117dd1efa5f69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd37a-1ed4-7122-8e42-110dfcc855c8",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

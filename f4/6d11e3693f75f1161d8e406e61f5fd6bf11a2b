@@ -1,0 +1,27 @@
+packages/core/src/media/usage/maintenance-engine.ts
+  s_97e3674bdac896::t_e7696aa7f7b7ee 12,35,61,76-91,173
+packages/core/src/media/usage/reconciliation-processor.ts
+  s_97e3674bdac896::t_c541c0782dc666 39,62-64,68,73,76,97-98,106,118-120,123-127
+packages/core/src/media/usage/reconciliation.ts
+  s_97e3674bdac896::t_fce9434ee00368 754-817
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_97e3674bdac896::t_51127d00b8a8f8 12-13,137-184,197-239,375-389
+packages/core/tests/workerd/media-usage-maintenance-engine-d1.test.ts
+  s_97e3674bdac896::t_cb8dc0b7fce034 6,134-174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f46d11e3693f75f1161d8e406e61f5fd6bf11a2b",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

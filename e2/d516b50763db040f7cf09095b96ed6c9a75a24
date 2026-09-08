@@ -1,0 +1,81 @@
+demos/cloudflare/src/worker.ts
+  s_3e8fc308d8a272::t_deb1282b7d75c0 12,24
+packages/cloudflare/src/worker.ts
+  s_97e3674bdac896::t_b0f6eb597e07e1 17,96,126-155
+packages/cloudflare/tests/worker-scheduled.test.ts
+  s_d16d84f5f0805b::t_27daba00996c6c 23,25,38,46-48,72-73,89-90,92,95,101,104,106,112,115,117,122,126-179,213,220,222,350-365
+packages/core/src/emdash-runtime.ts
+  s_97e3674bdac896::t_c3309d20a58310 45,573,807-810,1734,1736
+packages/core/src/media/usage/activation.ts
+  s_97e3674bdac896::t_8442287602f6e3 44-49,283-290,292-303,309-317,320-321,415,418-458,462-476,479-482,486-493,502-504
+packages/core/src/media/usage/capture-triggers.ts
+  s_97e3674bdac896::t_bd0cf556ecca8d 11,29-36,88,161,163,174,185,322-326
+packages/core/src/media/usage/maintenance-engine.ts
+  s_3e8fc308d8a272::t_2d9fdcf56eb68e 5-9,53,56,93-118
+packages/core/src/plugins/scheduler/types.ts
+  s_3e8fc308d8a272::t_164d54c12c598a 29-30
+packages/core/tests/workerd/media-usage-maintenance-engine-d1.test.ts
+  s_d16d84f5f0805b::t_0d2630445a1c98 2,15,168-230
+templates/blog-cloudflare/src/worker.ts
+  s_3e8fc308d8a272::t_56524f8598c475 3,15
+templates/marketing-cloudflare/src/worker.ts
+  s_3e8fc308d8a272::t_9d8777ce73b3d5 3,15
+templates/portfolio-cloudflare/src/worker.ts
+  s_3e8fc308d8a272::t_3c814ab2f1208f 3,15
+templates/starter-cloudflare/src/worker.ts
+  s_3e8fc308d8a272::t_e8b4899a3591b6 3,15
+packages/core/src/astro/routes/api/admin/media-usage/activation.ts
+  s_15253f6f351dbb::t_ad2f2b69f3ceef 41-49
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_8e30c3be547b84::t_ce17093535a524 295-298,318-327,365,424-524,736-743
+packages/core/tests/unit/api/media-usage-activation-route.test.ts
+  s_15253f6f351dbb::t_dd9993ba228e7f 3,178,180-185,196,251-270,330,335
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e2d516b50763db040f7cf09095b96ed6c9a75a24",
+  "prompts": {},
+  "sessions": {
+    "s_15253f6f351dbb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01572-4f71-7cf0-8613-c170783df6ac",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_3e8fc308d8a272": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a014f4-f829-7c42-99cd-3bec947abf80",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_8e30c3be547b84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a00ad4-f52f-7090-baa3-5ecfed42931f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_d16d84f5f0805b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01567-8907-77b2-b349-6119675cbd0b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

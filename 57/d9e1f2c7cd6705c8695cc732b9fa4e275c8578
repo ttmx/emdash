@@ -1,0 +1,19 @@
+docs/technical-specs/issue-2361-code-block-highlighting.md
+  s_642af5bd880bb4::t_683fa83bd7731a 45,47,73,84,110,117,123-125,146,178,197,234,263,269
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "57d9e1f2c7cd6705c8695cc732b9fa4e275c8578",
+  "prompts": {},
+  "sessions": {
+    "s_642af5bd880bb4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0330b-a2ca-7a60-9b00-cce40aa4d0b0",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

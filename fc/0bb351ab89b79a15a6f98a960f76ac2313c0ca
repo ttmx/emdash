@@ -1,0 +1,19 @@
+e2e/global-setup.ts
+  s_f7da1a00d7a35d::t_c653554aac4a60 346-347,349-356
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fc0bb351ab89b79a15a6f98a960f76ac2313c0ca",
+  "prompts": {},
+  "sessions": {
+    "s_f7da1a00d7a35d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a015a7-d54d-7a90-9c40-5d48a814f2b7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

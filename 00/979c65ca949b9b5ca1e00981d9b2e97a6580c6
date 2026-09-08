@@ -1,0 +1,31 @@
+packages/core/tests/integration/database/media-usage-cleanup-plan.test.ts
+  s_d40d6b92de7460::t_e9c96765f24e17 11,27,33,39-41,81,95-179,244-246,249
+packages/core/src/database/repositories/media-usage.ts
+  s_624d811dcaeb04::t_4441430ffa8b4b 46-49,188,1080,1083,1111,1127,1130,1159,1175,1178,1207,1214,1217,1227,1417,1421,1424,1449,1453,1456,1488,1492,1495
+packages/core/src/media/usage/cleanup.ts
+  s_624d811dcaeb04::t_59f129cb917170 54,75,79,83,100,107,111,113,120,124,126,133,136-138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "00979c65ca949b9b5ca1e00981d9b2e97a6580c6",
+  "prompts": {},
+  "sessions": {
+    "s_624d811dcaeb04": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc375-b01f-7471-bea8-14e814f28ffe",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_d40d6b92de7460": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_03cae6196ffe50l0cLlmFVE926",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

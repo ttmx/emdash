@@ -1,0 +1,23 @@
+docs/src/content/docs/plugins/installing.mdx
+  s_39d34136f9a8db::t_df68a6fb2e9297 22-26,29,37,43-55,58
+packages/admin/src/components/DynamicPluginsUnavailable.tsx
+  s_39d34136f9a8db::t_6ebbab37d193cf 5-7,33-34
+packages/admin/tests/components/DynamicPluginsUnavailable.test.tsx
+  s_39d34136f9a8db::t_5f1da526a414ae 16,19-23,25-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3e4e7bfbe93d262703980373d7aeab8b0ef09128",
+  "prompts": {},
+  "sessions": {
+    "s_39d34136f9a8db": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdb8d-83a2-7c23-b509-cefd9639ca80",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

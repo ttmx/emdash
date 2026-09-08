@@ -1,0 +1,23 @@
+packages/admin/src/lib/api/index.ts
+  s_97e3674bdac896::t_4b076e61ce92d7 61-66,73-74
+packages/admin/src/lib/api/media.ts
+  s_97e3674bdac896::t_0350364d8a46c8 23-73,141-162
+packages/admin/tests/lib/media-api.test.ts
+  s_97e3674bdac896::t_400df44859be14 1-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "707484d466b809dacc9d687f745c19d8d1a9b4f7",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

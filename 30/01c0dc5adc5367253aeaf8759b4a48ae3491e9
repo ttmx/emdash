@@ -1,0 +1,63 @@
+packages/admin/src/lib/api/media-usage-activation.ts
+  s_97e3674bdac896::t_8b3bea2c9839a3 33-38,75-84,134,218-228
+packages/core/tests/unit/api/media-usage-activation-route.test.ts
+  s_97e3674bdac896::t_c124240fa0b624 52,121,160,173,186,197,219,236-238,262,271
+packages/core/tests/unit/api/media-usage-progress-route.test.ts
+  s_97e3674bdac896::t_a00666286e2863 2,5-6,13,49,78-231,322-326,339-353,355,361
+packages/core/tests/unit/api/openapi.test.ts
+  s_97e3674bdac896::t_a375625fc0c235 164-165,168-170,183-194
+packages/core/tests/workerd/media-usage-activation-d1.test.ts
+  s_97e3674bdac896::t_5ac8f0960a0047 8-11,67,149,157-163
+packages/admin/src/components/settings/MediaUsageSettings.tsx
+  s_97e3674bdac896::t_19ecb838ca8028 124
+packages/admin/tests/lib/media-usage-activation-api.test.ts
+  s_97e3674bdac896::t_3f1790194f4662 6,171,192-228,330
+packages/core/src/api/errors.ts
+  s_e63e8a15acda36::t_c0df0fde5f1bb1 92
+packages/core/src/api/handlers/index.ts
+  s_e63e8a15acda36::t_c2b30d0fded621 68,78
+packages/core/src/api/handlers/media-usage.ts
+  s_97e3674bdac896::t_53408c99113b32 11-14,26-29,38,52,99-158
+packages/core/src/api/openapi/document.ts
+  s_e63e8a15acda36::t_c1614ea8713be2 44,830-849
+packages/core/src/api/schemas/media-usage.ts
+  s_e63e8a15acda36::t_d70cc75532e829 228-235,301-303
+packages/core/src/astro/routes/api/admin/media-usage/progress.ts
+  s_e63e8a15acda36::t_6a8426d5261bf3 5-8,25-37
+packages/core/src/client/index.ts
+  s_97e3674bdac896::t_854dfa8a4278a3 240-245,938-942
+packages/core/src/media/usage/maintenance-engine.ts
+  s_97e3674bdac896::t_2e723b43d65e71 219,222
+packages/core/src/media/usage/work-processor.ts
+  s_97e3674bdac896::t_f237092776f09b 80,138,186,188,223,426
+packages/core/tests/integration/database/media-usage-work-processor.test.ts
+  s_97e3674bdac896::t_5ec087d0801bd8 11,23,225-226,228,230-231,233-235
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_97e3674bdac896::t_1c32bdffc0549c 425,429,436
+packages/core/tests/unit/client/client.test.ts
+  s_e63e8a15acda36::t_0506c6dd69a6b0 1048-1084,1116,1148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3001c0dc5adc5367253aeaf8759b4a48ae3491e9",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_e63e8a15acda36": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03515-66b3-7be3-a71b-048b0bfc623c",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

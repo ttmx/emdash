@@ -1,0 +1,19 @@
+.changeset/fix-admin-tag-picker-navigation.md
+  s_81559e1657885a::t_7f73b73940a337 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e5dc919be8a4e84a316033b5e949358d86901392",
+  "prompts": {},
+  "sessions": {
+    "s_81559e1657885a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a007ed-37b8-70d3-9e6a-0ecdbabc0900",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

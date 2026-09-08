@@ -1,0 +1,19 @@
+e2e/tests/media-library.spec.ts
+  s_2475d4feb449ab::t_59cfb1d7a52278 261-264,466-468,492-493,502-506,510,518,591,593-594,599,621,656,672-674
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0baecbf4c35f05e572ebb0e024bb5a67e5afa52b",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

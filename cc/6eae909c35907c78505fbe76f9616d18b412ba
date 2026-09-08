@@ -1,0 +1,33 @@
+.changeset/flat-media-folders.md
+  s_3e8fc308d8a272::t_6d6f04aff146d6 5-18
+packages/core/src/api/schemas/media.ts
+  s_3e8fc308d8a272::t_90e0a61586d746 59-67
+packages/core/src/client/index.ts
+  s_3e8fc308d8a272::t_7de0f962b14e6e 204-205,896-897
+packages/core/tests/unit/api/media-folders-routes.test.ts
+  s_f8532f0b8288f2::t_f200259ebf8af3 167-197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cc6eae909c35907c78505fbe76f9616d18b412ba",
+  "prompts": {},
+  "sessions": {
+    "s_3e8fc308d8a272": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a014f4-f829-7c42-99cd-3bec947abf80",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

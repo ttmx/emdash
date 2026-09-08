@@ -1,0 +1,25 @@
+packages/core/src/astro/routes/api/setup/dev-bypass.ts
+  s_97e3674bdac896::t_f4bf13e55da785 7,34,79-88
+packages/core/src/seed/apply.ts
+  s_97e3674bdac896::t_b304a4ca7645b6 1371,1373,1397,1412
+packages/core/tests/unit/astro/setup-dev-bypass.test.ts
+  s_97e3674bdac896::t_dbae50e1511346 25-28,42-56,109-136
+packages/core/tests/unit/seed/media.test.ts
+  s_97e3674bdac896::t_f56a6aea9de823 205,209
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "aaf1dbea2969b7db69f4349536f679b32a483715",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

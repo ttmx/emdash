@@ -1,0 +1,31 @@
+.changeset/large-media-cards.md
+  s_2475d4feb449ab::t_b648d4edde240c 1-5
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_97e3674bdac896::t_dcdc64ebc5e1a2 954-978,1542
+packages/admin/src/components/MediaLibrary.tsx
+  s_97e3674bdac896::t_edd1170312b715 2,1153,1195,1596-1599,1677,1680,1682,1686-1687,1692,1707-1716,1738-1739,1741,1743-1744,1747,1760-1769
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b3458b4a828fe2c5f21562d147144fffba15b251",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

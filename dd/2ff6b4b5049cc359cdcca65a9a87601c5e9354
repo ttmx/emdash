@@ -1,0 +1,96 @@
+docs/technical-specs/issue-2344-numbered-list-continuity.md
+  s_ba5b69c70266ab::t_fda94064aaf7e3 3
+packages/core/src/components/index.ts
+  s_ba5b69c70266ab::t_6938c796c12f46 53,77,93-95
+packages/core/src/content/portable-text-lists.ts
+  s_f44f80db446925::t_0ec3986ca3ad31 1-218
+packages/core/src/content/converters/numbered-list.ts
+  s_ba5b69c70266ab::t_17aab7372b6963 70-72
+  s_ba5b69c70266ab::t_d5ee199d704c03 73,93,105,111,170
+  s_ba5b69c70266ab::t_4ea23f235468cf 1-2
+  s_ba5b69c70266ab::t_df394a3716bafc 112-169
+  s_ba5b69c70266ab::t_645dffa04a1398 67-69
+  s_ba5b69c70266ab::t_c7c69a629127c2 74-92
+  s_ba5b69c70266ab::t_fb49c2f24cf8d4 106-110
+  s_ba5b69c70266ab::t_e5866c51853ee4 94-104
+packages/core/tests/unit/content/portable-text-lists.test.ts
+  s_f44f80db446925::t_e1007405069329 1-153
+.changeset/fix-numbered-list-continuity.md
+  s_f44f80db446925::t_2651c5dd33efa9 1-6
+packages/core/tests/unit/client/portable-text.test.ts
+  s_ba5b69c70266ab::t_38ef472b333236 150-259,416-426
+packages/admin/src/components/PortableTextEditor.tsx
+  s_ba5b69c70266ab::t_1c75cc6fc7d4d6 258-264,302-380,382-406,880,890,892-895,901,903,906,1164,1169,1176,1180,1236
+packages/core/src/components/PortableText.astro
+  s_ba5b69c70266ab::t_3e22ebaa7d8e3f 20-23,35-40,54-62,73-78
+packages/core/src/client/portable-text.ts
+  s_ba5b69c70266ab::t_7c1e53b4dbfda7 10-12,61,69-71,74,78,105-114,120,188,200-207,216,228,248,256,264,274-283,292-319,327,339,369-375
+packages/core/src/content/converters/portable-text-to-prosemirror.ts
+  s_ba5b69c70266ab::t_7b63e4e6e851c0 10
+  s_f44f80db446925::t_05645b51cc935e 78,119,122,128,130,133,313,317,323,327,388
+packages/core/tests/unit/converters/numbered-list-continuity.test.ts
+  s_f44f80db446925::t_4b1bcc10e2682d 170-188
+  s_f44f80db446925::t_88bdb5db194507 165-166
+  s_f44f80db446925::t_c9a4bdbf80ea6b 56-65
+  s_f44f80db446925::t_3d1dfbece4db59 167-169
+packages/core/src/components/OrderedList.astro
+  s_ba5b69c70266ab::t_f9092d0366654a 1-14
+packages/core/tests/unit/components/inline-portable-text-list.test.ts
+  s_f44f80db446925::t_de122a09462352 1-181
+packages/core/tests/repro/portable-text-numbered-list.render.test.ts
+  s_f44f80db446925::t_252e8a57ac68db 1-85
+packages/core/tests/repro/fixtures/CustomOrderedList.astro
+  s_ba5b69c70266ab::t_7b8fa01eef786a 1-7
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_ba5b69c70266ab::t_71821c07e28275 170,172,261-263,266-268,270-271,280,286-296,380,396-398,400-403,408,450-453,456,580-602,606,611,616,640,653,664,668,679-681
+  s_ba5b69c70266ab::t_df252a6599bd72 641-643
+  s_ba5b69c70266ab::t_791710eededd18 665-667
+  s_f44f80db446925::t_87c256c6b1747d 30,628-633,647-649,657-660,672-675,685-687,697
+  s_ba5b69c70266ab::t_510bea72d4d002 682-684
+  s_ba5b69c70266ab::t_bedc6bc7873016 617
+  s_ba5b69c70266ab::t_e7a6d1c6bd9fa2 654-656,661-663
+  s_ba5b69c70266ab::t_34393a55ce888f 669-671,676-678
+  s_ba5b69c70266ab::t_a236a5e7bc275d 644-646,650-652
+  s_ba5b69c70266ab::t_6d019c7b5f7c01 621-623
+  s_ba5b69c70266ab::t_f73122dff3c6d1 625-627,634-636
+  s_ba5b69c70266ab::t_8e418fc475334a 624,637-639
+  s_f44f80db446925::t_e1414d5d194bb9 604-605
+packages/admin/tests/components/PortableTextEditor.list.test.ts
+  s_f44f80db446925::t_14ebfeab4342da 464-508,520,542,566-567
+  s_f44f80db446925::t_23d518183a5c0f 509-519,521-541,543-565
+  s_f44f80db446925::t_2837aed4eab064 408-438
+packages/core/tests/unit/components/ordered-list.test.ts
+  s_7117dd1efa5f69::t_9ad4c7698472d1 93-139,152-163,275-292
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dd2ff6b4b5049cc359cdcca65a9a87601c5e9354",
+  "prompts": {},
+  "sessions": {
+    "s_7117dd1efa5f69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd37a-1ed4-7122-8e42-110dfcc855c8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_ba5b69c70266ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd36d-1bcd-79d1-ab90-63ade35e2a95",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_f44f80db446925": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd354-3ef4-7421-951b-517d241bd99c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

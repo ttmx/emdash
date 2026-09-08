@@ -1,0 +1,57 @@
+packages/core/src/api/handlers/media-folders.ts
+  s_97e3674bdac896::t_6c9cc789ffda4a 1-112
+packages/core/src/api/handlers/media.ts
+  s_97e3674bdac896::t_2af190186dc472 12-13,35,60,71,183,204-210,221-231
+packages/core/src/api/openapi/document.ts
+  s_97e3674bdac896::t_7fef5c544c8369 60-64,710-783
+packages/core/src/astro/routes/api/media/folders/[id].ts
+  s_97e3674bdac896::t_c74d8cb49cc5ac 1-40
+packages/core/tests/unit/api/media-folders-handlers.test.ts
+  s_97e3674bdac896::t_0c39e0f051a935 1-113
+packages/core/tests/unit/api/media-usage-summary.test.ts
+  s_f8532f0b8288f2::t_59508118dead48 579
+packages/core/tests/unit/api/openapi.test.ts
+  s_97e3674bdac896::t_8a99511c540589 34-35,45-92
+packages/core/src/astro/routes/api/media.ts
+  s_202b6e3937f527::t_66dfedc2f75b34 62
+packages/core/src/astro/routes/api/media/[id].ts
+  s_202b6e3937f527::t_826f3f77df59b2 95
+packages/core/src/astro/types.ts
+  s_202b6e3937f527::t_c34614449afe53 380,400-406
+packages/core/src/emdash-runtime.ts
+  s_202b6e3937f527::t_fe042977706b3d 3463,3524-3530
+packages/core/tests/unit/api/media-list-route.test.ts
+  s_202b6e3937f527::t_21bc7c665a6118 5,53-75,99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7da71d23a580edde01ed783bc77bbd5579eaef5c",
+  "prompts": {},
+  "sessions": {
+    "s_202b6e3937f527": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02131-bc26-71b2-bbac-02e6cb5fe95f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

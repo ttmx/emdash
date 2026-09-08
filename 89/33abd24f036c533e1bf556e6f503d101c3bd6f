@@ -1,0 +1,43 @@
+.changeset/align-editor-sidebar-section-headings.md
+  s_97e3674bdac896::t_9a4eafbccf0ebd 1-5
+.changeset/stabilize-seo-description-layout.md
+  s_45a3f5eeacd6c0::t_10e0972674dfd7 1-5
+e2e/tests/content-crud.spec.ts
+  s_45a3f5eeacd6c0::t_8cfa5e56127857 93-117
+packages/admin/src/components/SeoPanel.tsx
+  s_2356b8cac0744e::t_cbdb4b8b0c3066 204,214-216
+packages/admin/tests/components/SeoPanel.test.tsx
+  s_45a3f5eeacd6c0::t_f283ecec35340f 63-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8933abd24f036c533e1bf556e6f503d101c3bd6f",
+  "prompts": {},
+  "sessions": {
+    "s_2356b8cac0744e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff696-1c09-7020-a5d5-8d6b9ef03cb3",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_45a3f5eeacd6c0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff639-0431-7c71-9858-9ef16cd8f167",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

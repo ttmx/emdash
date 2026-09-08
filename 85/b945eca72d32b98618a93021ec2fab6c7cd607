@@ -1,0 +1,30 @@
+packages/core/tests/integration/smoke/site-matrix-smoke.test.ts
+  s_3291003d59bc7f::t_f97d74d051b38b 2,310,313-316
+  s_eb694def01646c::t_bd18ea203f0e65 317
+.changeset/calm-workers-start.md
+  s_eb694def01646c::t_ace0c66723128c 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "85b945eca72d32b98618a93021ec2fab6c7cd607",
+  "prompts": {},
+  "sessions": {
+    "s_3291003d59bc7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0541d-c568-7fb0-96e1-c146f3278641",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_eb694def01646c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0572e-9221-7441-9be1-5b6e55e12002",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

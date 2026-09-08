@@ -1,0 +1,29 @@
+packages/admin/src/components/settings/BackupSettings.tsx
+  s_0f09f26b06bbd0::t_b54f2e274ce840 192-193,196-201,238-239
+packages/admin/tests/components/settings/BackupSettings.test.tsx
+  s_8d2eb49104f369::t_cc74440000691d 94,99,104,114
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4ab48c37033f2dc7318dcf4ed8694049707bc687",
+  "prompts": {},
+  "sessions": {
+    "s_0f09f26b06bbd0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fcec9-8191-7381-aa6d-db9c29b859e1",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

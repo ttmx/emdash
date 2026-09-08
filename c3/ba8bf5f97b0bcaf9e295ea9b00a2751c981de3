@@ -1,0 +1,19 @@
+e2e/tests/code-block-highlighting.spec.ts
+  s_cd3ee911dc3a75::t_f8d719253a84ac 176-189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c3ba8bf5f97b0bcaf9e295ea9b00a2751c981de3",
+  "prompts": {},
+  "sessions": {
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

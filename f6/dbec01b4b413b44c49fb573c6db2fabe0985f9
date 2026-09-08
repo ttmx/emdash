@@ -1,0 +1,23 @@
+packages/admin/src/components/ContentSettingsPanel.tsx
+  s_681f8ac6d2160d::t_043a7bcb8172d8 324,381,679,681-683,859,888,1094-1108
+packages/admin/tests/components/ContentEditor.test.tsx
+  s_681f8ac6d2160d::t_12676e9b2cffca 1062-1182
+docs/technical-specs/byline-editor-experience.md
+  s_681f8ac6d2160d::t_16c3acedd7c62e 1-398
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f6dbec01b4b413b44c49fb573c6db2fabe0985f9",
+  "prompts": {},
+  "sessions": {
+    "s_681f8ac6d2160d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03f61-517c-74e3-a368-e5bf63b7ac62",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+packages/admin/src/components/SetupWizard.tsx
+  s_97e3674bdac896::t_ddd45d8fbf4d94 32,87,93-99,104-106,157-173,613
+packages/core/src/astro/routes/api/setup/status.ts
+  s_ba6ec59a56e5a3::t_cf7b3e8a7e5a66 113-117,123
+e2e/tests/setup-wizard.spec.ts
+  s_2475d4feb449ab::t_611ad7413ebfe5 61
+packages/admin/tests/components/SetupWizard.test.tsx
+  s_2475d4feb449ab::t_27a6128d8e6eaa 10,24,70,175-202
+packages/core/tests/integration/astro/setup-media-usage.test.ts
+  s_2475d4feb449ab::t_08b075d31a984e 32,92-108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2428be4da79b544829609ae8ffbb2e564a022fb9",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_ba6ec59a56e5a3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03e57-e986-7a90-b389-74772b1b2b7f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

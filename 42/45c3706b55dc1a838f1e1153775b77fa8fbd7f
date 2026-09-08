@@ -1,0 +1,19 @@
+.changeset/cleanup-media-usage-generations.md
+  s_e14ab465aa9f22::t_be231fcfb486ab 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4245c3706b55dc1a838f1e1153775b77fa8fbd7f",
+  "prompts": {},
+  "sessions": {
+    "s_e14ab465aa9f22": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc20d-8525-7ec3-bf8a-dd5142ac90be",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

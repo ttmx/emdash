@@ -1,0 +1,33 @@
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_97e3674bdac896::t_6daea4f6d9c122 574-576,611,649
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_97e3674bdac896::t_74887ed6af7c0a 317-319,321,332-334,460-462
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_97e3674bdac896::t_74d8297e66d0e4 156-163,201-206,228-231,245-254,257-263,374-376
+docs/technical-specs/media-library-folders-visual-polish.md
+  s_202b6e3937f527::t_c1bf7a7d82b449 1-431
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "28a7d9cefd2e69ecb079e8f77a282ad94dc67cef",
+  "prompts": {},
+  "sessions": {
+    "s_202b6e3937f527": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02131-bc26-71b2-bbac-02e6cb5fe95f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

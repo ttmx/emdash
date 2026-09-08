@@ -1,0 +1,104 @@
+packages/admin/src/components/ContentSettingsPanel.tsx
+  s_681f8ac6d2160d::t_043a7bcb8172d8 321,378,699,701-703
+  s_681f8ac6d2160d::t_f418c3c113f3a2 34-35,697
+  s_681f8ac6d2160d::t_0baf6a67fa3f7a 671-695
+packages/admin/tests/components/ContentEditor.test.tsx
+  s_681f8ac6d2160d::t_12676e9b2cffca 1087,1091-1096,1117-1118,1120-1124,1126,1127-1129,1132-1144,1146-1150,1152,1153-1155,1158-1170,1173-1174,1178-1180
+  s_681f8ac6d2160d::t_5bd3f80a49fdb7 1130,1156,1175-1177,1505-1508,1510-1523,2144,2147,2148-2156,2158-2159,2161,2163-2165,2182,2194,2196-2198
+  s_681f8ac6d2160d::t_31353e4ebb277e 2160,2162
+  s_97e3674bdac896::t_7885b023aff6ee 1131,1157,2195
+  s_681f8ac6d2160d::t_837339575cc2a2 1097-1103,1108-1116
+  s_2475d4feb449ab::t_09be018f7015c0 154-178,1088-1090,1104-1107,1119,1125,1145,1151,1171-1172,1509,2145-2146,2157
+packages/admin/tests/components/BylineCreditsEditor.test.tsx
+  s_681f8ac6d2160d::t_30ffdbcb2d1bba 1-35,46-47,49-52,54-80,97-115,118-132,135-141,206-211,213-216,218-221,226,227-230,235-236,238-243,245-247,249,254-255,260,267-268,296,334-340,344,400,401-402
+  s_681f8ac6d2160d::t_e80cf896f243ae 142,158,161,165-168,171-172,174-175,177,204-205,289-293,296,298,301
+  s_681f8ac6d2160d::t_a74a458b62dc36 237,244,279-288
+  s_681f8ac6d2160d::t_014869b3ef94f0 348-349,352-401
+  s_681f8ac6d2160d::t_9ed429eb094301 307-308,315-317,321,324-325
+  s_681f8ac6d2160d::t_dd92c65cd3eedc 217,222-225,295-296,298-305,309-313,318-320,322
+  s_175ffb1df876da::t_ea439de4a779b2 306,323
+  s_97e3674bdac896::t_1d4b1957cf36d1 152-190,192-205,248-249,254-268,329,333-340,346-348
+  s_681f8ac6d2160d::t_8da5f690d5c21e 36-45,48,53,81-96,116-117,133-134,143-145,191,212,231-234,250-253,270-276,297,314,326-328,330-332,341-345,350-351
+.changeset/calm-bylines-flow.md
+  s_681f8ac6d2160d::t_0661a01768a4cd 1-5
+packages/admin/src/components/BylineCreditsEditor.tsx
+  s_681f8ac6d2160d::t_b89ad6c77537dd 1,2-7,9,11-33,34-37,39-58,69-126,127-140,142-150,153-155,162-163,165,167-184,192-205,207-217,219-225,229-233,235-237,244-252,257,259,260,262-267,269-270,272,273,275-304,306,307-335,337-339,341,343-389,407,416,417,434,453,546,552-554,569-571,573-580,583-589,590-613,614-615,620-652,666-670,684-702,704-715,717-718,720-776,777-783,784-791,792-798,799-815,817,819-828,830-857,859-861,863,867,869-870,877-878,887-896,914-919,921-927,929-945,947-961,968-1025
+  s_681f8ac6d2160d::t_dbc76c529c8def 10,141,226-228,253-254,255-256,258,261,305,390-393,396-397,399,401-405,408-409,411-415,419-433,435,460,537,550-551,582,653-665,671-683,703,716
+  s_2475d4feb449ab::t_9f53a3a8b3f137 442,479,500,504,528,546
+  s_2475d4feb449ab::t_2a8721045faf5a 38,868,876,886
+  s_681f8ac6d2160d::t_4502e94e3c139f 59-68,572
+  s_2475d4feb449ab::t_f4495e6fbc6c13 863,866-867,871,874-875,880,883-885
+  s_681f8ac6d2160d::t_26f3a73a47db59 555-568
+  s_681f8ac6d2160d::t_f56f2b0069e859 8,581,816,920
+  s_681f8ac6d2160d::t_56b9e39d4b9bf2 818
+  s_681f8ac6d2160d::t_3c7cb648cd36a3 485-487,489-491
+  s_681f8ac6d2160d::t_a62b15aaaa2527 395
+  s_681f8ac6d2160d::t_bcf6250759b51f 152,238-243,268,271,274,394,398,400,406,418,436-440,443-444,446-457,460,463-477,480-483,492-503,505-527,529-545,547,549,719,928,946,962-967
+  s_681f8ac6d2160d::t_8eb090480de19f 475
+  s_681f8ac6d2160d::t_e320ecd0916d88 410,478,485-491
+  s_681f8ac6d2160d::t_d1da42d7e44cb4 151,157-161,164,166,185-191,206,218,234,336,340,342,441,445,458,461-462,548,616-619,858
+  s_681f8ac6d2160d::t_f2c3c12a85acac 156
+  s_681f8ac6d2160d::t_171ccba78e267a 829
+  s_f7da1a00d7a35d::t_9509ebc93b5226 459
+  s_2475d4feb449ab::t_cd42fc5b40bb77 862,864-865,872-873,879,881-882
+  s_2475d4feb449ab::t_ace35f31aec140 897-913
+packages/admin/src/components/ContentEditor.tsx
+  s_681f8ac6d2160d::t_8ee4db48cca596 1079-1083
+  s_681f8ac6d2160d::t_2bbfd1ae852bc7 84,86-93
+packages/admin/tests/components/SortableContentSettingsSections.test.tsx
+  s_681f8ac6d2160d::t_d13735cf66615e 74,90-91
+packages/admin/src/components/SortableContentSettingsSections.tsx
+  s_681f8ac6d2160d::t_129826c54fcaa6 216-217
+packages/admin/tests/components/ContentSettingsPanel.test.tsx
+  s_681f8ac6d2160d::t_7a4e6b18099246 16,83-99,186-204
+e2e/tests/bylines.spec.ts
+  s_2475d4feb449ab::t_fe947ae6083b14 50-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "53af91fcbb6b952bb8ca38e275eddf9c5fedded0",
+  "prompts": {},
+  "sessions": {
+    "s_175ffb1df876da": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a042a2-5ba0-76c2-8611-a9b63dc3a8e2",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_681f8ac6d2160d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03f61-517c-74e3-a368-e5bf63b7ac62",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f7da1a00d7a35d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a015a7-d54d-7a90-9c40-5d48a814f2b7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

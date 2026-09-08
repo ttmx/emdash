@@ -1,0 +1,19 @@
+packages/admin/src/components/ContentEditor.tsx
+  s_93863a022d2c20::t_4da14dbbf623a5 875
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a8c7dd22707c683c541b5d3b79d07a30c9cf848d",
+  "prompts": {},
+  "sessions": {
+    "s_93863a022d2c20": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02389-3b2b-7643-83f5-e456206e395a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

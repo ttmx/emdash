@@ -1,0 +1,33 @@
+.changeset/quiet-code-block-actions.md
+  s_cd3ee911dc3a75::t_2a84b761100c23 6
+e2e/fixture/src/pages/posts/[slug].astro
+  s_cd3ee911dc3a75::t_e9763ffe0d2382 15-25
+e2e/tests/code-block-highlighting.spec.ts
+  s_cd3ee911dc3a75::t_f15fbf62ee73eb 1-2,5-27,44-70,155-157,162-230
+packages/admin/src/components/editor/CodeBlockNode.tsx
+  s_cd3ee911dc3a75::t_b3fc688cb8fa8a 5-9,16-24,27,29,69-70,82,105,110-111,114-119,121-123,125,140,142,160-163,178-183,196-200,208-209,215,219-222,234,236-237,247-291
+packages/admin/tests/editor/PortableTextEditor.test.tsx
+  s_cd3ee911dc3a75::t_2d83d2864e1d9d 1276-1277,1285,1290-1296,1298,1300-1303,1305-1306,1310,1313,1319,1324-1325,1330-1339,1342,1345-1353,1364,1366-1373,1375-1394
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_cd3ee911dc3a75::t_21ecc7a5851cd6 2288,2309,2312-2313,2315-2317,2320-2323,2325,2328,2332,2336,2339,2343-2350,2355,2358,2360-2362,2366-2367,2369-2372,2376-2377,2379,2381-2385,2388,2396,2399,2403
+packages/core/src/components/inline-code-block.tsx
+  s_cd3ee911dc3a75::t_d9cce89e4fad79 6,119-146,148,150-154,158-171,179,184,189,197,202-203,212,216-218,221-224,227,229-230,232,234-235,237-241,244-249,257-258,264-269,288,295,303-308,314,316,319-326,328-400,402-415
+packages/core/tests/unit/components/inline-portable-text-code-block.test.ts
+  s_cd3ee911dc3a75::t_d4c7d7e0460067 39-52,89-97,99-120,122-128,131-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b340a7b99f3968bd30167f348f37dfab78046a3b",
+  "prompts": {},
+  "sessions": {
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

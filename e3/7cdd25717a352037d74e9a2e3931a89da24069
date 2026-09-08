@@ -1,0 +1,31 @@
+packages/core/src/database/repositories/media-usage.ts
+  s_97e3674bdac896::t_36ff2ffe7ec8fd 23,93-94,115-157,783-797,837,957-982,1021,1143-1150,3070
+packages/core/src/api/openapi/document.ts
+  s_97e3674bdac896::t_cbf223c1ca9070 893
+packages/core/src/media/usage/collection-deletion-processor.ts
+  s_97e3674bdac896::t_5b67170964a4e1 37-43
+packages/core/src/media/usage/collection-deletion.ts
+  s_97e3674bdac896::t_b55650d69cca54 196-205
+packages/core/tests/integration/database/media-usage-projection-admission-runtime.test.ts
+  s_97e3674bdac896::t_9c639146207f8b 18,159-186
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_97e3674bdac896::t_fe00fca0183897 74-94
+packages/core/tests/unit/api/openapi.test.ts
+  s_97e3674bdac896::t_2b8b744fb848bc 133,150-151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e37cdd25717a352037d74e9a2e3931a89da24069",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+packages/admin/src/components/MediaUsedIn.tsx
+  s_f7384acc58f5b8::t_1be7945d60db22 1,3-10,67-107,113,127-144
+packages/admin/tests/components/MediaUsedIn.test.tsx
+  s_97e3674bdac896::t_df911f9aa39f70 3,148-160,162,164-187,194-198,210-216,324-326
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3fb5f05eeb9ed7adaea9c84d91cf699a2a5da549",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f7384acc58f5b8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff875-7de1-72e1-b9b5-26630da8e66b",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

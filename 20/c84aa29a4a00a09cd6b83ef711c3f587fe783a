@@ -1,0 +1,19 @@
+packages/core/tests/unit/loader-scheduled-publishing.test.ts
+  s_f44f80db446925::t_32651c989b9525 59-72,77,81-84,91,93,127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "20c84aa29a4a00a09cd6b83ef711c3f587fe783a",
+  "prompts": {},
+  "sessions": {
+    "s_f44f80db446925": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd354-3ef4-7421-951b-517d241bd99c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

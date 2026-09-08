@@ -1,0 +1,19 @@
+packages/core/tests/unit/api/media-usage-summary.test.ts
+  s_2475d4feb449ab::t_848de9ffef0e3a 570-571
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1d17c4379e8a8219e12c88b3a2fba234a828ee4a",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

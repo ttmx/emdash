@@ -1,0 +1,27 @@
+e2e/tests/api-tokens.spec.ts
+  s_8d2eb49104f369::t_93022f867d2399 8,30,34,85-86,125-126,150,153-155,157-160,163-164,167,171,197,199-205,208,211,214,217-219
+packages/admin/src/components/Settings.tsx
+  s_8d2eb49104f369::t_86d9019872718e 1,13,130-138
+packages/admin/src/components/settings/ApiTokenSettings.tsx
+  s_8d2eb49104f369::t_11d11ddda0bf9f 391
+packages/admin/tests/components/Settings.test.tsx
+  s_8d2eb49104f369::t_a6643a3807e30d 116
+packages/admin/tests/components/settings/ApiTokenSettings.test.tsx
+  s_8d2eb49104f369::t_fef12ea038452a 177,193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5b5f984dd9bf9dd463dad9e791c04f6915927305",
+  "prompts": {},
+  "sessions": {
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

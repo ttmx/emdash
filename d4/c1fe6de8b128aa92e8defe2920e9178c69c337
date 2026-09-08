@@ -1,0 +1,31 @@
+packages/cloudflare/tests/db/do-playground-routes.test.ts
+  s_eb694def01646c::t_207e5f4081e627 68-75
+e2e/playground/media-ready.spec.ts
+  s_3291003d59bc7f::t_9763d2c2304237 72
+packages/cloudflare/src/db/do-playground-routes.ts
+  s_3291003d59bc7f::t_2d659331f55d79 49-55,66,84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d4c1fe6de8b128aa92e8defe2920e9178c69c337",
+  "prompts": {},
+  "sessions": {
+    "s_3291003d59bc7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0541d-c568-7fb0-96e1-c146f3278641",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_eb694def01646c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0572e-9221-7441-9be1-5b6e55e12002",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

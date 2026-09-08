@@ -1,0 +1,35 @@
+packages/admin/src/components/editor/ordered-list.ts
+  s_f44f80db446925::t_d7f50fbb9a2613 1,3-411,415,417-424,427,432,437-508
+packages/admin/tests/editor/ordered-list.test.ts
+  s_ba5b69c70266ab::t_78c02ae2e720c1 1-82
+packages/admin/tests/editor/toolbar.test.tsx
+  s_ba5b69c70266ab::t_ba6190350647f5 551-610
+packages/core/package.json
+  s_ba5b69c70266ab::t_a1d7e72a7c8fae 231
+pnpm-lock.yaml
+  s_ba5b69c70266ab::t_9c4e76b505b53c 1739-1741
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b7a0d7a91d4c5116223b1ea0a0256ed23c4a03c0",
+  "prompts": {},
+  "sessions": {
+    "s_ba5b69c70266ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd36d-1bcd-79d1-ab90-63ade35e2a95",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_f44f80db446925": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd354-3ef4-7421-951b-517d241bd99c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

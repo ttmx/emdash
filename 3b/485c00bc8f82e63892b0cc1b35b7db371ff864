@@ -1,0 +1,21 @@
+packages/core/tests/integration/database/media-usage-work-processor.test.ts
+  s_97e3674bdac896::t_21d72a53659459 302-312
+packages/core/tests/integration/database/media-usage-work-repository.test.ts
+  s_97e3674bdac896::t_57fb7942b8b0bf 87,89-90,92-94,117,119-120,122-123,141-142,163-164,187-189,226-230,290-293,315-342
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3b485c00bc8f82e63892b0cc1b35b7db371ff864",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

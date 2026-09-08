@@ -1,0 +1,29 @@
+packages/admin/src/components/ContentList.tsx
+  s_97e3674bdac896::t_3815e7ebcb0cd3 930
+packages/admin/tests/components/ContentList.test.tsx
+  s_c444261db0d227::t_ae1abde0645e0b 366-384
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cdb7c9cb758717b423dbbd3d92dcb88e9f4bb9eb",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_c444261db0d227": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a015ae-ff60-7762-8acb-068691722b97",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

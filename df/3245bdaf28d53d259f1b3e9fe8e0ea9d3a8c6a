@@ -1,0 +1,19 @@
+packages/admin/src/components/settings/SecuritySettings.tsx
+  s_8d2eb49104f369::t_5636989d639822 137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "df3245bdaf28d53d259f1b3e9fe8e0ea9d3a8c6a",
+  "prompts": {},
+  "sessions": {
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

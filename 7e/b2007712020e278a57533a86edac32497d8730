@@ -1,0 +1,83 @@
+docs/technical-specs/issue-2344-numbered-list-continuity.md
+  s_ba5b69c70266ab::t_fda94064aaf7e3 3
+packages/core/tests/unit/client/portable-text.test.ts
+  s_ba5b69c70266ab::t_38ef472b333236 150-259,416-426
+packages/core/src/content/converters/numbered-list.ts
+  s_ba5b69c70266ab::t_c7c69a629127c2 74-92
+  s_ba5b69c70266ab::t_d5ee199d704c03 73,93,105,111,170
+  s_ba5b69c70266ab::t_e5866c51853ee4 94-104
+  s_ba5b69c70266ab::t_df394a3716bafc 112-169
+  s_ba5b69c70266ab::t_fb49c2f24cf8d4 106-110
+  s_ba5b69c70266ab::t_17aab7372b6963 70-72
+  s_ba5b69c70266ab::t_645dffa04a1398 67-69
+  s_ba5b69c70266ab::t_4ea23f235468cf 1-2
+packages/core/src/components/index.ts
+  s_ba5b69c70266ab::t_6938c796c12f46 53,77,93-95
+packages/core/tests/unit/components/inline-portable-text-list.test.ts
+  s_f44f80db446925::t_de122a09462352 1-115
+packages/core/tests/unit/converters/numbered-list-continuity.test.ts
+  s_f44f80db446925::t_4b1bcc10e2682d 150-168
+  s_f44f80db446925::t_3d1dfbece4db59 147-149
+  s_f44f80db446925::t_88bdb5db194507 145-146
+  s_f44f80db446925::t_c9a4bdbf80ea6b 55-64
+packages/core/src/client/portable-text.ts
+  s_ba5b69c70266ab::t_7c1e53b4dbfda7 10-12,61,69-71,74,78,105-114,120,188,200-207,216,228,248,256,264,274-283,292-319,327,339,369-375
+packages/core/src/components/PortableText.astro
+  s_ba5b69c70266ab::t_3e22ebaa7d8e3f 20-23,35-40,54-62,73-78
+packages/core/src/content/portable-text-lists.ts
+  s_f44f80db446925::t_0ec3986ca3ad31 1-214
+packages/core/src/content/converters/portable-text-to-prosemirror.ts
+  s_f44f80db446925::t_05645b51cc935e 78,119,122,128,130,133,313,317,323,327,388
+  s_ba5b69c70266ab::t_7b63e4e6e851c0 10
+packages/core/tests/repro/portable-text-numbered-list.render.test.ts
+  s_f44f80db446925::t_252e8a57ac68db 1-85
+packages/admin/src/components/PortableTextEditor.tsx
+  s_ba5b69c70266ab::t_1c75cc6fc7d4d6 258-264,302-380,382-406,880,890,892-895,901,903,906,1164,1169,1176,1180,1236
+packages/core/src/components/OrderedList.astro
+  s_ba5b69c70266ab::t_f9092d0366654a 1-14
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_ba5b69c70266ab::t_71821c07e28275 170,172,261-263,266-268,270-271,280,286-296,380,396-398,400-403,408,450-453,456,580-602,605,610,615,639,652,663,667,678-680
+  s_ba5b69c70266ab::t_df252a6599bd72 640-642
+  s_ba5b69c70266ab::t_bedc6bc7873016 616
+  s_ba5b69c70266ab::t_8e418fc475334a 623,636-638
+  s_ba5b69c70266ab::t_6d019c7b5f7c01 620-622
+  s_ba5b69c70266ab::t_f73122dff3c6d1 624-626,633-635
+  s_ba5b69c70266ab::t_a236a5e7bc275d 643-645,649-651
+  s_ba5b69c70266ab::t_e7a6d1c6bd9fa2 653-655,660-662
+  s_ba5b69c70266ab::t_791710eededd18 664-666
+  s_ba5b69c70266ab::t_34393a55ce888f 668-670,675-677
+  s_ba5b69c70266ab::t_510bea72d4d002 681-683
+  s_f44f80db446925::t_87c256c6b1747d 30,627-632,646-648,656-659,671-674,684-686,696
+.changeset/fix-numbered-list-continuity.md
+  s_f44f80db446925::t_2651c5dd33efa9 1-6
+packages/core/tests/unit/content/portable-text-lists.test.ts
+  s_f44f80db446925::t_e1007405069329 1-140
+packages/core/tests/repro/fixtures/CustomOrderedList.astro
+  s_ba5b69c70266ab::t_7b8fa01eef786a 1-7
+packages/admin/tests/components/PortableTextEditor.list.test.ts
+  s_f44f80db446925::t_14ebfeab4342da 433-477
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7eb2007712020e278a57533a86edac32497d8730",
+  "prompts": {},
+  "sessions": {
+    "s_ba5b69c70266ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd36d-1bcd-79d1-ab90-63ade35e2a95",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_f44f80db446925": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd354-3ef4-7421-951b-517d241bd99c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

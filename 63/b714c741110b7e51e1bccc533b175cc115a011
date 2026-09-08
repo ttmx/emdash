@@ -1,0 +1,29 @@
+packages/admin/src/components/ImageFieldRenderer.tsx
+  s_6abfccdb5931f7::t_edabf0d829c485 13,143,155-162,168,172
+packages/admin/tests/components/ImageFieldRenderer.test.tsx
+  s_ed80d88da4956b::t_20968e36655976 60-65,114,159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "63b714c741110b7e51e1bccc533b175cc115a011",
+  "prompts": {},
+  "sessions": {
+    "s_6abfccdb5931f7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff0c9-7484-7390-9e9c-79e29c462ea3",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_ed80d88da4956b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff06c-dbba-7c12-a587-37f1a0c83cfb",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

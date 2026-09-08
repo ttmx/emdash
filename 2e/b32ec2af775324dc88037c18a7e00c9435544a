@@ -1,0 +1,23 @@
+packages/admin/src/components/BylineCreditsEditor.tsx
+  s_681f8ac6d2160d::t_171ccba78e267a 829
+packages/admin/src/components/ContentEditor.tsx
+  s_681f8ac6d2160d::t_2bbfd1ae852bc7 84,86-93
+packages/admin/tests/components/ContentEditor.test.tsx
+  s_681f8ac6d2160d::t_837339575cc2a2 1085-1113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2eb32ec2af775324dc88037c18a7e00c9435544a",
+  "prompts": {},
+  "sessions": {
+    "s_681f8ac6d2160d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03f61-517c-74e3-a368-e5bf63b7ac62",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

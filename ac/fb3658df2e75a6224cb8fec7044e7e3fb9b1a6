@@ -1,0 +1,57 @@
+.opencode/memory/active/media-usage-index-used-in/implementation/STEP_1.md
+  s_8d2eb49104f369::t_88e0b20b84974a 1-31
+packages/core/src/database/migrations/057_media_usage_incremental_work.ts
+  s_8d2eb49104f369::t_b8c9c45524aed2 1-429
+packages/core/src/database/migrations/runner.ts
+  s_87680d8f12f553::t_d68dc95c2d0c0e 62,120
+packages/core/src/database/types.ts
+  s_aaa0f101de5545::t_6f19d3ef8f7c3c 96,113,189-236,602-603
+packages/core/src/media/usage/capture-triggers.ts
+  s_8d2eb49104f369::t_9a6e8e222666bf 1-520
+packages/core/tests/integration/database/media-usage-capture-trigger.test.ts
+  s_8d2eb49104f369::t_42764608355d51 1-426
+packages/core/tests/integration/database/media-usage-incremental-work-migration.test.ts
+  s_8d2eb49104f369::t_240efdf8f61339 1-237
+packages/core/tests/integration/database/migrations.test.ts
+  s_635462d03ba7bd::t_983ae556ff57bb 149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "acfb3658df2e75a6224cb8fec7044e7e3fb9b1a6",
+  "prompts": {},
+  "sessions": {
+    "s_635462d03ba7bd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd27f-ea1d-7753-8727-531c76a45f2b",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_87680d8f12f553": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_02d87dd3effe2aka3Nny6uVgzH",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_aaa0f101de5545": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_02d7fe7adffeCToaQjdh6A5tpv",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+packages/admin/src/components/FocalPointEditor.tsx
+  s_2475d4feb449ab::t_e44c647f2dec25 30,36,38
+packages/admin/src/components/MediaDetailPanel.tsx
+  s_2475d4feb449ab::t_f3596d2d92c05a 26,199,539-543,548-555,558-560,562-567,571-578,581-593,598-599,601,940-943
+packages/admin/tests/components/MediaDetailPanel.test.tsx
+  s_2475d4feb449ab::t_8676cd447430ca 173-177,188,213-214,261-262,264,266-270,1067-1068,1074-1080
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2289ed606d98ecbf27752afe60ebff8a1ae3faf2",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

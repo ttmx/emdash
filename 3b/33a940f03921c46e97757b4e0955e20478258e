@@ -1,0 +1,37 @@
+.changeset/bright-code-blocks.md
+  s_cd3ee911dc3a75::t_17abca0febaa5b 6
+docs/src/content/docs/guides/querying-content.mdx
+  s_cd3ee911dc3a75::t_53e9b852732177 273,282,296,299
+docs/technical-specs/issue-2361-code-block-highlighting.md
+  s_8c9ce915612104::t_73468b8d5cecef 92,119,130,133,142,298
+e2e/tests/code-block-highlighting.spec.ts
+  s_8c9ce915612104::t_d82db0f44af66f 20-31,81,86-88
+packages/admin/src/styles.css
+  s_8c9ce915612104::t_2a5fbd1a723da2 246,260,263
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_cd3ee911dc3a75::t_f081ea8dd346b7 2288,2355,2358
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3b33a940f03921c46e97757b4e0955e20478258e",
+  "prompts": {},
+  "sessions": {
+    "s_8c9ce915612104": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024d1-7411-7020-83d3-10737a6c92ae",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

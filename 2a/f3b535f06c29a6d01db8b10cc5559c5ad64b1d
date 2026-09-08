@@ -1,0 +1,51 @@
+.changeset/normalize-publish-labels.md
+  s_d28897ab365a4b::t_0d55cc2eb50125 1-5
+packages/admin/tests/components/ContentEditor.test.tsx
+  s_0f09f26b06bbd0::t_5beb23841e47cd 1104,1112,1132,1338,1566,1575
+packages/admin/src/components/ContentList.tsx
+  s_d3ebefb561ae25::t_db45294d0fcff0 25-26,416,732,737-747,771,774,776,1175,1198-1200
+packages/admin/src/components/ContentPickerModal.tsx
+  s_0f09f26b06bbd0::t_7efb087fbd569d 10,198-204,207-209,211
+packages/admin/src/components/ContentSettingsPanel.tsx
+  s_0f09f26b06bbd0::t_b24eb631bab773 13-21,197,204,460-465
+packages/admin/src/components/Dashboard.tsx
+  s_0f09f26b06bbd0::t_c7adf5428cf3b1 248,350
+packages/admin/tests/components/ContentList.test.tsx
+  s_0f09f26b06bbd0::t_63bb8b9c3c90b1 168,171-199
+packages/admin/tests/components/ContentSettingsPanel.test.tsx
+  s_0f09f26b06bbd0::t_6d4328c2f7fec0 254,256,263,269,273,277,331
+packages/admin/tests/publish-button-locale.test.tsx
+  s_0f09f26b06bbd0::t_420cc8da112e31 5,7,26,138,162,173,192,244,280,290,307,310
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2af3b535f06c29a6d01db8b10cc5559c5ad64b1d",
+  "prompts": {},
+  "sessions": {
+    "s_0f09f26b06bbd0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fcec9-8191-7381-aa6d-db9c29b859e1",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_d28897ab365a4b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fced3-7ace-75a0-833a-d889020036c3",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_d3ebefb561ae25": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fceca-98fa-7922-85a7-766d0e0228dc",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

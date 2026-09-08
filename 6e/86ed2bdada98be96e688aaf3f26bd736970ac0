@@ -1,0 +1,23 @@
+packages/admin/tests/components/PortableTextEditor.list.test.ts
+  s_f44f80db446925::t_2837aed4eab064 408-438
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_f44f80db446925::t_e1414d5d194bb9 604-605
+packages/core/tests/unit/components/inline-portable-text-list.test.ts
+  s_f44f80db446925::t_842a29f76e701f 7,36-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6e86ed2bdada98be96e688aaf3f26bd736970ac0",
+  "prompts": {},
+  "sessions": {
+    "s_f44f80db446925": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd354-3ef4-7421-951b-517d241bd99c",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

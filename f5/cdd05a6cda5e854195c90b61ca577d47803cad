@@ -1,0 +1,25 @@
+.changeset/toolbar-block-actions.md
+  s_dabe8803b69023::t_9fc35bbec00b60 1-5
+packages/admin/src/components/PortableTextEditor.tsx
+  s_dabe8803b69023::t_c5f1626f534879 1352-1357,1468,2622-2625,3310,3773,3780,4019-4024
+packages/admin/tests/editor/PortableTextEditor.test.tsx
+  s_dabe8803b69023::t_6d3c440a12c08c 852
+packages/admin/tests/editor/toolbar.test.tsx
+  s_dabe8803b69023::t_9cf911803d48fa 10,18-49,86-93,312,316-317,406-445
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f5cdd05a6cda5e854195c90b61ca577d47803cad",
+  "prompts": {},
+  "sessions": {
+    "s_dabe8803b69023": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a00b08-cf91-7273-8dc3-e0d8030bce5f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

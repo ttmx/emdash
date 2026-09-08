@@ -1,0 +1,21 @@
+e2e/fixture-cloudflare/noop-sandbox.mjs
+  s_c0589149ac8913::t_7d0097df4f0af9 4-6,8,10-18
+e2e/fixture/noop-sandbox.mjs
+  s_c0589149ac8913::t_22a7e98bb09f27 4-6,8,10-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "247043d7bc7e22247d315d7e2e8dcf4880f8bfba",
+  "prompts": {},
+  "sessions": {
+    "s_c0589149ac8913": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdc5f-4135-73a0-b92c-5bf47591eb2e",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

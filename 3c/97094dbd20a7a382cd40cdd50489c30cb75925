@@ -1,0 +1,57 @@
+packages/core/src/database/repositories/media-usage.ts
+  s_f44f80db446925::t_0d5adc449743ee 29,80,96,117,134,306,323,356,373,527-539,571-576,849-851,883-885,1802,1819,1844-1846,1854,1871,1881,1898,1912,2007,2024,2040,2050,2055,2076-2078,2101-2103,2116-2128,2131,2151,2168,2183,2200,2224,2242,2252,2269,2282,2299,2356,2373,2406,2423
+packages/core/src/media/usage/content-refresh.ts
+  s_97e3674bdac896::t_62fb907f888d5a 37-41,65-83,92,97,102-107,114-120,135,138-150,152-162,170-172,175-178,202-205,214-219,251,255,298,300-302,507-543
+packages/core/src/media/usage/content-snapshots.ts
+  s_97e3674bdac896::t_cdf54c15ddc292 59-63,69,72-74,76-82,101,103,126,128,174,176,214,226,258,260,267-275,280,286,301
+packages/core/src/media/usage/work-processor.ts
+  s_97e3674bdac896::t_a5181434512483 1-226
+packages/core/tests/integration/database/media-usage-repository.test.ts
+  s_97e3674bdac896::t_68c420262beeae 95-176
+packages/core/tests/integration/runtime/media-usage-scheduled-driver.test.ts
+  s_97e3674bdac896::t_d39391d3a55891 1-170
+.opencode/memory/active/media-usage-index-used-in/implementation/STEP_3.md
+  s_055b193f5ac459::t_5ef99f8bc3c22b 1-33
+packages/core/src/database/repositories/media-usage-work.ts
+  s_055b193f5ac459::t_4797a0f12fb622 10,41-99,274-276,283,294-312
+packages/core/src/emdash-runtime.ts
+  s_055b193f5ac459::t_23c6f14d48a476 50-53,516-526,714,720,1670,3505-3508,3523-3524
+packages/core/src/media/usage/source-key.ts
+  s_97e3674bdac896::t_ca28556b36efd5 6,22-24
+packages/core/tests/integration/database/media-usage-work-processor.test.ts
+  s_055b193f5ac459::t_eeffde1bc7bf92 1-359
+packages/core/tests/integration/database/media-usage-work-repository.test.ts
+  s_055b193f5ac459::t_1022ff8090b5aa 268-324,348-349,354,360,362,370
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3c97094dbd20a7a382cd40cdd50489c30cb75925",
+  "prompts": {},
+  "sessions": {
+    "s_055b193f5ac459": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd178-c28f-7d31-82d6-722ad7797158",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_f44f80db446925": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd354-3ef4-7421-951b-517d241bd99c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+.changeset/media-library-project.md
+  s_cc9dc2a14a8281::t_ca171b5ebf1d0d 1-2,4-5
+  s_cc9dc2a14a8281::t_f4cf5f5f8098dd 3,6
+packages/core/tests/integration/database/media-usage-cleanup-plan.test.ts
+  s_e14ab465aa9f22::t_c9e0e29fcf5677 1-9,11-19,24-27,29-33,35-39,43-79,81,83-92,391-444,461,463-528,530-532,534-555,564-565,574-578,587-597
+  s_624d811dcaeb04::t_e6d44063b8eb0b 20-21,23,80,445-456,460
+  s_d40d6b92de7460::t_e9c96765f24e17 28,34,40-42,82,127-141,143-152,154-167,338-353,355-363,365-379,391-392,457-459,462
+  s_d40d6b92de7460::t_72e9888f5c8f37 22,142,153,183,188,199-204,213-216,219-222,228,239-243,250,253-254,257,259-261,354,364
+  s_8d2eb49104f369::t_1063ca0f51fa0f 93-124,529,533,556-563,566-573,579-586
+packages/core/tests/integration/database/media-usage-cleanup.test.ts
+  s_e14ab465aa9f22::t_0bb0d637a1fd81 1-11,12-19,22-279,281-286,292-340,341-356,358-369,371-418,420-430,436-437,467,476-478,800-823,825-1095
+  s_624d811dcaeb04::t_ca68dbdf8918d4 287-289,291
+  s_d40d6b92de7460::t_ea5f0f377fa2bf 443-635
+packages/core/tests/integration/database/media-usage-migration.test.ts
+  s_e14ab465aa9f22::t_bc4d8951b1ce3a 21
+packages/core/tests/integration/database/media-usage-repository.test.ts
+  s_e14ab465aa9f22::t_5b886734e896b2 928-944,1483-1529
+packages/core/tests/integration/database/migrations.test.ts
+  s_e14ab465aa9f22::t_e5951f28efeb7c 54-56
+packages/core/src/database/migrations/060_media_usage_cleanup.ts
+  s_e14ab465aa9f22::t_f8726ebd06b156 1-58,60-77
+  s_db9d1563e8e15a::t_9e7a721762b23f 59
+packages/core/src/database/migrations/061_media_usage_cleanup_fence.ts
+  s_e14ab465aa9f22::t_73e71f9fea57db 1-33,49-50,52-58,72-90,115-167,169-261,277-280,282-295
+  s_db9d1563e8e15a::t_587bd5d97dd7f1 59
+packages/core/src/database/repositories/media-usage.ts
+  s_e14ab465aa9f22::t_875540514802d9 5,15,36,41-45,50-56,158-187,189-193,195-204,398-405,422-436,483-492,908-929,931-1021,1025-1079,1082-1086,1088-1089,1092,1097-1101,1105,1108-1112,1114,1116-1117,1119,1122-1126,1129-1133,1135-1136,1139,1144-1148,1153,1156-1158,1160-1165,1167,1170-1174,1177-1181,1183-1184,1187,1192-1196,1201,1204-1208,1210,1212-1213,1215-1220,1222-1223,1225-1233,1235-1246,1420-1423,1425-1427,1429-1430,1432-1455,1457-1459,1461-1462,1464-1494,1496-1498,1500-1501,1503-1656,1748-1749,1751-1780,1785-1786,1788-1939,1946,1953,1962,1969
+  s_624d811dcaeb04::t_4441430ffa8b4b 46-49,188,1087,1090,1118,1134,1137,1166,1182,1185,1214,1221,1224,1234,1424,1428,1431,1456,1460,1463,1495,1499,1502
+  s_d40d6b92de7460::t_48648d7e76df94 502-514,527,531-539,541,1709,2060,2075
+packages/core/src/database/types.ts
+  s_e14ab465aa9f22::t_1a86691b28c4b1 145-182,610-612
+  s_aaa0f101de5545::t_6f19d3ef8f7c3c 105,122,198-245,614-615
+packages/core/src/media/usage/cleanup.ts
+  s_e14ab465aa9f22::t_3e2e185165fa29 1-16,18-49,51-53,55-72,74-75,77-79,81-83,85-100,102-107,109-110,111,113,115-120,122-123,124,126,128-133,135-136,140,149-154,156-262,264,266-305
+  s_624d811dcaeb04::t_59f129cb917170 54,76,80,84,101,108,112,114,121,125,127,134,137-139
+packages/core/src/cleanup.ts
+  s_e14ab465aa9f22::t_704e1e521301b2 20,34,62,138-144
+.changeset/cleanup-media-usage-generations.md
+  s_e14ab465aa9f22::t_be231fcfb486ab 1-5
+.opencode/memory/active/media-usage-index-used-in/implementation/STEP_1.md
+  s_8d2eb49104f369::t_88e0b20b84974a 1-31
+packages/core/src/database/migrations/062_media_usage_incremental_work.ts
+  s_8d2eb49104f369::t_b8c9c45524aed2 1-429
+packages/core/src/media/usage/capture-triggers.ts
+  s_8d2eb49104f369::t_9a6e8e222666bf 1-520
+packages/core/tests/integration/database/media-usage-capture-trigger.test.ts
+  s_8d2eb49104f369::t_42764608355d51 1-270,272-426
+packages/core/tests/integration/database/media-usage-incremental-work-migration.test.ts
+  s_8d2eb49104f369::t_240efdf8f61339 1-26,28-52,54-194,196-237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dba83647f2e3fa4c8e5430e084f939a3d46999df",
+  "prompts": {},
+  "sessions": {
+    "s_624d811dcaeb04": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc375-b01f-7471-bea8-14e814f28ffe",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_635462d03ba7bd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd27f-ea1d-7753-8727-531c76a45f2b",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_87680d8f12f553": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_02d87dd3effe2aka3Nny6uVgzH",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_aaa0f101de5545": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_02d7fe7adffeCToaQjdh6A5tpv",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_cc9dc2a14a8281": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8e9d-b3ec-7c32-9e56-c9142a5bafea",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_d40d6b92de7460": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_03cae6196ffe50l0cLlmFVE926",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_db9d1563e8e15a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0479495ceffe8xHZV3wAQZpEMC",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_e14ab465aa9f22": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc20d-8525-7ec3-bf8a-dd5142ac90be",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+packages/core/tests/integration/smoke/site-matrix-smoke.test.ts
+  s_3291003d59bc7f::t_f97d74d051b38b 2,310,313-317
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7bcd71fa5f1c096d0fcee5cf85806217acb409b0",
+  "prompts": {},
+  "sessions": {
+    "s_3291003d59bc7f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0541d-c568-7fb0-96e1-c146f3278641",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

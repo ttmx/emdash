@@ -1,0 +1,29 @@
+packages/cloudflare/tests/worker-scheduled.test.ts
+  s_f8532f0b8288f2::t_86b79e444664e8 237-250,259-262
+packages/cloudflare/src/worker.ts
+  s_97e3674bdac896::t_45d22de5b314ae 17,122-131,135,137-145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "30b61360220384d72ff003e0faade4e879aacf3f",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+packages/admin/src/components/editor/ImageNode.tsx
+  s_81559e1657885a::t_c1dd6bde661c88 50-57,85-92,183-184,201
+packages/admin/tests/editor/image-selection.test.tsx
+  s_81559e1657885a::t_6c6072aefb17a6 1-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "06acb51042f79314ffc031c60bfadc8afff4b8ba",
+  "prompts": {},
+  "sessions": {
+    "s_81559e1657885a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a007ed-37b8-70d3-9e6a-0ecdbabc0900",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+packages/core/tests/integration/runtime/manifest-sandbox-availability.test.ts
+  s_a1a4b81b2d5551::t_03f02daf0b23db 49,62,72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "83a3a3fa2a1c62bc46b291a71398afc3b34243d5",
+  "prompts": {},
+  "sessions": {
+    "s_a1a4b81b2d5551": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fdc64-e126-7693-9aba-0f66a6a01056",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

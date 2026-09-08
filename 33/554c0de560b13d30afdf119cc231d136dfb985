@@ -1,0 +1,19 @@
+packages/admin/src/components/BylineCreditsEditor.tsx
+  s_2475d4feb449ab::t_f4495e6fbc6c13 806-809,813-816,821-825
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "33554c0de560b13d30afdf119cc231d136dfb985",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

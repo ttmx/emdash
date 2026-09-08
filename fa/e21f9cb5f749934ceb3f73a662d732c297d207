@@ -1,0 +1,23 @@
+packages/admin/tests/components/settings/MediaUsageSettings.test.tsx
+  s_97e3674bdac896::t_bf6328ef141d0b 78-80
+packages/core/src/astro/middleware.ts
+  s_97e3674bdac896::t_9d223aa74a4955 294-305
+packages/core/src/database/repositories/media-usage.ts
+  s_97e3674bdac896::t_424513d13a0811 739-740,755-770,901-902,917-932,2996,3016,3033-3040,3061-3062,3080-3081,3178-3179,3190-3191
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fae21f9cb5f749934ceb3f73a662d732c297d207",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

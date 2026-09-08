@@ -1,0 +1,55 @@
+docs/technical-specs/issue-2361-code-block-highlighting.md
+  s_cd3ee911dc3a75::t_56099ad82985e4 1-308
+e2e/global-setup.ts
+  s_45674ba454ddc8::t_5bf2a00ed4bc40 260-284
+e2e/tests/code-block-highlighting.spec.ts
+  s_cd3ee911dc3a75::t_f8ef15d077155b 1-20
+packages/admin/package.json
+  s_45674ba454ddc8::t_31e842f3e226b0 58,84-85
+packages/admin/src/components/PortableTextEditor.tsx
+  s_45674ba454ddc8::t_a4e288cb8eb625 1017-1020,1023
+packages/admin/src/components/editor/CodeBlockNode.tsx
+  s_45674ba454ddc8::t_2ba76e3a29e605 4,30,33-34,43-60,233,237
+packages/admin/src/styles.css
+  s_cd3ee911dc3a75::t_0a9feac3dddd9d 245-306
+pnpm-lock.yaml
+  s_cd3ee911dc3a75::t_e9a1d4c63d63ff 144-146,246-248,258-260,1201-1203,1279-1284,7553-7561,9525-9528,10039-10041,18070-18077,20858-20859,21333-21338
+packages/admin/tests/editor/CodeBlockNode.test.ts
+  s_8c9ce915612104::t_67fb6023da7921 16,22,25-26,28,42,82-134
+packages/admin/tests/editor/PortableTextEditor.code-block.test.ts
+  s_cd3ee911dc3a75::t_127332330f00f7 1-40
+pnpm-workspace.yaml
+  s_8c9ce915612104::t_d8e579250badfd 121,155,159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "06cd994aa575211fcc2613a657671bd36cca396a",
+  "prompts": {},
+  "sessions": {
+    "s_45674ba454ddc8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024e6-526f-7ac2-ba5a-8597e957ca37",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_8c9ce915612104": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024d1-7411-7020-83d3-10737a6c92ae",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_cd3ee911dc3a75": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024bf-9504-7ac1-82f6-b2729f5f7b95",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

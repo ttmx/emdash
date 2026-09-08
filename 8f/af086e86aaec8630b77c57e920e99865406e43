@@ -1,0 +1,60 @@
+packages/core/src/client/index.ts
+  s_97e3674bdac896::t_77139096ded4db 274-298,909-931
+packages/core/src/api/errors.ts
+  s_81e46038b58f17::t_a9404211d668cb 93-94
+packages/core/src/api/handlers/media-usage-work.ts
+  s_97e3674bdac896::t_20b9aff4c21bd8 6,13-16,70-139
+packages/core/src/api/openapi/document.ts
+  s_81e46038b58f17::t_e1c09f26a73c4c 43-46,849-897
+packages/core/tests/integration/database/media-usage-collection-deletion-operator.test.ts
+  s_81e46038b58f17::t_e0e7dfd550311b 1-85
+.changeset/safe-collection-deletion.md
+  s_81e46038b58f17::t_c12c4a1c9d45ca 1-5
+packages/core/src/astro/routes/api/admin/media-usage/collection-deletions/index.ts
+  s_97e3674bdac896::t_22932716e4d8e6 1-22
+packages/core/tests/workerd/media-usage-collection-deletion-d1.test.ts
+  s_97e3674bdac896::t_1a6a8750976d1a 185-291,309-366
+docs/src/content/docs/reference/rest-api.mdx
+  s_81e46038b58f17::t_18cdd6cf2de18a 435-458
+packages/core/src/astro/integration/routes.ts
+  s_97e3674bdac896::t_2f4642b1107494 261-268
+packages/core/tests/integration/database/media-usage-collection-deletion-processor.test.ts
+  s_97e3674bdac896::t_ad9f1b2e580111 220-259
+packages/core/tests/unit/api/media-usage-collection-deletion-route.test.ts
+  s_81e46038b58f17::t_32a5ac282cc75c 1-55
+packages/core/src/astro/routes/api/admin/media-usage/collection-deletions/retry.ts
+  s_97e3674bdac896::t_397f79acfb50ba 1-22
+packages/core/src/api/schemas/media-usage.ts
+  s_97e3674bdac896::t_c8a98162afa237 185-227,235-246
+packages/core/src/media/usage/collection-deletion.ts
+  s_97e3674bdac896::t_d6532a025b1ccc 5-9,18,52-69,157,196-282,575,794-810
+  s_97e3674bdac896::t_ed24e09933da06 148-153,566-571
+  s_97e3674bdac896::t_0314e6d23f42a2 147
+  s_97e3674bdac896::t_11ae344e19aa3f 154-156
+  s_97e3674bdac896::t_85fab1adbc0e47 565
+  s_97e3674bdac896::t_39418f19b91548 572-574
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8faf086e86aaec8630b77c57e920e99865406e43",
+  "prompts": {},
+  "sessions": {
+    "s_81e46038b58f17": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fec52-49c2-7e21-9130-aee6df703d39",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

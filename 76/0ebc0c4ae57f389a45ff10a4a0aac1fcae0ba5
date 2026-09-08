@@ -1,0 +1,21 @@
+packages/core/src/client/index.ts
+  s_2475d4feb449ab::t_70ecbd0170b065 214-215
+packages/core/tests/unit/client/client.test.ts
+  s_2475d4feb449ab::t_1d0b228d739fcd 762-764,789-794
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "760ebc0c4ae57f389a45ff10a4a0aac1fcae0ba5",
+  "prompts": {},
+  "sessions": {
+    "s_2475d4feb449ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03089-610c-72b3-8e15-32c53948da17",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

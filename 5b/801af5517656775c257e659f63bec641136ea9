@@ -1,0 +1,19 @@
+packages/admin/tests/components/TaxonomySidebar.test.tsx
+  s_81559e1657885a::t_2fad3e23825de3 88-92,161,174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5b801af5517656775c257e659f63bec641136ea9",
+  "prompts": {},
+  "sessions": {
+    "s_81559e1657885a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a007ed-37b8-70d3-9e6a-0ecdbabc0900",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

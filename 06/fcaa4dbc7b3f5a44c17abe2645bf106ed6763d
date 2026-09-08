@@ -1,0 +1,60 @@
+packages/admin/src/components/settings/SocialSettings.tsx
+  s_db9d1563e8e15a::t_ffc222773ea090 106
+packages/admin/src/components/settings/GeneralSettings.tsx
+  s_97e3674bdac896::t_90ce30b1911feb 135
+packages/admin/tests/components/settings/BackupSettings.test.tsx
+  s_db9d1563e8e15a::t_867f72315f0cab 126,128-130,176
+packages/admin/src/components/settings/ApiTokenSettings.tsx
+  s_97e3674bdac896::t_c426d060e667af 211,497,511
+packages/admin/tests/components/settings/SocialSettings.test.tsx
+  s_8d2eb49104f369::t_6a1cf5f4664519 81
+  s_8d2eb49104f369::t_857cca3eda3cc1 125-139
+packages/admin/src/components/settings/SeoSettings.tsx
+  s_8d2eb49104f369::t_d37f2c2047d16d 134
+packages/admin/tests/components/Settings.test.tsx
+  s_db9d1563e8e15a::t_b4492a88588dd6 69-71,103-105,116
+packages/admin/tests/components/settings/AllowedDomainsSettings.test.tsx
+  s_db9d1563e8e15a::t_5ddae54a9bb431 92
+.changeset/refine-settings-pages.md
+  s_8d2eb49104f369::t_06942f2c67f8c2 1-5
+packages/admin/src/components/settings/BackupSettings.tsx
+  s_8d2eb49104f369::t_94a31b3c1c9317 202,233-237,244
+packages/admin/tests/components/settings/ApiTokenSettings.test.tsx
+  s_8d2eb49104f369::t_0a318904176716 155-171
+packages/admin/tests/components/settings/GeneralSettings.test.tsx
+  s_8d2eb49104f369::t_b6532ecb974e32 162-176
+packages/admin/tests/components/settings/SeoSettings.test.tsx
+  s_8d2eb49104f369::t_d8602293ed1db0 133-139,152-154,177-195,199-201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "06fcaa4dbc7b3f5a44c17abe2645bf106ed6763d",
+  "prompts": {},
+  "sessions": {
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_db9d1563e8e15a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0479495ceffe8xHZV3wAQZpEMC",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

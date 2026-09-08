@@ -1,0 +1,50 @@
+docs/src/content/docs/guides/media-library.mdx
+  s_8e30c3be547b84::t_f9bc52c2a7291a 23-25
+.changeset/fast-media-usage-backfill.md
+  s_3e8fc308d8a272::t_ed2be514ae58ed 6
+docs/src/content/docs/deployment/cloudflare.mdx
+  s_d16d84f5f0805b::t_b09e63e54fef3c 84,97,139-141,144,150-157
+.changeset/media-usage-activation-ui.md
+  s_3e8fc308d8a272::t_b0573b98763f91 6
+packages/core/src/media/usage/activation.ts
+  s_97e3674bdac896::t_8442287602f6e3 421-424,430,435
+  s_d16d84f5f0805b::t_9771e17642c365 418-420
+packages/core/tests/integration/database/media-usage-read-repository.test.ts
+  s_3e8fc308d8a272::t_f7f90b2dc43868 378,397,410,428,440,462,473,485
+docs/src/content/docs/deployment/nodejs.mdx
+  s_8e30c3be547b84::t_2e67757851b75a 71-78
+docs/src/content/docs/reference/rest-api.mdx
+  s_d16d84f5f0805b::t_fc782f5ce27627 374-376,392,405-411,426-429,432-435,452-455
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "11361ec9748e0925096edbd9ce053df04198c1d2",
+  "prompts": {},
+  "sessions": {
+    "s_3e8fc308d8a272": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a014f4-f829-7c42-99cd-3bec947abf80",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_8e30c3be547b84": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a00ad4-f52f-7090-baa3-5ecfed42931f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_d16d84f5f0805b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01567-8907-77b2-b349-6119675cbd0b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

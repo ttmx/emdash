@@ -1,0 +1,45 @@
+packages/admin/src/components/ContentPickerModal.tsx
+  s_0f09f26b06bbd0::t_ce6ea243f7b80e 10,18,186-191,205
+packages/admin/src/components/ContentSettingsPanel.tsx
+  s_0f09f26b06bbd0::t_622ce19b73a440 38,460-463
+packages/admin/tests/components/ContentSettingsPanel.test.tsx
+  s_0f09f26b06bbd0::t_b1e43440baf326 137-155
+packages/admin/tests/components/ContentStatusBadge.test.tsx
+  s_8d2eb49104f369::t_9d40b6eae65c32 1-65
+.changeset/normalize-publish-labels.md
+  s_0f09f26b06bbd0::t_bc00df80f23329 5
+packages/admin/src/components/ContentList.tsx
+  s_0f09f26b06bbd0::t_412a19a2522216 36-41,735,742-743,767-773,778,1173,1177-1178,1182-1185
+packages/admin/src/components/ContentStatusBadge.tsx
+  s_0f09f26b06bbd0::t_fce190e7e3d4b6 1-121
+packages/admin/src/components/Dashboard.tsx
+  s_0f09f26b06bbd0::t_b914893bbadce5 4,14-18,22-31,260,266,268,294,357-367
+packages/admin/tests/components/ContentList.test.tsx
+  s_0f09f26b06bbd0::t_d0303a778442ff 162-168,170,172,175,182,184,187,203,213-214,227-252
+packages/admin/tests/components/Dashboard.test.tsx
+  s_0f09f26b06bbd0::t_3511af08539dd1 117-161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e0794d79c754ab01134be31699f0c72f1e148b36",
+  "prompts": {},
+  "sessions": {
+    "s_0f09f26b06bbd0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fcec9-8191-7381-aa6d-db9c29b859e1",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

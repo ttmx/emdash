@@ -1,0 +1,21 @@
+packages/core/src/components/InlinePortableTextEditor.tsx
+  s_ba5b69c70266ab::t_68251555c9136c 418,2010,2055-2056
+packages/core/src/content/converters/portable-text-to-prosemirror.ts
+  s_ba5b69c70266ab::t_950b546326aa10 85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9cfbb34ede2e748fdaf170093d0247106a7299b0",
+  "prompts": {},
+  "sessions": {
+    "s_ba5b69c70266ab": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd36d-1bcd-79d1-ab90-63ade35e2a95",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

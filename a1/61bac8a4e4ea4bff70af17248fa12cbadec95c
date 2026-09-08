@@ -1,0 +1,29 @@
+packages/admin/tests/components/settings/EmailSettings.test.tsx
+  s_8d2eb49104f369::t_5dc6969d020046 1-138
+packages/admin/src/components/settings/EmailSettings.tsx
+  s_0f09f26b06bbd0::t_de43cb07d8d363 8,10,20,52-53,58-60,63-71,77-84,89-130,132,143-156,161-175,177,180-197,199,203-210,212
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a161bac8a4e4ea4bff70af17248fa12cbadec95c",
+  "prompts": {},
+  "sessions": {
+    "s_0f09f26b06bbd0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fcec9-8191-7381-aa6d-db9c29b859e1",
+        "model": "unknown"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    },
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

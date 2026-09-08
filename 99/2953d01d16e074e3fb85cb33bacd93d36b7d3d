@@ -1,0 +1,21 @@
+packages/core/tests/integration/database/media-usage-cleanup-plan.test.ts
+  s_624d811dcaeb04::t_e6d44063b8eb0b 19-21,74,76-78,144-159,161-163
+packages/core/tests/integration/database/media-usage-cleanup.test.ts
+  s_624d811dcaeb04::t_ca68dbdf8918d4 286-290
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "992953d01d16e074e3fb85cb33bacd93d36b7d3d",
+  "prompts": {},
+  "sessions": {
+    "s_624d811dcaeb04": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc375-b01f-7471-bea8-14e814f28ffe",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+.changeset/fast-media-usage-backfill.md
+  s_97e3674bdac896::t_a516ed7daa38d4 5
+.changeset/media-usage-activation-ui.md
+  s_97e3674bdac896::t_cf0dee819debd9 6
+.changeset/remove-media-usage-scheduled-recovery.md
+  s_97e3674bdac896::t_289793d82b487a 6,10,14
+docs/src/content/docs/deployment/cloudflare.mdx
+  s_97e3674bdac896::t_fa88f6e0b621c6 97,99
+docs/src/content/docs/guides/media-library.mdx
+  s_97e3674bdac896::t_660a2a7ea347e8 19,21-30,33-34
+docs/src/content/docs/reference/rest-api.mdx
+  s_97e3674bdac896::t_ee0bf4591ef7c2 257,262,316,367,369,373,383,405,473,512,537-538,564
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "263d780651051ad59f24307a3ecc954b68c8cc13",
+  "prompts": {},
+  "sessions": {
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

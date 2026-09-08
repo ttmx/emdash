@@ -1,0 +1,29 @@
+.changeset/direct-media-batches.md
+  s_cc7e34f3d62043::t_713be37e9ef0d0 5
+docs/src/content/docs/guides/media-library.mdx
+  s_d16d84f5f0805b::t_f3a905f60a9b95 23,25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2845347a610e50aa1eec387177b18bed46de045b",
+  "prompts": {},
+  "sessions": {
+    "s_cc7e34f3d62043": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0195a-0943-76c2-bcf5-479571e61ad4",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_d16d84f5f0805b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01567-8907-77b2-b349-6119675cbd0b",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

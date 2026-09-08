@@ -1,0 +1,33 @@
+packages/core/src/astro/routes/api/auth/me.ts
+  s_1b3cce2445b615::t_10f6c91cd9a567 18,24-35,39
+packages/core/tests/unit/auth/me-welcome-dismiss.test.ts
+  s_1b3cce2445b615::t_ae49cad1070573 19,38,60,67,75-97
+.changeset/fix-playground-welcome-dismissal.md
+  s_04675d80e48a6b::t_66f280a62c1cc9 1-5
+docs/technical-specs/issue-2595-welcome-modal-dismissal.md
+  s_04675d80e48a6b::t_89e9b53fa76374 1-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "20ed39b4dbf61381c685c612ef672f06a9cef0a3",
+  "prompts": {},
+  "sessions": {
+    "s_04675d80e48a6b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02505-b256-76c1-ba35-f2981f618831",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_1b3cce2445b615": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a024e8-30c2-7600-b4fa-6e8b16a45312",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

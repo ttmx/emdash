@@ -1,0 +1,39 @@
+packages/cloudflare/src/db/d1.ts
+  s_81e46038b58f17::t_58f9c230c5d0e5 169,225
+packages/cloudflare/src/db/do-sql-class.ts
+  s_97e3674bdac896::t_5f089efa8dab0f 220
+packages/cloudflare/tests/db/do-sql-collection-deletion.test.ts
+  s_81e46038b58f17::t_f88e45a6fc8f62 104-105,113-115,138
+packages/core/src/media/usage/collection-deletion.ts
+  s_81e46038b58f17::t_5050b0fa7f9e6e 436-445,672-674
+packages/core/tests/integration/database/media-usage-collection-deletion-lifecycle.test.ts
+  s_97e3674bdac896::t_748f496e48289b 114-126
+packages/core/tests/integration/database/media-usage-incremental-work-migration.test.ts
+  s_97e3674bdac896::t_971f56ab0f21f1 51-65
+packages/core/tests/workerd/media-usage-collection-deletion-d1.test.ts
+  s_81e46038b58f17::t_3a22827f1f38de 104-105,161
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "966770e4c1b30156bcc6b5745ddd40cae02f62ea",
+  "prompts": {},
+  "sessions": {
+    "s_81e46038b58f17": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fec52-49c2-7e21-9130-aee6df703d39",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_97e3674bdac896": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc72b-55cd-7a91-afb2-371592f75474",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

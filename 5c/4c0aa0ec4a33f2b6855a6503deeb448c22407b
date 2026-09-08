@@ -1,0 +1,19 @@
+packages/core/tests/unit/db/migration-executors.test.ts
+  s_681f8ac6d2160d::t_abcbac3de812cb 83,122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5c4c0aa0ec4a33f2b6855a6503deeb448c22407b",
+  "prompts": {},
+  "sessions": {
+    "s_681f8ac6d2160d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03f61-517c-74e3-a368-e5bf63b7ac62",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

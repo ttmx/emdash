@@ -1,0 +1,19 @@
+docs/src/content/docs/guides/media-library.mdx
+  s_6d0f8013b13b34::t_b0ed8c710271d7 41-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "29b540c75c12302b111fc7f5a44ca4e3de6db6d9",
+  "prompts": {},
+  "sessions": {
+    "s_6d0f8013b13b34": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01a75-e5c4-7811-8c4c-da439ba8fad3",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

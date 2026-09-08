@@ -1,0 +1,35 @@
+e2e/tests/media-library.spec.ts
+  s_f8532f0b8288f2::t_1a984615cef4a5 202-226,396-406
+packages/admin/src/components/MediaFolderDialog.tsx
+  s_f8532f0b8288f2::t_95d10f134994a5 144-151,154,165,170
+packages/admin/src/components/MediaLibrary.tsx
+  s_f8532f0b8288f2::t_5bd531b8b8882e 596-599,1244
+packages/admin/tests/components/MediaFolderDialog.test.tsx
+  s_202b6e3937f527::t_122fb8c06cae98 57
+packages/admin/tests/components/MediaLibrary.test.tsx
+  s_202b6e3937f527::t_6aa85c2cfc806c 134-143,275,434,448,468,525,654
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6914713af600a9869606ad9febdf771d5b361d06",
+  "prompts": {},
+  "sessions": {
+    "s_202b6e3937f527": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02131-bc26-71b2-bbac-02e6cb5fe95f",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    },
+    "s_f8532f0b8288f2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a01e6c-2168-7741-9567-e8319988a72d",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

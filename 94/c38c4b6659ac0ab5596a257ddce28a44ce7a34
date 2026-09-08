@@ -1,0 +1,19 @@
+.changeset/align-editor-sidebar-handles.md
+  s_d45998f6731739::t_e8471a8873f524 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "94c38c4b6659ac0ab5596a257ddce28a44ce7a34",
+  "prompts": {},
+  "sessions": {
+    "s_d45998f6731739": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff629-861b-7db2-808a-08018fb528e7",
+        "model": "unknown"
+      },
+      "human_author": "khoinguyenpham04 <137921741+khoinguyenpham04@users.noreply.github.com>"
+    }
+  }
+}

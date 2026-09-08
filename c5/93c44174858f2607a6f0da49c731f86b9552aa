@@ -1,0 +1,23 @@
+packages/admin/tests/components/settings/SocialSettings.test.tsx
+  s_8d2eb49104f369::t_6a1cf5f4664519 1-155
+packages/admin/src/components/settings/SeoSettings.tsx
+  s_8d2eb49104f369::t_2a89d9796d3162 7-15,17,21,23-34,41-45,52,56-59,62-66,69-70,117-119,122-128,130-143,148-165,167,170,172-178,180,185,189,192-194,198,206,226,229-231,233-237,239,242,244-245,247,250,252-259,261,267-268,271-276,280,287,289
+packages/admin/tests/components/settings/SeoSettings.test.tsx
+  s_8d2eb49104f369::t_27ba70f5c0345e 1-257
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c593c44174858f2607a6f0da49c731f86b9552aa",
+  "prompts": {},
+  "sessions": {
+    "s_8d2eb49104f369": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fccd9-76cb-7602-8dd3-bd8fe850f2e9",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Noah Pham <ptknguyen04@gmail.com>"
+    }
+  }
+}

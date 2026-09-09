@@ -1,0 +1,59 @@
+.changeset/shared-plugin-route-options.md
+  s_5f237535336907::t_a231a981f66b60 1-7
+packages/core/src/cli/commands/bundle-utils.ts
+  s_e3bd32146078c5::t_e83b23d617fe26 14,162-163
+packages/core/src/cli/commands/bundle.ts
+  s_e3bd32146078c5::t_98c14e24cdc322 20,309
+packages/core/src/plugin-types.ts
+  s_e3bd32146078c5::t_3b1837eb2f770b 42,213,217
+packages/core/src/plugins/adapt-sandbox-entry.ts
+  s_e3bd32146078c5::t_9f33e06b502959 108-111,113-114,205,207
+packages/core/src/plugins/manifest-schema.ts
+  s_e3bd32146078c5::t_f9406cc0520ac1 16-19,21,135-138,148,319
+packages/core/src/plugins/routes.ts
+  s_e3bd32146078c5::t_928bc0d9d429a6 11-12,58,67
+packages/core/src/plugins/types.ts
+  s_e3bd32146078c5::t_45f037cbceba95 14,1227
+packages/core/tests/unit/plugins/route-contract.test.ts
+  s_5f237535336907::t_822dc3b5fdd663 1-43
+packages/plugin-cli/src/build/pipeline.ts
+  s_e3bd32146078c5::t_8834f26436b764 41-42,486
+packages/plugin-cli/src/build/probe-schema.ts
+  s_e3bd32146078c5::t_b7fa1e93f1769b 27,90-95
+packages/plugin-cli/src/bundle/types.ts
+  s_e3bd32146078c5::t_449b2a7e3a2f10 36,75
+packages/plugin-cli/src/bundle/utils.ts
+  s_e3bd32146078c5::t_67449a0e2a3a8f 15,156-157
+packages/plugin-cli/tests/bundle.test.ts
+  s_e3bd32146078c5::t_eb50386248f51c 1,60-76
+packages/plugin-types/src/index.ts
+  s_e3bd32146078c5::t_f5ecbd14f1043c 308-315
+packages/plugin-types/src/manifest-schema.ts
+  s_e3bd32146078c5::t_08b1cffefd7bb7 13-15,291
+packages/plugin-types/src/routes.ts
+  s_e3bd32146078c5::t_c0fe7eacd1408b 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1105fb707650f0f3c038b2acc2c23a19386aac3d",
+  "prompts": {},
+  "sessions": {
+    "s_5f237535336907": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a086df-72e4-7c00-a871-6b9918d71019",
+        "model": "unknown"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    },
+    "s_e3bd32146078c5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a086b2-07a5-7723-805c-87a1a2400580",
+        "model": "unknown"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

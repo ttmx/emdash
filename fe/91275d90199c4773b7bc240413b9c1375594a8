@@ -1,0 +1,79 @@
+.changeset/raw-plugin-http.md
+  s_e3bd32146078c5::t_c4e99ef5698a58 1-17
+docs/src/content/docs/plugins/creating-plugins/api-routes.mdx
+  s_e3bd32146078c5::t_61fba5f9480770 281-306,321,327,354,376,381-430,617
+packages/cloudflare/src/sandbox/wrapper.ts
+  s_e3bd32146078c5::t_c302fbd52b447a 264-272,275
+packages/core/src/astro/routes/api/plugins/[pluginId]/[...path].ts
+  s_e3bd32146078c5::t_b0543477e51c2a 98-108
+packages/core/src/emdash-runtime.ts
+  s_5f237535336907::t_dedd7b7dd6e893 3816,3824-3830,4332-4333,4343
+packages/core/src/plugin-types.ts
+  s_e3bd32146078c5::t_c4982568ba9147 177,179-181,199-200,202-203,211-228
+packages/core/src/plugins/adapt-sandbox-entry.ts
+  s_e3bd32146078c5::t_af4563aaa32371 114-115
+packages/core/src/plugins/define-plugin.ts
+  s_5f237535336907::t_35a29642e5f1be 219-220
+packages/core/src/plugins/routes.ts
+  s_e3bd32146078c5::t_a48f6ca4c881a1 16,43,69,94-99,242,297
+packages/core/src/plugins/sandbox/types.ts
+  s_e3bd32146078c5::t_d0d5937fcd84ae 151,167,192-196
+packages/core/src/plugins/types.ts
+  s_e3bd32146078c5::t_5f0751e30b0efc 1204,1229-1231,1235-1243,1435
+packages/core/tests/fixtures/plugins/body-modes.ts
+  s_e3bd32146078c5::t_3691e251ce126b 1-24
+packages/core/tests/integration/runtime/plugin-raw-routes.test.ts
+  s_e3bd32146078c5::t_51916fd4ab3cf2 1-237
+packages/core/tests/unit/astro/plugin-api-route-cache.test.ts
+  s_e3bd32146078c5::t_5b70d2b49b84d0 9,84-148
+packages/core/tests/unit/plugins/route-contract.test.ts
+  s_5f237535336907::t_e8816d60a2ceb1 9
+packages/core/tests/unit/plugins/route-input.test-d.ts
+  s_e3bd32146078c5::t_99f538ec558f1a 1-135
+packages/core/tests/unit/plugins/routes.test.ts
+  s_e3bd32146078c5::t_fe851b775bb137 762-786
+packages/core/tests/utils/body-mode-plugin.ts
+  s_e3bd32146078c5::t_78737e56ea1110 1-24
+packages/core/tsconfig.type-tests.json
+  s_e3bd32146078c5::t_f1b1798f22a094 1-6
+packages/core/vitest.config.ts
+  s_e3bd32146078c5::t_6066a215d469da 43
+packages/plugin-cli/tests/bundle.test.ts
+  s_5f237535336907::t_bd89bf846fbcce 66,72
+packages/plugin-types/src/routes.ts
+  s_5f237535336907::t_463e688bc6a713 4-5
+packages/workerd/src/sandbox/dev-runner.ts
+  s_e3bd32146078c5::t_f23d6659ec1446 32,301-305,320
+packages/workerd/src/sandbox/route-response.ts
+  s_e3bd32146078c5::t_1a579a430fae3a 1-44
+packages/workerd/src/sandbox/runner.ts
+  s_e3bd32146078c5::t_26c9b79a4e9c79 50,994-998,1013
+packages/workerd/src/sandbox/wrapper.ts
+  s_e3bd32146078c5::t_8e2471d31f3d95 450-451,465-473,478,485-492
+packages/workerd/test/raw-routes.test.ts
+  s_e3bd32146078c5::t_30398ee398b2bd 1-203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fe91275d90199c4773b7bc240413b9c1375594a8",
+  "prompts": {},
+  "sessions": {
+    "s_5f237535336907": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a086df-72e4-7c00-a871-6b9918d71019",
+        "model": "unknown"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    },
+    "s_e3bd32146078c5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a086b2-07a5-7723-805c-87a1a2400580",
+        "model": "unknown"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

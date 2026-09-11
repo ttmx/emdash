@@ -1,35 +1,49 @@
 packages/plugin-cli/src/build/probe-schema.ts
   s_e3bd32146078c5::t_b7fa1e93f1769b 27,90-95
+  s_e3bd32146078c5::t_59cfa2e90b2254 27,90-95
 packages/plugin-types/src/index.ts
   s_e3bd32146078c5::t_f5ecbd14f1043c 308-316
+  s_5f237535336907::t_0fa0a04c75fdf0 308-309,311-316
 packages/plugin-cli/src/bundle/utils.ts
   s_e3bd32146078c5::t_67449a0e2a3a8f 15,156-157
+  s_e3bd32146078c5::t_27d170c4f5a513 15,156-157
 packages/core/src/plugin-types.ts
   s_e3bd32146078c5::t_3b1837eb2f770b 42,213,217
+  s_44884d5afa1b2e::t_6deb29efc7a91b 42,213,217
 packages/core/src/plugins/adapt-sandbox-entry.ts
   s_e3bd32146078c5::t_9f33e06b502959 108-111,113-114,205,207
+  s_e3bd32146078c5::t_9c8eae5578f94b 108-111,113-114,205,207
 packages/plugin-cli/src/build/pipeline.ts
   s_e3bd32146078c5::t_8834f26436b764 41-42,486
+  s_5f237535336907::t_2048ab8eba22f2 42
 packages/core/src/plugins/manifest-schema.ts
   s_e3bd32146078c5::t_f9406cc0520ac1 16-19,21,135-138,148,319
+  s_e3bd32146078c5::t_680d4197eab7c5 16-19,21,135-138,148,319
 packages/plugin-types/src/routes.ts
   s_e3bd32146078c5::t_c0fe7eacd1408b 1-35
+  s_5f237535336907::t_20c700a04efae0 1-22,29-35
 packages/core/src/plugins/routes.ts
   s_e3bd32146078c5::t_928bc0d9d429a6 11-12,58,67
+  s_e3bd32146078c5::t_aebeee89508afd 11-12,58,67
 packages/plugin-types/src/manifest-schema.ts
   s_e3bd32146078c5::t_08b1cffefd7bb7 13-15,291
+  s_e3bd32146078c5::t_1807611c4f8f4b 13-15,291
 packages/core/src/cli/commands/bundle.ts
   s_e3bd32146078c5::t_98c14e24cdc322 20,309
 .changeset/shared-plugin-route-options.md
   s_5f237535336907::t_a231a981f66b60 1-7
+  s_5f237535336907::t_e090edd4e35d6c 1-7
 packages/plugin-cli/src/bundle/types.ts
   s_e3bd32146078c5::t_449b2a7e3a2f10 36,75
+  s_e3bd32146078c5::t_48809977f3b40c 36,75
 packages/core/src/cli/commands/bundle-utils.ts
   s_e3bd32146078c5::t_e83b23d617fe26 14,162-163
+  s_e3bd32146078c5::t_920a764fb6b381 14,162-163
 packages/core/src/plugins/types.ts
   s_e3bd32146078c5::t_45f037cbceba95 14,1227
 packages/plugin-cli/tests/bundle.test.ts
   s_e3bd32146078c5::t_eb50386248f51c 1,60-76
+  s_5f237535336907::t_b1e105b471c978 1,60-76
 packages/core/tests/unit/plugins/route-contract.test.ts
   s_5f237535336907::t_822dc3b5fdd663 1-43
 packages/plugin-types/tests/routes.test.ts
@@ -41,6 +55,14 @@ packages/plugin-types/tests/routes.test.ts
   "base_commit_sha": "ea512415c0fccf4d31acf527550481fb959fac6d",
   "prompts": {},
   "sessions": {
+    "s_44884d5afa1b2e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08bff-655c-7943-8ea7-1404eb9e653c",
+        "model": "unknown"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    },
     "s_5f237535336907": {
       "agent_id": {
         "tool": "codex",

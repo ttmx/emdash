@@ -1,7 +1,41 @@
+pnpm-lock.yaml
+  s_3244387a227a8a::t_975819ee308301 94-95,426,432,475,481,487,512,515,604,635,641,693,705,720,759,787,790,796,830,882,925,977,1020,1045,1088,1118,2550,2624,2686,2748
+packages/cloudflare/src/plugins/ai-search.ts
+  s_29a21ba77d2cb1::t_b935ef962dfb91 61-67,107,137-138,182,375-379,386,725,729-730,732-733,735-736,743,745,748,761,788-797,800-801,820,844
+pnpm-workspace.yaml
+  s_1498a7985068c5::t_d18934bbcb8f5d 106
+packages/cloudflare/src/plugins/ai-search-operations.ts
+  s_1498a7985068c5::t_b68b4bbf9d9072 1-49
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.10",
   "base_commit_sha": "707e606f2121f54c0892ce57520496ddc3e951eb",
-  "prompts": {}
+  "prompts": {},
+  "sessions": {
+    "s_1498a7985068c5": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019fd894-6d9b-7426-a3a7-3e62328260f7",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    },
+    "s_29a21ba77d2cb1": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019fdcb5-cfb3-76f8-9876-330936d2ec11",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    },
+    "s_3244387a227a8a": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019fd8c3-5eeb-70bc-8fe5-73fb51c29205",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
 }

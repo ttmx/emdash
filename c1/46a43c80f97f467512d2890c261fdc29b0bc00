@@ -1,7 +1,22 @@
+packages/cloudflare/src/plugins/ai-search.ts
+  s_29a21ba77d2cb1::t_b935ef962dfb91 1134-1158,1160-1183,1185-1195,1220
+  s_29a21ba77d2cb1::t_024f8261d0fb7e 1196-1198
+  s_29a21ba77d2cb1::t_29b5f40df98025 1217-1219
+  s_29a21ba77d2cb1::t_0276ad73fc5388 1221-1223
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.10",
   "base_commit_sha": "c146a43c80f97f467512d2890c261fdc29b0bc00",
-  "prompts": {}
+  "prompts": {},
+  "sessions": {
+    "s_29a21ba77d2cb1": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019fdcb5-cfb3-76f8-9876-330936d2ec11",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
 }

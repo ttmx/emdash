@@ -1,0 +1,19 @@
+apps/release-action/dist/index.js
+  s_bb0b701cbae3fe::t_9af2b88c6f6460 1123-1124,1173-1179,1223-1225,1364-1365,8007,8091-8092,8306,8522,8581
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d60560f7e7f153c534faefc278cb6f1c4d213e5d",
+  "prompts": {},
+  "sessions": {
+    "s_bb0b701cbae3fe": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f307b12aeffeAS2xr4t7Ps0V2N",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

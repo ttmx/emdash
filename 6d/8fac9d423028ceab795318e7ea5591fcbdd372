@@ -1,0 +1,63 @@
+.changeset/plugin-byline-hooks.md
+  s_bb0b701cbae3fe::t_33eda3490d7395 1-10
+docs/src/content/docs/plugins/creating-plugins/capabilities.mdx
+  s_bb0b701cbae3fe::t_33009929414d61 43
+docs/src/content/docs/plugins/creating-plugins/hooks.mdx
+  s_bb0b701cbae3fe::t_29e0ef34d4d6ad 499-500
+docs/src/content/docs/reference/hooks.mdx
+  s_bb0b701cbae3fe::t_6b56e02d33dc5f 38-39,759-811
+packages/core/src/astro/routes/api/admin/bylines/[id]/index.ts
+  s_bb0b701cbae3fe::t_051daf3e978bc7 11-12,63-67,82-84,88
+packages/core/src/astro/routes/api/admin/bylines/[id]/translations.ts
+  s_bb0b701cbae3fe::t_2619c74f378f59 25-26,89-93
+packages/core/src/astro/routes/api/admin/bylines/index.ts
+  s_bb0b701cbae3fe::t_a3d90def143e0c 11,79-83
+packages/core/src/index.ts
+  s_bb0b701cbae3fe::t_d27fb602e693e1 412-415
+packages/core/src/mcp/server.ts
+  s_bb0b701cbae3fe::t_3be5258d4b9d0c 31,1803-1807,1835-1839,1865-1869,1872
+packages/core/src/plugin-types.ts
+  s_bb0b701cbae3fe::t_dc7ba63c0546de 54-55,145-146,388-390
+packages/core/src/plugins/byline-access.ts
+  s_bb0b701cbae3fe::t_fb76f0ead02fee 30
+packages/core/src/plugins/hooks.ts
+  s_bb0b701cbae3fe::t_bd705e67df999a 15-16,61-62,102-103,159-160,306-307,356-357,1258-1292
+packages/core/src/plugins/index.ts
+  s_bb0b701cbae3fe::t_76d69bd8f089d8 272-275
+packages/core/src/plugins/manifest-schema.ts
+  s_bb0b701cbae3fe::t_f3dfafa042eb47 137-138
+packages/core/src/plugins/types.ts
+  s_bb0b701cbae3fe::t_17ea0af6b30d25 1525-1552,1768-1769,2169-2170
+packages/core/tests/integration/api/byline-hooks.test.ts
+  s_bb0b701cbae3fe::t_ca9a2285422be9 1-171
+packages/core/tests/unit/plugins/hooks.test.ts
+  s_bb0b701cbae3fe::t_60672e313d22bd 844-863
+packages/marketplace/src/routes/author.ts
+  s_bb0b701cbae3fe::t_024143d72027d3 776-777
+packages/plugin-types/src/manifest-schema.ts
+  s_bb0b701cbae3fe::t_0a8fd3a86ef7d0 135-136
+packages/plugins/marketplace-test/README.md
+  s_bb0b701cbae3fe::t_f9e13f9965336e 26,50
+packages/plugins/marketplace-test/src/plugin.ts
+  s_bb0b701cbae3fe::t_8f80d3cdab20db 314-317
+skills/creating-plugins/references/content.md
+  s_bb0b701cbae3fe::t_232c561553eb7f 13
+skills/creating-plugins/references/hooks.md
+  s_bb0b701cbae3fe::t_7c2b12402389c5 47,437-448,590-591
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6d8fac9d423028ceab795318e7ea5591fcbdd372",
+  "prompts": {},
+  "sessions": {
+    "s_bb0b701cbae3fe": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f307b12aeffeAS2xr4t7Ps0V2N",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}

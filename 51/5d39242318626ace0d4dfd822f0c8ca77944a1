@@ -1,0 +1,99 @@
+.changeset/plugin-bylines-read.md
+  s_bb0b701cbae3fe::t_47439221257be3 1-25
+apps/plugins-site/src/lib/registry.ts
+  s_bb0b701cbae3fe::t_6940ab8bd13614 75-78
+docs/src/content/docs/plugins/creating-plugins/api-routes.mdx
+  s_bb0b701cbae3fe::t_f65c554cd20072 600
+docs/src/content/docs/plugins/creating-plugins/capabilities.mdx
+  s_bb0b701cbae3fe::t_c9b0e0dc739e24 43,63,74-89
+docs/src/content/docs/plugins/installing.mdx
+  s_bb0b701cbae3fe::t_8a3d736c4af15e 85
+packages/admin/src/lib/api/marketplace.ts
+  s_bb0b701cbae3fe::t_31fa048be9c8ff 430
+packages/admin/tests/lib/marketplace.test.ts
+  s_bb0b701cbae3fe::t_bd3b0ae67fa990 441
+packages/cloudflare/src/sandbox/bridge-runtime.ts
+  s_bb0b701cbae3fe::t_a2e5b6eb54a42c 4
+packages/cloudflare/src/sandbox/bridge.ts
+  s_bb0b701cbae3fe::t_e6cf3ddd5c8478 1445-1471
+packages/cloudflare/src/sandbox/types.ts
+  s_bb0b701cbae3fe::t_622e65e098f2c5 7-9,386-389
+packages/cloudflare/src/sandbox/wrapper.ts
+  s_bb0b701cbae3fe::t_58fdbd5336a09f 66,275-280,382
+packages/cloudflare/tests/sandbox/bridge-taxonomy.test.ts
+  s_bb0b701cbae3fe::t_f68ee8cfdf9ff2 176-197
+packages/cloudflare/tests/sandbox/wrapper-context.test.ts
+  s_bb0b701cbae3fe::t_57d6de167387d5 33,48
+packages/core/src/bylines/credits.ts
+  s_bb0b701cbae3fe::t_1b8f04af3ead08 1-149
+packages/core/src/bylines/index.ts
+  s_bb0b701cbae3fe::t_1028c1e8e34771 27,156,181-182
+packages/core/src/index.ts
+  s_bb0b701cbae3fe::t_c180fea0193dd4 313,368-372
+packages/core/src/plugins/byline-access.ts
+  s_bb0b701cbae3fe::t_1b307578781ecd 1-158
+packages/core/src/plugins/context.ts
+  s_bb0b701cbae3fe::t_d91dc5d4802af5 46,1717-1718,1815
+packages/core/src/plugins/host.ts
+  s_bb0b701cbae3fe::t_ab649ba7b70a4d 6
+packages/core/src/plugins/index.ts
+  s_bb0b701cbae3fe::t_dba2ce8c735acf 45,211-215
+packages/core/src/plugins/manifest-schema.ts
+  s_bb0b701cbae3fe::t_750b7b9d297fc9 46,404
+packages/core/src/plugins/types.ts
+  s_bb0b701cbae3fe::t_5975502bae1d54 677-736,1051-1053
+packages/core/tests/integration/plugins/byline-access.test.ts
+  s_bb0b701cbae3fe::t_00a44eb424ca00 1-196
+packages/plugin-cli/src/init/templates.ts
+  s_bb0b701cbae3fe::t_affaab6f40524a 436
+packages/plugin-cli/src/manifest/schema.ts
+  s_bb0b701cbae3fe::t_90d6730609ea90 361
+packages/plugin-test/test/registry-inventory.test.ts
+  s_bb0b701cbae3fe::t_a658a255c0dbc0 28,70,451-469,520
+packages/plugin-types/src/declared-access.ts
+  s_bb0b701cbae3fe::t_6cfcd85fe4849e 35
+packages/plugin-types/src/index.ts
+  s_bb0b701cbae3fe::t_737d92125249f4 67-68,220,278,351
+packages/plugin-types/src/manifest-schema.ts
+  s_bb0b701cbae3fe::t_88816e66046200 44,398
+packages/plugins/marketplace-test/README.md
+  s_bb0b701cbae3fe::t_a8e86ca6a16cdf 26,56
+packages/plugins/marketplace-test/emdash-plugin.jsonc
+  s_bb0b701cbae3fe::t_0feee5b091d098 25
+packages/plugins/marketplace-test/src/plugin.ts
+  s_bb0b701cbae3fe::t_ab853eceb44282 1307-1319,1389
+packages/registry-lexicons/lexicons/com/emdashcms/experimental/package/releaseExtension.json
+  s_bb0b701cbae3fe::t_0e88643596e7d4 83-87,267-281
+packages/registry-lexicons/src/generated/types/com/emdashcms/experimental/package/releaseExtension.ts
+  s_bb0b701cbae3fe::t_2cebf5229ffe15 37-56,187-192,584-585,640-641,684-686,758-763
+packages/workerd/src/sandbox/bridge-handler.ts
+  s_bb0b701cbae3fe::t_524ef9e4295eae 22,696-712
+packages/workerd/src/sandbox/wrapper.ts
+  s_bb0b701cbae3fe::t_54fd0cce5b3231 105,494-499,652
+packages/workerd/test/bridge-handler.test.ts
+  s_bb0b701cbae3fe::t_c7d3ee56ec70dc 1080-1092
+packages/workerd/test/workerd-integration.test.ts
+  s_bb0b701cbae3fe::t_03efcc28347c13 18,417-418,980,1017-1023,1047-1052
+packages/workerd/test/wrapper-context.test.ts
+  s_bb0b701cbae3fe::t_8762a8c9ab768a 35
+skills/creating-plugins/SKILL.md
+  s_bb0b701cbae3fe::t_2d2237c3e65b23 63
+skills/creating-plugins/references/content.md
+  s_bb0b701cbae3fe::t_3c1a1dcb030476 13-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "515d39242318626ace0d4dfd822f0c8ca77944a1",
+  "prompts": {},
+  "sessions": {
+    "s_bb0b701cbae3fe": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f307b12aeffeAS2xr4t7Ps0V2N",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "ttmx <git@tteles.dev>"
+    }
+  }
+}
